@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Apex Home</title>
+  <link rel="stylesheet" crossorigin href="/assets/style-CgW9I-0L.css">
+</head>
+<body data-page="Apex-home">
+
+    <section class="font-serif">
+
+      <!-- Top banner -->
+      <header class="flex flex-wrap justify-between items-center container mx-auto bg-white py-4 sm:py-6 px-4 sm:px-6 md:px-8 gap-4 sm:gap-6">
+
+        <!-- Left Side -->
+        <div class="flex flex-col sm:flex-row justify-between items-center gap-4 sm:gap-8 lg:gap-12 w-full lg:w-auto sm:justify-start">
+
+          <h1 class="text-2xl sm:text-3xl font-bold text-[#222DF6]">Apex Electric</h1>
+        
+          <nav class="overflow-x-auto scrollbar-none">
+            <ul class="flex flex-col sm:flex-row items-center list-none gap-4 sm:gap-7">
+              <li>
+                <a href="index.html" data-translate="nav_models" class="text-sm sm:text-base font-semibold text-black hover:text-blue-700 
+                transition-colors duration-300 ease-in-out">Models</a>
+              </li>
+              <li>
+                <a href="promotions.html" data-translate="nav_promotions" class="text-sm sm:text-base font-semibold text-black hover:text-blue-700 
+                transition-colors duration-300 ease-in-out">Promotions</a>
+              </li>
+              <li>
+                <a href="activities.html" data-translate="nav_activities" class="text-sm sm:text-base font-semibold text-black hover:text-blue-700 
+                transition-colors duration-300 ease-in-out">Activities</a>
+              </li>
+              <li>
+                <a href="contact.html" data-translate="nav_contact" class="text-sm sm:text-base font-semibold text-black hover:text-blue-700 
+                transition-colors duration-300 ease-in-out">Contact</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+
+        <!-- Right Side -->
+        <div class="flex flex-col sm:flex-row justify-between items-center gap-4 sm:gap-10 w-full sm:w-auto">
+
+          <div id="lang-color" class="flex items-center gap-4">
+            <span data-lang="EN" data-active="true" class="text-sm sm:text-base font-semibold text-blue-700  
+              transition-colors duration-300 ease-in-out cursor-pointer" onclick="Selectlang(this)">EN</span>
+            <span data-lang="JP" class="text-sm sm:text-base font-semibold text-black hover:text-blue-700 transition-colors 
+              duration-300 ease-in-out cursor-pointer" onclick="Selectlang(this)">JP</span>
+            <span data-lang="ZH" class="text-sm sm:text-base font-semibold text-black hover:text-blue-700 transition-colors 
+              duration-300 ease-in-out cursor-pointer" onclick="Selectlang(this)">ZH</span>
+          </div>
+
+          <button class="text-xs sm:text-base font-semibold text-white bg-[#222DF6] py-2.5 px-4 sm:py-3 sm:px-5 
+            rounded-full hover:bg-black transition-colors duration-300 ease-in-out cursor-pointer" type="button" 
+            data-translate="btn_test_drive" onclick="window.location.href='test-drive.html'">Schedule Test Drive</button>
+        </div>
+      </header>
+
+      <!-- Hero section -->
+      <section class="flex items-center relative min-h-[600px] md:min-h-[750px] lg:min-h-[850px] py-12 sm:py-16 md:py-24 px-4 sm:px-6 md:px-8 overflow-hidden">
+        <div class="absolute bg-[#545454]/35 inset-0 w-full h-auto z-10"></div>
+
+        <img src="/assets/hero-main-Image-BerH_v59.png" alt="hero-main-image" id="hero-img" class="absolute inset-0 w-full h-full object-cover z-0">
+
+        <div class="flex justify-between items-center text-center container mx-auto z-20 px-4 sm:px-6 md:px-8">
+          <button id="hero-left-arrow" class="hidden sm:flex justify-center items-center text-xl font-bold text-white bg-transparent border-2 border-white 
+              rounded-full w-10 h-10 md:w-12 md:h-12 shrink-0 hover:bg-black hover:border-0 transition-colors duration-300 ease-in-out cursor-pointer" 
+              type="button" aria-label="Previous" onclick="Heroslide(this)">&lang;</button>
+
+            <div class="flex flex-col items-center text-center">
+              
+              <h1 class="text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-4 md:mb-6 text-pretty inline-block"
+                data-translate="hero_title">Redefining the Electric Journey</h1>
+ 
+              <p class="text-base sm:text-xl md:text-2xl font-medium text-white leading-relaxed mb-8 md:mb-12 max-w-2xl text-pretty inline-block"
+                data-translate="hero_subtitle">Pioneering the future of smart mobility with industry leading autonomous driving and AI integration.</p>
+
+              <button class="text-lg sm:text-xl md:text-2xl text-center font-semibold text-white bg-linear-to-r from-[#565CC5] to-[#222DF6]
+               py-2.5 sm:py-3.5 px-8 w-auto sm:w-80 rounded-full hover:-translate-y-1 transition-transform duration-300 ease-in-out cursor-pointer" 
+               type="button" data-translate="btn_test_drive" onclick="window.location.href='test-drive.html'">Schedule Test Drive</button>
+
+              <div class="flex justify-center mt-25 gap-3 md:gap-6">
+                <span data-slide="0" class="w-15 h-2 md:w-18 md:h-2.5 bg-linear-to-r from-[#565CC5] to-[#222DF6] rounded-full cursor-pointer" 
+                  onclick="Heroslide(this)"></span>
+                <span data-slide="1" class="w-15 h-2 md:w-18 md:h-2.5 bg-white/40 rounded-full cursor-pointer" onclick="Heroslide(this)"></span>
+                <span data-slide="2" class="w-15 h-2 md:w-18 md:h-2.5 bg-white/40 rounded-full cursor-pointer" onclick="Heroslide(this)"></span>          
+              </div>
+            </div>
+
+          <button id="hero-right-arrow" class="hidden sm:flex justify-center items-center text-xl font-bold text-white bg-transparent border-2 border-white 
+              rounded-full w-10 h-10 md:w-12 md:h-12 shrink-0 hover:bg-black hover:border-0 transition-colors duration-300 ease-in-out cursor-pointer" 
+              type="button" aria-label="Next" onclick="Heroslide(this)">&rang;</button>
+        </div>
+      </section>
+
+      <!-- Future of mobility details section -->
+      <section class="flex justify-center bg-[#ECECEC] py-12 sm:py-16 md:py-24 px-4 sm:px-6 md:px-8">
+        <div class="container mx-auto">
+
+          <div class="flex flex-col justify-center text-center">
+            <h2 class="text-3xl sm:text-4xl md:text-5xl font-bold text-black mb-10 sm:mb-12 text-pretty"
+              data-translate="future_title">Discover the Future of Mobility</h2>
+
+            <P class="text-base sm:text-xl md:text-2xl font-medium text-black mb-10 md:mb-16 mx-auto text-pretty"
+              data-translate="future_subtitle">Explore the range of smart EVs designed to fit every lifestyle, from aerodynamic sedans 
+              to spacious family SUVs.</P>
+
+            <!-- Apex model selection -->
+            <div class="flex flex-col sm:flex-row justify-center gap-7 sm:gap-14 mb-10 md:mb-16">
+
+              <a class="group text-base sm:text-lg font-bold text-black hover:text-blue-700 transition-colors duration-300 ease-in-out cursor-pointer" 
+                data-car="apex" data-type="option">
+
+                <span class="border-b-2 sm:border-b-3 border-transparent pb-2 group-hover:border-blue-700 transition-colors duration-300 ease-in-out">
+                  Apex Model S1</span>
+              </a>
+            
+              <a class="group text-base sm:text-lg font-bold text-black hover:text-blue-700 transition-colors duration-300 ease-in-out cursor-pointer" 
+                data-car="g9" data-type="option">
+                
+                <span class="border-b-2 sm:border-b-3 border-transparent pb-2 group-hover:border-blue-700 transition-colors duration-300 ease-in-out">
+                  G9</span>
+              </a>
+                
+              <a class="group text-base sm:text-lg font-bold text-black hover:text-blue-700 transition-colors duration-300 ease-in-out cursor-pointer" 
+                data-car="p5" data-type="option">
+
+                <span class="border-b-2 sm:border-b-3 border-transparent pb-2 group-hover:border-blue-700 transition-colors duration-300 ease-in-out">
+                  P5</span>
+              </a>
+            
+              <a class="group text-base sm:text-lg font-bold text-black hover:text-blue-700 transition-colors duration-300 ease-in-out cursor-pointer" 
+                data-car="g3i" data-type="option">
+
+                <span class="border-b-2 sm:border-b-3 border-transparent pb-2 group-hover:border-blue-700 transition-colors duration-300 ease-in-out">
+                  G3i</span>
+              </a>
+                
+              <a class="group text-base sm:text-lg font-bold text-black hover:text-blue-700 transition-colors duration-300 ease-in-out cursor-pointer" 
+                data-car="p7" data-type="option">
+                
+                <span class="border-b-2 sm:border-b-3 border-transparent pb-2 group-hover:border-blue-700 transition-colors duration-300 ease-in-out">
+                  P7 WING</span>
+              </a>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 rounded-3xl md:rounded-4xl bg-white shadow-lg border-0 mb-14 md:mb-20 overflow-hidden">
+
+              <img src="/assets/Apex-main-car-2-BSvwaJJn.png" alt="Apex-car" id="car-image" class="w-full h-full object-cover">
+
+              <!-- Right Column : Content -->
+              <div class="flex flex-col text-start p-6 sm:p-10 md:p-16 lg:p-20">
+                <h4 id="car-title" class="text-3xl sm:text-4xl md:text-5xl font-bold text-black mb-5 sm:mb-10">Apex Model S1</h4>
+
+                <p id="car-tagline" class="text-lg sm:text-xl md:text-2xl font-semibold text-[#222DF6] mb-4 sm:mb-8 text-pretty inline-block" 
+                  data-translate="car_s1_tagline">The pinnacle of electric intelligence.</p>
+
+                <p id="car-desc" class="text-lg sm:text-xl md:text-2xl font-medium text-black mb-6 sm:mb-10 text-pretty inline-block" 
+                  data-translate="car_s1_desc">Experience the perfect balance of luxury, range, and cutting-edge autonomous technology.</p>
+
+                <button id="car-link" class="text-lg sm:text-xl md:text-2xl font-bold text-white bg-[#222DF6] border-0 rounded-full w-60 py-2 
+                  sm:py-3 hover:bg-black transition-colors duration-300 ease-in-out cursor-pointer" type="button" 
+                  data-translate="btn_view_detail">View Details</button>
+              </div>
+            </div>
+
+            <div class="flex justify-center gap-6 sm:gap-8">
+              <span data-type="dot" data-car="apex" class="w-12 h-2 sm:w-18 sm:h-2.5 bg-linear-to-r from-[#565CC5] to-[#222DF6] rounded-full 
+                cursor-pointer"></span>
+              <span data-type="dot" data-car="g9" class="w-8 h-2 sm:w-10 sm:h-2.5 bg-[#555D6D]/50 rounded-full cursor-pointer"></span>
+              <span data-type="dot" data-car="p5" class="w-8 h-2 sm:w-10 sm:h-2.5 bg-[#555D6D]/50 rounded-full cursor-pointer"></span>
+              <span data-type="dot" data-car="g3i" class="w-8 h-2 sm:w-10 sm:h-2.5 bg-[#555D6D]/50 rounded-full cursor-pointer"></span>
+              <span data-type="dot" data-car="p7" class="w-8 h-2 sm:w-10 sm:h-2.5 bg-[#555D6D]/50 rounded-full cursor-pointer"></span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Technical Sheet section -->
+      <section class="flex justify-center bg-white py-12 sm:py-16 md:py-24 px-4 sm:px-6 md:px-8">
+        <div class="container mx-auto">
+
+          <div class="flex flex-col justify-center text-center">
+            <h3 class="text-3xl sm:text-4xl md:text-5xl font-bold text-black mb-5 sm:mb-10 text-pretty inline-block" data-translate="tech_title">
+              ENGINEERED FOR PERFORMANCE</h3>
+
+            <p class="text-base sm:text-lg md:text-xl font-medium text-black mb-10 sm:mb-13 text-pretty inline-block" data-translate="tech_subtitle">
+              Designed without compromise. Pure electric power meets surgical precision handling.</p>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-4 mx-auto p-2 sm:p-4 gap-4 sm:gap-8">
+
+            <!-- Card 1 : Max Range -->
+            <div class="flex flex-col justify-center items-center bg-[#ECECEC] rounded-xl sm:rounded-2xl p-4 sm:p-8 gap-2 sm:gap-3">
+              <div class="flex justify-center items-center w-10 h-10 sm:w-13 sm:h-13 bg-white rounded-full p-2 sm:p-3 mb-1 sm:mb-1.5">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAHZJREFUeAHt1GEKgCAMBeBHdJDdNG9gN6wb1A1KQQ1GZq72bx88omhrEgoY86cpZAs5OhNrfKu5FzTmcU8fyJMT+hGulVTlKaSq9QN0LCntCV7i9eVeawXFCB0rf6D+k/d0JfQj1uOWw/eNNqMhviA9KhyMUXMCZ5ZWmEE1mw0AAAAASUVORK5CYII=" alt="battery-icon" class="w-full h-full object-contain">
+              </div>
+
+              <span class="text-xs font-semibold text-gray-700" data-translate="spec_max_range">MAX RANGE</span>
+
+              <div class="flex items-baseline gap-1">
+                <span class="text-2xl sm:text-3xl font-extrabold text-black">720</span>
+                <span class="text-xs font-semibold text-gray-700 text-nowrap">KM (WLTP)</span>
+              </div>
+            </div>
+          
+            <!-- Card 2 : Acceleration -->
+            <div class="flex flex-col justify-center items-center bg-[#ECECEC] rounded-xl sm:rounded-2xl p-4 sm:p-8 gap-2 sm:gap-3">
+              <div class="flex justify-center items-center w-10 h-10 sm:w-13 sm:h-13 bg-white rounded-full p-2 sm:p-3 mb-1 sm:mb-1.5">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAARCAYAAADZsVyDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAOpJREFUeAGllIERgjAMRXNO4AgZgRG6gSPABrIBjOIGuAHnBLoBbsAImkiCLScmhX/3KQ3tI20KAOs6ks/kjjyQX2K+78klGSFDDGzIYwT758YDxUV2nFkFaWaFxLrFKtAD5TZAXiKrcB1wh2k7vDrKHIUnc5u1BxlwTazVIMJ3r9AJQgENUSwIY5QXfQrBgSv4hJDua6xe4nXcKW2mWawqTlIHFjuhOmZeie6vJfNYiWZeDtiCJjzNxJrgUSGs4UCXhwQD7JfW6cngm3Q8p8LSSdoLX/gw658swHYh/PjQaoEjbFeAqV4td96adGJGQkbFEgAAAABJRU5ErkJggg==" alt="acceleration-icon" class="w-full h-full object-contain">
+              </div>
+
+              <span class="text-xs font-semibold text-gray-700" data-translate="spec_acceleration">ACCELERATION</span>
+
+              <div class="flex items-baseline gap-1">
+                <span class="text-2xl sm:text-3xl font-extrabold text-black">2.9</span>
+                <span class="text-xs font-semibold text-gray-700 text-nowrap">SEC (0-100)</span>
+              </div>
+            </div>
+          
+            <!-- Card 3 : Peak Power -->
+            <div class="flex flex-col justify-center items-center bg-[#ECECEC] rounded-xl sm:rounded-2xl p-4 sm:p-8 gap-2 sm:gap-3">
+              <div class="flex justify-center items-center w-10 h-10 sm:w-13 sm:h-13 bg-white rounded-full p-2 sm:p-3 mb-1 sm:mb-1.5">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAL5JREFUeAGtlIERgjAMRf+di3QEN9EN6AhsYDfRTaoTOIIjdAQ1XqihCkeavLscBS4vJeG6w3ZO77jy+gYjJHuKcJVlGJCywtcBnUhZFMKADlrZkdd3dNDKiAvfj1AiZTL5wc/2UCBlqXlXMJ/0v6CidWDDioyIYpdrUbbINF9HRWvlhD5+hqjuz4KsDjFC0Z8FWYKCIHY5Yer7yIlnDxmROfngIQv49s/j9/oMbDoUzDIiYz7pBCOuMrBEJXsBPSiDIGMKI+8AAAAASUVORK5CYII=" alt="power-icon" class="w-full h-full object-contain">
+              </div>
+
+              <span class="text-xs font-semibold text-gray-700" data-translate="spec_peak_power">PEAK POWER</span>
+
+              <div class="flex items-baseline gap-1">
+                <span class="text-2xl sm:text-3xl font-extrabold text-black">850</span>
+                <span class="text-xs font-semibold text-gray-700 text-nowrap">HP</span>
+              </div>
+            </div>
+          
+            <!-- Card 4 : Fast Charge -->
+            <div class="flex flex-col justify-center items-center bg-[#ECECEC] rounded-xl sm:rounded-2xl p-4 sm:p-8 gap-2 sm:gap-3">
+              <div class="flex justify-center items-center w-10 h-10 sm:w-13 sm:h-13 bg-white rounded-full p-2 sm:p-3 mb-1 sm:mb-1.5">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAASZJREFUeAGlVAuxwkAM3HkKkJDnoBLOSYsCcFCkgILiAAngABxUAiQlocdxv8LOLGXy2eYuTYA0VswNc2BemXel/D8xWyZhAUSwZ46eWI59jSgF1UllHd4ra9Q2BKegGlF5OiwrJCluAWc8ryPmv0bsK80x8bfcPuXwYMdGQtwK25mRvCRCGjlhgVP/qC+aGiGGI/IoCQtOGrP9w/N7FAz4HQd9Ovmxu2kKSTUVE+ZeVSX4cW1lXLVwONZtSdgSCGV0kRf4aMwuzbuo0aGMPfOfuWbeIn7r0+TbYt4Lv8L2x3RN8jHbJnP4HoTIoO1QHukcoiMdOlJLKCfqL6EPECpWYABXm+OLC6UZ0ogmiOkw74UlhbzuvMRRYxf1hbzKwqGQk2xygg/BfJAJtoE6+wAAAABJRU5ErkJggg==" alt="charge-icon" class="w-full h-full object-contain">
+              </div>
+
+              <span class="text-xs font-semibold text-gray-700" data-translate="spec_fast_charge">FAST CHARGE</span>
+              
+              <div class="flex items-baseline gap-1">
+                <span class="text-2xl sm:text-3xl font-extrabold text-black">18</span>
+                <span class="text-xs font-semibold text-gray-700 text-nowrap">MIN (10-80%)</span>
+              </div>
+            </div>   
+          </div>
+
+          <div class="flex justify-center py-5 md:py-10 px-4">
+            <button class="inline-flex items-center justify-center gap-2 sm:gap-3 text-sm sm:text-base md:text-lg font-bold text-[#222DF6] bg-transparent 
+                border-2 border-[#222DF6] w-full sm:w-auto max-w-xl px-6 sm:px-12 py-3 sm:py-6 rounded-full hover:bg-black hover:text-white 
+                hover:border-transparent transition-all duration-300 ease-in-out cursor-pointer" type="button" onclick="return false;">
+                
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" 
+                class="w-5 h-5 sm:w-6 sm:h-6 shrink-0"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 
+                3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 
+                3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 
+                1.125-1.125V11.25a9 9 0 0 0-9-9Z"/>
+              </svg>
+              <span data-translate="btn_download_sheet">Download Full Technical Sheet (PDF)</span>
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Explore OS section -->
+      <section class="flex justify-center bg-[#ECECEC] py-12 sm:py-16 md:py-24 px-4 sm:px-6 md:px-8">
+        <div class="container mx-auto">
+
+          <div class="flex flex-col lg:flex-row justify-between items-center gap-10 lg:gap-16">
+
+            <!-- left contents -->
+            <div class="flex flex-col justify-center w-full lg:w-1/2">
+
+              <!-- left texts -->
+              <div class="flex flex-col justify-center text-start gap-10 sm:gap-12">
+                <h3 class="text-4xl sm:text-5xl md:text-6xl font-bold text-black leading-tight text-pretty inline-block" data-translate="cabin_title">
+                  Your Intelligent, Connected Cabin</h3>
+                <p class="text-lg sm:text-xl md:text-2xl font-medium text-black tracking-wider leading-snug text-pretty inline-block"
+                  data-translate="cabin_subtitle">A seamless digital environment designed to learn your 
+                  preferences and respond to natural language commands.</p>
+              </div>
+
+              <!-- left icons -->
+              <div class="flex flex-col sm:flex-row items-start sm:items-center gap-4 sm:gap-10 py-8 sm:py-12">
+                <div class="flex items-center gap-4">
+                  <span class="flex justify-center items-center w-8 h-8 sm:w-12 sm:h-12 bg-blue-300/30 rounded-xl sm:rounded-2xl p-2 shrink-0">
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAVNJREFUeAHFlV1OwzAMx+0xhAY8bDdoywsPrOJGu8J2gm0nYNyg3AgxHnhhyw3WB1iF0GKc0qL0I2FNRflJVVW7sfO3Iwfgv/DH+23Aj4tNp29yIIDnaiv5iwRhMgeSU3YNoREU85posz6fGRME4f4OCKbQBqLl5vliUZ9g/L5TO5cn6IvHgYAGeLeJ1zuQ6kXMKkaFBKpRei35BwQHuNmkfQqO4/dtC67CZEIkV5Z+CERcvD4NHkwxsG4HuYKyMgM/JSmvV1gV5MFNJcsCWk9bD/6YVMGRpTiaTFna5G4UbDmTlrk1es+6UWAmnS/DX5QJi+9bQTZyK0Ek0IysASjGg1yWrSpWPsKtCsT6MuJXBC2oH3afH754GQlogHe983qnZ5VhV1RAcM8p5+pHlghOkCzMpeqFc/O2AsSJ04XDG9TvAitZo8jFpmNssjo96GjrlC8x06SB8JfZXQAAAABJRU5ErkJggg==" alt="snapdragon" class="max-w-full max-h-full object-contain">
+                  </span>
+
+                  <span class="text-base sm:text-lg font-bold text-black text-nowrap" data-translate="cabin_dragon">New OS design</span>
+                </div>
+
+                <div class="flex items-center gap-4">
+                  <span class="flex justify-center items-center w-8 h-8 sm:w-12 sm:h-12 bg-blue-300/30 rounded-xl sm:rounded-2xl p-2 shrink-0">
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAWCAYAAADNX8xBAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAYVJREFUeAHtlFFOwkAQhme2YIJCUm6w1hdjBLmB3kBuQDiBcgLKDfAEwgnUG+ANUInxQXBvAA9CE0l33N0WtE2pNPHFxHnazv7zzXSz+wOkhFNdXDiV+dSpLN7U+jJNi0lJzqc2lvJdBNaI7lBPLj864qUsNoJ0ca6Yq0nAOiAqANqqcAYSO2BpBrWDXABkJPuvo9JgDTqoeg0i2f0ShVKCAeWwKYYF053XPI6+dBEwNiUIRHRxX/2/GoubYp0kuJPg34pv3SK/HQKV+EQBamF6huogSa8mT7uJ5/VTrOoZ/FL8g/4kSF9CveCHHoeMwY/eVxdS6ImGhmhRHbKGBQakhnlgKOW9+WBwDhlDuUPbDIF4w2R+2TNvDODMqXrtbSFaG75RMX4s9JkYlmdEftPsErnbwIxGafVaArWC6Vabx3NX+VAISTawwPB2rlF7VtC4MxntuRFQ0EnZaczALJ+uiJEdNzz0qTV+LvZgfV6xSDGwcIio4W0ExYFKcopANhD20wzvE5QqsaBAOeDOAAAAAElFTkSuQmCC" alt="snapdragon" class="max-w-full max-h-full object-contain">
+                  </span>
+
+                  <span class="text-base sm:text-lg font-bold text-black text-nowrap" data-translate="cabin_privacy">Voice Assistant</span>
+                </div>
+              </div>
+
+              <div class="py-2 sm:py-4">
+                <button class="flex justify-center items-center text-lg sm:text-xl font-semibold text-black bg-white border-0 py-2 sm:py-3 w-75
+                rounded-full hover:bg-blue-600 hover:text-white hover:shadow-[0_5px_40px_rgba(59,130,246,0.04)] hover:shadow-blue-500/80 transition-all 
+                duration-300 ease-in-out cursor-pointer" data-translate="btn_explore_os" type="button" onclick="window.location.href='promotions.html'">
+                Explore OS Features</button>
+              </div>
+            </div>
+
+            <!-- right image -->
+            <div class="flex items-center justify-end md:justify-center w-full lg:w-1/2">
+              <img src="/assets/cabin-CZdZezvk.png" alt="cabin" class="max-w-full h-auto rounded-3xl md:rounded-4xl object-contain">
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Rental section -->
+      <section class="flex justify-center bg-white py-12 sm:py-16 md:py-24 px-4 sm:px-6 md:px-8">
+        <div class="container mx-auto">
+          
+          <div class="flex flex-col items-start md:flex-row md:items-end justify-between mb-10 md:mb-20 gap-6 sm:gap-0">
+            <div>
+              <h3 class="text-3xl sm:text-4xl md:text-5xl font-bold text-black mb-8 md:mb-15 inline-block" data-translate="ownership_title">
+                Plan Your Rental</h3>
+
+              <p class="text-lg sm:text-xl md:text-2xl font-medium text-black text-pretty inline-block" data-translate="ownership_subtitle">
+                Exclusive rewards for our growing community of smart EV drivers.</p>
+            </div>
+            <div>
+              <a href="promotions.html" data-translate="link_see_offers" class="text-lg sm:text-xl md:text-2xl font-semibold 
+                text-nowrap px-4 py-2 text-[#222DF6] hover:text-blue-500 hover:drop-shadow-[0_0_18px_rgba(59,130,246,1.0)] 
+                transition-colors duration-300 ease-in-out">See All Offers &rarr;</a>
+            </div>
+          </div>
+
+          <!-- Rental grid -->
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+
+            <!-- Card 1 : Charging Solutions -->
+            <div class="flex flex-col bg-[#ECECEC] shadow-gray-100-50 shadow-lg rounded-2xl md:rounded-4xl overflow-hidden hover:-translate-y-2 
+              transition-transform duration-300 ease-in-out">
+              <div class="w-full aspect-[4/2.5]">
+                <img src="/assets/charging-solutions-iLY1UTUR.png" alt="charging-solutions" class="w-full h-auto object-cover">
+              </div>
+              
+              <div class="flex flex-col flex-1 items-start p-6 md:p-8">
+                <span class="inline-flex justify-center items-center text-base md:text-lg font-normal text-black bg-white 
+                  rounded-4xl w-30 py-1 mt-1 sm:mt-3 mb-4 sm:mb-8" data-translate="service-top">Charging</span>
+                
+                <div class="flex flex-col justify-center gap-6 sm:gap-8">
+                  <h5 class="text-xl md:text-2xl font-bold text-black" data-translate="card_charging_title">Charging Solutions</h5>
+
+                  <p class="text-lg md:text-xl font-medium text-black text-pretty inline-block" data-translate="card_charging_desc">
+                    Complimentary fast charging at partner stations with every P7 or G9 rental booked this quarter.</p>
+
+                  <button class="flex justify-center items-center text-base md:text-lg font-bold text-black bg-transparent 
+                    border-2 rounded-full w-full py-2.5 px-4 hover:bg-black hover:text-white hover:border-black transition-colors
+                    duration-300 ease-in-out cursor-pointer" type="button" data-translate="btn_learn_more" 
+                    onclick="window.location.href='promotions.html'">Learn More</button>
+                </div>
+              </div>
+            </div>
+
+            <!-- Card 2 : Pricing -->
+            <div class="flex flex-col bg-[#ECECEC] shadow-gray-100-50 shadow-lg rounded-2xl md:rounded-4xl overflow-hidden hover:-translate-y-2 
+              transition-transform duration-300 ease-in-out">
+              <div class="w-full aspect-[4/2.5]">
+                <img src="/assets/Pricing-D33MPqnx.png" alt="Pricing" class="w-full h-auto object-cover">
+              </div>
+              
+              <div class="flex flex-col flex-1 items-start p-4 md:p-8">
+                <span class="flex justify-center items-center text-base md:text-lg font-normal text-black bg-white 
+                rounded-4xl w-30 py-1 mt-1 sm:mt-3 mb-4 sm:mb-8" data-translate="finance-top">Pricing</span>
+                
+                <div class="flex flex-col justify-center gap-6 sm:gap-8">
+                  <h5 class="text-xl md:text-2xl font-bold text-black" data-translate="card_financing_title">Rental Plan Options</h5>
+                  <p class="text-lg md:text-xl font-medium text-black text-pretty inline-block" data-translate="card_financing_desc">
+                    Flexible daily and monthly rental plans for verified drivers on select 2026 fleet models.</p>
+
+                  <button class="flex justify-center items-center text-base md:text-lg font-bold text-black bg-transparent 
+                    border-2 rounded-full w-full py-2.5 px-4 hover:bg-black hover:text-white hover:border-black transition-colors
+                    duration-300 ease-in-out cursor-pointer" type="button" data-translate="btn_learn_more" 
+                    onclick="window.location.href='promotions.html'">Learn More</button>
+                </div>
+              </div>
+            </div>
+
+            <!-- Card 3 : Support -->
+            <div class="flex flex-col bg-[#ECECEC] shadow-gray-100-50 shadow-lg rounded-2xl md:rounded-4xl overflow-hidden hover:-translate-y-2 
+              transition-transform duration-300 ease-in-out">
+              <div class="w-full aspect-[4/2.5]">
+                <img src="/assets/Roadside-support-DtPAK69y.png" alt="Roadside-support" class="w-full h-auto object-cover">
+              </div>
+              
+              <div class="flex flex-col flex-1 items-start p-4 md:p-8">
+                <span class="flex justify-center items-center text-base md:text-lg font-normal text-black bg-white 
+                rounded-4xl w-30 py-1 mt-1 sm:mt-3 mb-4 sm:mb-8" data-translate="loyalty-top">Support</span>
+                
+                <div class="flex flex-col justify-center gap-6 sm:gap-8">
+                  <h5 class="text-xl md:text-2xl font-bold text-black" data-translate="card_service_title">Roadside Support</h5>
+                  <p class="text-lg md:text-xl font-medium text-black text-pretty inline-block" data-translate="card_service_desc">
+                    Every Apex Electric rental includes 24/7 roadside help, full insurance and live support.</p>
+
+                  <button class="flex justify-center items-center text-base md:text-lg font-bold text-black bg-transparent 
+                    border-2 rounded-full w-full py-2.5 px-4 hover:bg-black hover:text-white hover:border-black transition-colors
+                    duration-300 ease-in-out cursor-pointer" type="button" data-translate="btn_learn_more"
+                    onclick="window.location.href='promotions.html'">Learn More</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Exclusive section -->
+      <section class="flex justify-center bg-[#ECECEC] py-12 sm:py-16 md:py-24 px-4 sm:px-6 md:px-8">
+        <div class="container mx-auto">
+
+          <div class="flex flex-col items-start md:flex-row md:items-end justify-between mb-10 md:mb-20 gap-6 sm:gap-0">
+            <div>
+              <h3 class="text-3xl sm:text-4xl md:text-5xl font-bold text-black mb-8 md:mb-15" data-translate="exclusive_title">
+                Exclusive Experiences</h3>
+
+              <p class="text-lg sm:text-xl md:text-2xl font-medium text-black text-pretty inline-block" data-translate="exclusive_subtitle">
+                Join our community events and experience the cutting edge of sustainable luxury.</p>
+            </div>
+            <div>
+              <a href="activities.html" data-translate="link_view_activities" class="text-lg sm:text-xl md:text-2xl font-semibold 
+                text-nowrap px-4 py-2 text-[#222DF6] hover:text-blue-500 hover:drop-shadow-[0_0_18px_rgba(59,130,246,1.0)] 
+                transition-colors duration-300 ease-in-out">View All Activities &rarr;</a>
+            </div>
+          </div>
+
+          <!-- Exclusive grid -->
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+
+            <!-- Card 1 : Future Intelligence -->
+            <div class="flex flex-col bg-white shadow-gray-100-50 shadow-lg rounded-2xl md:rounded-4xl overflow-hidden hover:-translate-y-2 
+              transition-transform duration-300 ease-in-out">
+              <div class="relative w-full aspect-[4/2.5]">
+                <img src="/assets/Future-Intelligence-DsD0AWVO.png" alt="Future-Intelligence" class="w-full h-auto object-cover">
+
+                <span class="absolute inline-flex items-center text-xs font-semibold text-black bg-white top-6 left-6  
+                  rounded-full px-3 py-1" data-translate="tech_top">Tech Expo</span>
+              </div>
+              
+              <div class="flex flex-col flex-1 items-start p-6 md:p-8">
+
+                <div class="flex items-center gap-3 mb-2 sm:mb-4">
+                  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAPCAYAAADUFP50AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAQBJREFUeAHlksFNwzAYhf//T6hAClLYwKQcUBWjbACbEDZggzACG9BOQEfICAhQb4UwQSs1NKf64UQ0tXJpeu7zyU/vk99vm8hRdFNll3o9db2reHUX6fU3dcTqeqG8k9OMCAqExFp20ds2AKaQQIn1crtdEvN0/n428WUweAUQkuEcQorrsOGiBQWtB0bIhLGKVz9ka2A4KtOmalw+R7p6cSupUZlE+nfRjvOf993Q12fw2J2lmAV17Yuu34BG5H6oq1vqIXsPO7AxDPWTOCeKMZP5LBj34eyMqcMfrmMAfdR/0JOs3zsirF9xIyh8ePxAG/MEkNoP0lKE0+LjPP8DcUBc4XFe2y8AAAAASUVORK5CYII=" alt="Calendar" class="w-4 h-4 object-contain">
+                  <span class="text-sm md:base font-semibold text-black" data-translate="event_expo_future">Nov 24, 2026 • 10:00 AM</span>
+                </div>
+                
+                <div class="flex flex-col justify-center gap-4 sm:gap-6">
+                  <h5 class="text-xl md:text-2xl font-bold text-black" data-translate="card_expo_title">Future Intelligence Expo</h5>
+
+                  <p class="text-lg md:text-xl font-medium text-black text-pretty inline-block" data-translate="card_expo_desc">
+                    Join our lead engineers for an exclusive look at the next generation of Apex OS and autonomous driving capabilities.</p>
+
+                  <button class="flex justify-center items-center text-base md:text-lg font-bold text-black bg-transparent 
+                    border-2 rounded-full w-full py-2.5 px-4 hover:bg-black hover:text-white hover:border-black transition-colors
+                    duration-300 ease-in-out cursor-pointer" type="button" data-translate="btn_discover_event" 
+                    onclick="window.location.href='activities.html'">Discover Event</button>
+                </div>
+              </div>
+            </div>
+
+            <!-- Card 2 : Apex Winter -->
+            <div class="flex flex-col bg-white shadow-gray-100-50 shadow-lg rounded-2xl md:rounded-4xl overflow-hidden hover:-translate-y-2 
+              transition-transform duration-300 ease-in-out">
+              <div class="relative w-full aspect-[4/2.5]">
+                <img src="/assets/Apex-winter-Ber_vOy9.png" alt="Apex-winter" class="w-full h-auto object-cover">
+
+                <span class="absolute inline-flex items-center text-xs font-semibold text-black bg-white top-6 left-6  
+                  rounded-full px-3 py-1" data-translate="lifestyle-top">Lifestyle</span>
+              </div>
+              
+              <div class="flex flex-col flex-1 items-start p-4 md:p-8">
+                
+                <div class="flex items-center gap-3 mb-2 sm:mb-4">
+                  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAPCAYAAADUFP50AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAQBJREFUeAHlksFNwzAYhf//T6hAClLYwKQcUBWjbACbEDZggzACG9BOQEfICAhQb4UwQSs1NKf64UQ0tXJpeu7zyU/vk99vm8hRdFNll3o9db2reHUX6fU3dcTqeqG8k9OMCAqExFp20ds2AKaQQIn1crtdEvN0/n428WUweAUQkuEcQorrsOGiBQWtB0bIhLGKVz9ka2A4KtOmalw+R7p6cSupUZlE+nfRjvOf993Q12fw2J2lmAV17Yuu34BG5H6oq1vqIXsPO7AxDPWTOCeKMZP5LBj34eyMqcMfrmMAfdR/0JOs3zsirF9xIyh8ePxAG/MEkNoP0lKE0+LjPP8DcUBc4XFe2y8AAAAASUVORK5CYII=" alt="Calendar" class="w-4 h-4 object-contain">
+                  <p class="text-sm md:base font-semibold text-black text-nowrap" data-translate="event_gala_winter">Dec 12, 2026 • 07:00 PM</p>
+                </div>
+                
+                <div class="flex flex-col justify-center gap-4 sm:gap-6">
+                  <h5 class="text-xl md:text-2xl font-bold text-black" data-translate="card_gala_title">Apex Winter Gala</h5>
+                  <p class="text-lg md:text-xl font-medium text-black text-pretty inline-block" data-translate="card_gala_desc">
+                    An evening of sustainable luxury and fine dining at our flagship experience center. Reservation required for members.</p>
+
+                  <button class="flex justify-center items-center text-base md:text-lg font-bold text-black bg-transparent 
+                    border-2 rounded-full w-full py-2.5 px-4 hover:bg-black hover:text-white hover:border-black transition-colors
+                    duration-300 ease-in-out cursor-pointer" type="button" data-translate="btn_discover_event" 
+                    onclick="window.location.href='activities.html'">Discover Event</button>
+                </div>
+              </div>
+            </div>
+
+            <!-- Card 3 : Workshop -->
+            <div class="flex flex-col bg-white shadow-gray-100-50 shadow-lg rounded-2xl md:rounded-4xl overflow-hidden hover:-translate-y-2 
+              transition-transform duration-300 ease-in-out">
+              <div class="relative w-full aspect-[4/2.5]">
+                <img src="/assets/Workshop-Zpussyl-.png" alt="Workshop" class="w-full h-auto object-cover">
+
+                <span class="absolute inline-flex items-center text-xs font-semibold text-black bg-white top-6 left-6  
+                rounded-full px-3 py-1" data-translate="workshop-top">Workshop</span>
+              </div>
+              
+              <div class="flex flex-col flex-1 items-start p-4 md:p-8">
+                
+                <div class="flex items-center gap-3 mb-2 sm:mb-4">
+                  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAPCAYAAADUFP50AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAQBJREFUeAHlksFNwzAYhf//T6hAClLYwKQcUBWjbACbEDZggzACG9BOQEfICAhQb4UwQSs1NKf64UQ0tXJpeu7zyU/vk99vm8hRdFNll3o9db2reHUX6fU3dcTqeqG8k9OMCAqExFp20ds2AKaQQIn1crtdEvN0/n428WUweAUQkuEcQorrsOGiBQWtB0bIhLGKVz9ka2A4KtOmalw+R7p6cSupUZlE+nfRjvOf993Q12fw2J2lmAV17Yuu34BG5H6oq1vqIXsPO7AxDPWTOCeKMZP5LBj34eyMqcMfrmMAfdR/0JOs3zsirF9xIyh8ePxAG/MEkNoP0lKE0+LjPP8DcUBc4XFe2y8AAAAASUVORK5CYII=" alt="Calendar" class="w-4 h-4 object-contain">
+                  <p class="text-sm md:base font-semibold text-black text-nowrap" data-translate="event_date_seminar">Dec 28, 2026 • 02:00 PM</p>
+                </div>
+                
+                <div class="flex flex-col justify-center gap-4 sm:gap-6">
+                  <h5 class="text-xl md:text-2xl font-bold text-black" data-translate="card_seminar_title">Smart Charging Workshop</h5>
+                  <p class="text-lg md:text-xl font-medium text-black text-pretty inline-block" data-translate="card_seminar_desc">
+                    Learn how to optimize your vehicle's range and battery health with our technical experts in this hands on workshop.</p>
+
+                  <button class="flex justify-center items-center text-base md:text-lg font-bold text-black bg-transparent 
+                    border-2 rounded-full w-full py-2.5 px-4 hover:bg-black hover:text-white hover:border-black transition-colors
+                    duration-300 ease-in-out cursor-pointer" type="button" data-translate="btn_discover_event" 
+                    onclick="window.location.href='activities.html'">Discover Event</button>
+                </div>
+              </div>
+            </div>
+          </div>         
+        </div>
+      </section>
+
+      <!-- Info Journey section -->     
+      <section class="flex items-center relative min-h-[400px] md:min-h-[550px] lg:min-h-[650px] py-12 sm:py-16 md:py-24 px-4 sm:px-6 md:px-8 overflow-hidden">
+        <div class="absolute bg-[#545454]/35 inset-0 w-full h-auto z-10"></div>
+
+        <img src="/assets/home-journey-1ga3S1cN.png" alt="home-journey" class="absolute inset-0 w-full h-full object-cover z-0">
+
+        <div class="flex flex-col items-center text-center container mx-auto z-20 px-4 sm:px-6 md:px-8 gap-6 md:gap-12">
+          <h1 class="text-4xl sm:text-6xl md:text-7xl lg:text-8xl font-bold text-white leading-tight mb-4 md:mb-6 text-pretty inline-block"
+            data-translate="journey_title">Your Apex Journey Awaits</h1>
+
+          <p class="text-xl sm:text-2xl md:text-3xl font-medium text-white leading-relaxed mb-8 md:mb-12 text-pretty inline-block"
+            data-translate="journey_subtitle">Experience the fusion of elegance and intelligence firsthand at your nearest experience center.</p>
+
+          <button class="text-lg sm:text-xl md:text-2xl text-center font-semibold text-white bg-[#222DF6]
+            py-2.5 sm:py-3.5 px-7 sm:px-8 w-auto sm:w-80 rounded-full hover:bg-white hover:text-black hover:-translate-y-1 transition-all 
+            duration-300 ease-in-out cursor-pointer" type="button" data-translate="btn_test_drive" 
+            onclick="window.location.href='test-drive.html'">Schedule Test Drive</button>
+        </div>
+      </section>
+
+      <!-- Footer -->
+      <footer class="flex justify-center bg-white py-12 sm:py-16 md:py-24 px-4 sm:px-6 md:px-8">
+        <div class="container mx-auto">
+
+          <div class="flex justify-end text-base font-semibold gap-2 px-2 py-5 sm:py-0 text-[#222DF6] hover:text-blue-500 
+            hover:drop-shadow-[0_0_18px_rgba(59,130,246,1.0)] hover:-translate-y-2 transition-all duration-300 ease-in-out cursor-pointer"
+            id="back-to-top" onclick="BackToTop()">
+            
+            <span data-translate="footer_back_to_top">Back to Top</span>
+            <svg xmlns="http://www.w3.org/2000/svg" class="size-6" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 10.5 12 3m0 0 7.5 7.5M12 3v18" />
+            </svg>            
+          </div>
+
+          <!-- Footer grid -->
+          <div class="grid grid-cols-1 md:grid-cols-3 px-5 md:px-10 gap-10 md:gap-20">
+
+            <!-- Column 1 : Apex Electric -->
+            <div class="flex flex-col items-start gap-4 sm:gap-8">
+              <h5 class="text-xl sm:text-2xl md:text-3xl font-semibold text-[#222DF6]">Apex Electric</h5>
+
+              <p class="text-sm sm:text-base font-medium text-black text-pretty inline-block" data-translate="footer_desc">Defining the future of 
+                electric mobility through precision engineering and avant-garde design. Join us in the journey towards sustainable luxury.</p>
+
+              <div class="flex justify-between items-center gap-6 sm:gap-8 md:gap-12">
+                <a href="https://www.facebook.com/login/?locale=en_GB" target="_blank" rel="noopener noreferrer" 
+                  class="hover:scale-125 transition-transform duration-300 ease-in-out">
+  
+                  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAARCAYAAADkIz3lAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAARhJREFUeAG1ksFRwzAQRXc3usMBbOJMYtEBHeAOSAcJFUAHMRUAFQAdQAXBlcTjQzBc4MhJ4suybMMAw4U9SPLul97qy0xfYn8yXYqRBTFlfdY+jIaiKNErIb7CsrRs7zAXTKzJ8jsH0d6BzkZi10z2ot5WecjH43TtZhUSwmaJnWX9VOXReDonlhucsuvJ9NgJgUgd0q/lDMU34K8bnci9op+jfBm0oOIk3WDWAUE9IkPNhlurRgQBMIVDeD0DaYq2pRXUr+R2Rcks/47tnHD1ONYn3B/vEc/bah5PZpdw4LzrwvChwnBqxGggFijuNBXDR9Sajlfa1HVZKgy3rbHHv91a6I/x38Jg8qdfzEf3hEOTm+/W/BAfO2BnZ924+X8AAAAASUVORK5CYII=" alt="facebook-icon" class="w-5 sm:w-6 h-5 sm:h-6 object-contain"></a>
+  
+                <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" class="hover:scale-125 transition-transform 
+                  duration-300 ease-in-out">
+  
+                  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAcNJREFUeAGVVMtRAkEQ7V5/pV7GA4hQhWMEEoJEoEbAGoEaAZoBZiAZaARiBGIGgz9WPbgnf8i0r5eiioIV1j7szM5Mv3799s0yIYyxZnHFH7JwSEyWZoVQy//w8eura+srK8DSilxhXtFNYbmels9CBs9dLcaewyhyTcoXbX29uCmFkg0pYxhrTb64eYO8NyURMAmS5TJ6dOezkgsFa9c3yg2KiQLPx4q3sNrfm8fEClFzopq2uexrwrRGIu2X7v2FnkUr27qPNlpggvbYzqdVzJVsjUUaKhknQjAhof35TtU47lTHzwdplBUAyQ7CbT0/ddBxQr2CL3iUVnQCpD/X3wGA8T0+AGWna89d1wDvMyY+zAQS+DmjY69HbnRdROUkkwkEPkgMBFHrwzUVGSxqmLbTQCaEVdXzG+UmMx9BTAsKHSDvYkvNVc3EROOlexei8ikcXBEGA0lErmqBVCbwSDyw8hijJ3eC4YT+CHUtfcuASaIBqmnf9I9Y+qJaAuB9CyCgDWC9hLlcqTIrWYvli+U6dIIZ6SKKHlqJIWGwELe3nuk3MAzc+K8P3o9jF/NwTZ2KYccH3k7LZQneIMHtqMi/3xit8l/rq0YAAAAASUVORK5CYII=" alt="instagram-icon" class="w-5 sm:w-6 h-5 sm:h-6 object-contain"></a>
+  
+                <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer" class="hover:scale-125 transition-transform 
+                  duration-300 ease-in-out">
+                  
+                  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAWpJREFUeAGNUtFNAkEQnVmI4Y/98ARBYe3g6IAOtASsQFuwAumAWIIViB1gBS4/Cl+sXxATeM7cAV7OhTjJ5XYzs+/NmzdMEqfNi36FzQ0xd+XqCGSJ5V8IEAUGBTl6yQUCxgzzPJt5z0n7cmBgRlqkBUzs8/NmWgQRAAs2dQZcRpSTTOYf015V0K6Fxn8vuReCD/TP2JEniUtNjoq3MkCj1X0/a3VGzaZzMZDKujLODifrLYh0EqlzIm0Ag5fGeee+nFzVMvnCz84wqVaKygDwJN+rDPxRO7PW2V0u+N/ODR0JVkcMLXJEolqNbKyuurXOxlH4Th+LrIfVkoaHBl9VNpFT/5PJ5+RF863uQjmdtF0qegkMr51MhKlfLpp/Tq/oSPBmLa4acQmexUJ1YKSsyg5mr4smEhcb4Gv/yLDbLxwhhbonG6xkrAU5EMnSQZ1K1bEY+371mScEJTLDbO0Ptat2Ft2IzWUXP1Zdpzvw7OpSAAAAAElFTkSuQmCC" alt="youtube-icon" class="w-5 sm:w-6 h-5 sm:h-6 object-contain"></a>
+              </div>
+            </div>
+
+            <!-- Column 2 : Contact -->
+            <div class="flex flex-col items-start gap-4 sm:gap-8">
+              <h5 class="text-base sm:text-lg md:text-xl font-semibold text-black" data-translate="footer_contact_center">Contact Center</h5>
+
+              <div class="flex flex-col items-start gap-3 sm:gap-5">
+                <div class="flex text-start gap-2 sm:gap-4">
+                  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAATCAYAAABPwleqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAg1JREFUeAF9U91xGkEMlnbBjH8ecAcLyUMm4yNHB6YDOrA7ACogVBBcgXEFSQekA+8knkxeYrYDMxMCQ7hbRdrLMgc23pe70+rTp++TDmHvmGRxrUFdEVAKgHUAmiOgBcTJr2/Hd+Vc3ILePRms1qYcMAIgQouEjpAMIlz+T3N+s+64n+duC94BEo185WTsLM63hdOVUZm/ZvbhfgFoJMtZM1mSSRcpvHJEkuRx/jQwS0CBuhXGx4fTjxJ8e/H7klAPCcEggc0360Fkal4sxoCq5ynvKDFHgr7ydxwleNRTMYw8awfoqmrt3rwvuvKVTSBA1H0Vkgi+OnseNOpq7TYkadWePZy2fe7b/FnXWveCY5KHZNmfD0rGoRBd1OUL06yzxyHmfpxZEpOIzHZEVJipirH4slEy0zS2aZI/XZkClgh4fHUmmHPbYQGMSZ/q4SL3IymotLpvtpYzBfg5jEfDKHrC6JRNswzObkSTyo76sU3Ry17ckQcHBDdeYyfKYPN6hTz1BeOc+aXu9boRjXtxzszK4JlwPH4/aajQKmQDYce8cPrQwerRp4KVBjsXjWQxke1hnf2XgM3WahjuZUmetcSGxTV901pd7QKXvQDk+3JcxRfRSmyMzJSIJrFAeBIImxPjdmQ872BlMKfwh7Hj7Ch2IzA6fhC8X+AQ8CC4KMBblPGWVc5s+d8un3+9KRrKrhA1aAAAAABJRU5ErkJggg==" alt="location-icon" class="w-5 sm:w-6 h-5 sm:h-6 object-contain">
+                  <span class="text-sm sm:text-base font-medium text-black" data-translate="contact_location">Headquarters
+                    No. 8, Chuangye Road, Haidian District, Beijing, China</span>
+                </div>
+
+                <div class="flex text-start gap-2 sm:gap-4">
+                  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAf9JREFUeAGllO1t20AMhslTYiNJCygbnIT+CILIVSeoPEG9QT1CMkGcCZpO0HSDbGBnAguJ0X+xtYEF1F8BqmPJk2VYaepILQFB4vH0iEe+FMKW6ZOl3jirVZokxynUNLSg02monEafXbccxd74/uAKapgFesFigkAuEH4HIJsVIX7kYGQoayejt4OqwL01VSOom8fRwXkR0KezEB01VKAidgdQ0ZTNBiAhMuF2IPnxJpZsJVOoYWp9j7leWofTUg0JMJZjP19/FYjG3PHNhV97YTlMtbtsgWbfuc0d7BQB//38G4pP5msSV5cPFg/c6T47oXGePAvPGhOREfvHdYBFDYEoE725KmteWgDiVQ5uXsK/mmTpBwvSZz+jbd9vLUtQraeuXC8xsLQxXGqVmSEvp3zUD3aDafSRUJp1PX44vJDagsHu+uUBEd0hQvz4cHT7B1DMby3OWS9fiDeRemrbTVmTGwSdvOvoElmhp4gUbcZ115j6Z/OeHNVrLYb6ZKpLa8HspnQqniivNR/aUu3SawHga1JAdUjurr3yt1J/A45HRz0uyIVw1H5z4gdcu1X66sSoXcHx/eG1cdAjJJ5r7Bbgd2sVvGQIFU0Hsy6S+swdjfIVSnmS5EMJgemIMlgFXmXgBizSMvSJDHS4y2HeZWKZUTuJ5Q/1n/a8Ub8BjE7e4DFXawUAAAAASUVORK5CYII=" alt="phone-icon" class="w-5 sm:w-6 h-5 sm:h-6 object-contain">
+                  <span class="text-sm sm:text-base text-black" data-translate="contact_number">+86-10-244-5641</span>
+                </div>
+
+                <div class="flex text-start gap-2 sm:gap-4">
+                  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAPCAYAAAAGRPQsAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAXVJREFUeAGtk+FNwlAQx+9eSxpATd3gUfxgjCVlA5zAEYAJoBvoBGWD4gZ1AnACSCpfoRvQqGBMyDuvhRpFCNL4/9L0+u7f3727Q3k5l1rB8AmgAfkUKSA3CssBWrXFCAgdUNiHHCJBDQQwlfZR0RMjpnqcTYptyCFpv7UQhA8r3RFJgJ1vLXvhJyUfY2TVlh0B6GXvYgMbs2VLFIxBtfbePGQir+ZO1V4OgKDHeeYPM8YMFKg2JbZE/X2UUs5NpvGEZozShhHdc7K7RcYtCU/6pOENAT1sKEec2M2+X1y/NvDU4GZBlwiGSlP16XP5TpGKszP69z9H42LEj5a0XwIE3UMCz7KXHQL1pEA0MbkOhe5sUurBDoldwSg8C2ZhqZKWwdXxNTTXNKI+3WP0i2xbSRnSod6aGmM4IP3Qgb+YZBLwj0rNeLdMyCmh4CsXKzx8vAHJfg0hh3iUHLaJeTfrOs9WG1bkA6bBowmJcEi6cqPxefwJg0uXs6vHUJIAAAAASUVORK5CYII=" alt="email-icon" class="w-5 sm:w-6 h-5 sm:h-6 object-contain">
+                  <span class="text-sm sm:text-base text-black" data-translate="contact_email">global@apexelectric.com</span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Column 3 : Hours -->
+            <div class="flex flex-col items-start gap-4 sm:gap-8">
+              <h5 class="text-base sm:text-lg md:text-xl font-semibold text-black" data-translate="footer_office_hours">Office Hours</h5>
+
+              <div class="flex flex-col items-start gap-2 sm:gap-4">
+                <div class="flex justify-between items-center gap-2 sm:gap-4 w-full">
+                  <span class="text-sm sm:text-base font-normal text-black" data-translate="weekday_date">MON - FRI</span>
+                  <span class="text-sm sm:text-base font-normal text-black" data-translate="weekday_time">9:00 AM - 6:00 PM</span>
+                </div>
+
+                <div class="flex justify-between items-center gap-2 sm:gap-4 w-full">
+                  <span class="text-sm sm:text-base font-normal text-black" data-translate="sat_date">SAT</span>
+                  <span class="text-sm sm:text-base font-normal text-black" data-translate="sat_time">10:00 AM - 5:00 PM</span>
+                </div>
+
+                <div class="flex justify-between items-center gap-2 sm:gap-4 w-full">
+                  <span class="text-sm sm:text-base font-normal text-black" data-translate="sun_date">SUN</span>
+                  <span class="text-sm sm:text-base font-semibold text-[#222DF6]" data-translate="close_time">Closed</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="flex flex-col sm:flex-row justify-between px-5 md:px-10 mt-15 md:mt-30 gap-6 sm:gap-0">
+            <span class="text-sm sm:text-base font-normal text-black" data-translate="footer_copyright">© 2026 Apex Electric. All rights reserved.</span>
+            
+            <div class="flex items-center overflow-x-auto scrollbar-none gap-3 sm:gap-6">
+              <a href="#" onclick="return false;" class="text-sm sm:text-base font-normal text-black" data-translate="footer_privacy">Privacy Policy</a>
+              <a href="#" onclick="return false;" class="text-sm sm:text-base font-normal text-black" data-translate="footer_terms">Terms of Use</a>
+              <a href="#" onclick="return false;" class="text-sm sm:text-base font-normal text-black" data-translate="footer_recalls">Safety Recalls</a>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </section>
+
+    <script src="/Apex Javascript/apex-home.js"></script>
+
+</body>
+</html>
