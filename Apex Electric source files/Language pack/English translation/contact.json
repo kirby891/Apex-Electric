@@ -1,0 +1,57 @@
+{
+    "nav_models": "Models",
+    "nav_promotions": "Promotions",
+    "nav_activities": "Activities",
+    "nav_contact": "Contact",
+    "btn_test_drive": "Schedule Test Drive",
+
+    "contact_hero_title": "GET IN TOUCH",
+    "contact_hero_subtitle": "Connect with the future of mobility. Whether you have questions about our rental fleet or need support, our team is here to guide your journey.",
+
+    "contact_info_title": "Contact Information",
+    "contact_info_subtitle": "Visit our Apex rental hub for exclusive viewings and booking consultations.",
+
+    "contact_hq_label": "HEADQUARTERS",
+    "contact_location": "No. 8, Chuangye Road, Haidian District, Beijing, China",
+
+    "contact_phone_label": "CONTACT",
+    "contact_number": "+86-10-244-5641",
+
+    "contact_email_label": "E-MAIL",
+    "contact_email": "global@apexelectric.com",
+
+    "footer_office_hours": "OFFICE HOURS",
+    "weekday_date": "MON - FRI",
+    "weekday_time": "9:00 AM - 6:00 PM",
+    "sat_date": "SAT",
+    "sat_time": "10:00 AM - 5:00 PM",
+    "sun_date": "SUN",
+    "close_time": "Closed",
+
+    "digital_connect": "DIGITAL CONNECT",
+
+    "direct_inquiry_title": "Direct Inquiry",
+    "direct_inquiry_subtitle": "Send us a message and our specialist team will respond within 24 hours.",
+
+    "error-message": "Please fill in all required fields before confirming your reservation.",
+
+    "label_fullname": "FULL NAME",
+    "label_email": "EMAIL ADDRESS",
+    "label_phone": "PHONE NUMBER",
+    "label_subject": "SUBJECT",
+    "label_message": "YOUR MESSAGE",
+
+    "contact_terms_agree": "I agree to the Privacy Policy and consent to Apex Electric contacting me via the provided details.",
+    "security_verification": "SECURITY VERIFICATION",
+    "btn_submit_inquiry": "Submit Inquiry",
+
+    "open_maps": "Open Maps",
+
+    "footer_back_to_top": "Back to Top",
+    "footer_desc": "Defining the future of electric mobility through precision engineering and avant-garde design. Join us in the journey towards sustainable luxury.",
+    "footer_contact_center": "Contact Center",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "Privacy Policy",
+    "footer_terms": "Terms of Use",
+    "footer_recalls": "Safety Recalls"
+  }

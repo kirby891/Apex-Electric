@@ -1,0 +1,80 @@
+{
+    "nav_models": "モデル",
+    "nav_promotions": "プロモーション",
+    "nav_activities": "アクティビティ",
+    "nav_contact": "お問い合わせ",
+    "btn_test_drive": "試乗予約",
+  
+    "g9_hero_title": "G9",
+    "g9_hero_subtitle": "究極のインテリジェントSUV。あなたの旅のために設計された1台。",
+  
+    "hero_feature_title": "空力性能の極致",
+    "hero_feature_desc": "見出しとコンテンツを調整して、G9のライブプレビューを更新します。",
+  
+    "tag_innovation": "イノベーション",
+    "g9_aero_title": "空力性能の効率",
+    "g9_aero_subtitle": "多様性を追求した設計",
+    "g9_aero_desc1": "エアロダイナミクスとアスリートの融合。",
+    "g9_aero_desc2": "Apex G9は空気抵抗係数（Cd値）0.235を実現し、次の冒険に必要な広大なユーティリティを犠牲にすることなく、優れた効率性を発揮します。",
+
+    "tag_engineering": "エンジニアリング",
+    "g9_awd_title": "デュアルモーターとトラクション",
+    "g9_awd_subtitle": "アスレチックAWD",
+    "g9_awd_desc1": "デュアルモーターAWDシステムとBrembo製高性能ブレーキシステムを搭載。",
+    "g9_awd_desc2": "インテリジェントAWDで道路を掌握。高性能デュアルモーターを搭載したApex G9は、路面状況をミリ秒単位でモニタリングし、あらゆる環境で最大のグリップ力を発揮するために各ホイールへ精密なトルクを供給します。",
+
+    "tag_interior": "インテリア",
+    "g9_cabin_title": "広大なインテリア",
+    "g9_cabin_subtitle": "没入感のあるサウンドと快適性",
+    "g9_cabin_desc1": "あなた自身が定義する聖域。",
+    "g9_cabin_desc2": "プレミアムな素材と没入感のあるサラウンドサウンドシステムを備え、あなたのニーズを先取りするコックピットをご体験ください。すべてのディテールが細部までこだわり抜かれ、つながりと快適性に満ちた旅をお約束します。",
+
+    "btn_learn_more": "テクノロジーを詳しく見る",
+
+    "tech_title": "優れた技術仕様",
+    "tech_subtitle": "一切の妥協を許さない設計。ピュアEVパワーと精密なハンドリングの融合。",
+    "spec_max_range": "航続距離",
+    "spec_acceleration": "加速性能",
+    "spec_peak_power": "最高出力",
+    "spec_fast_charge": "急速充電",
+    "btn_download_sheet": "詳細スペックシートをダウンロード (PDF)",
+
+    "exclusive_title": "レンタルのご案内",
+    "exclusive_subtitle": "G9のビジョンをいち早く取り入れる先駆者のための特別特典。",
+    "link_view_activities": "すべてのプロモーションを見る →",
+
+    "tag_launch": "ローンチ",
+    "card_expo_title": "G9 Launch Edition",
+    "card_expo_desc": "専用トリムとパフォーマンスアップグレードを備えた、G9デビューシリーズの最高峰をご体験ください。",
+
+    "tag_offer": "オファー",
+    "card_gala_title": "週末レンタルプラン",
+    "card_gala_desc": "G9の週間および週末レンタルをお得な料金でご利用いただけます。",
+
+    "tag_service": "サービス",
+    "card_seminar_title": "充電ネットワークへのアクセス",
+    "card_seminar_desc": "全国の提携ステーションで、G9のレンタルにシームレスで迅速な充電アクセスを提供します。",
+
+    "btn_discover_event": "詳しく見る",
+
+    "journey_title": "あなたのApexの旅が始まります",
+    "journey_subtitle": "最寄りのエクスペリエンスセンターで、エレガンスとインテリジェンスの融合を直接ご体感ください。",
+  
+    "footer_back_to_top": "ページ上部へ戻る",
+    "footer_desc": "精密なエンジニアリングとアバンギャルドなデザインで、電気モビリティの未来を定義します。持続可能なラグジュアリーへの旅へ。",
+    "footer_contact_center": "コンタクトセンター",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-569-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "営業時間",
+    "weekday_date": "月 - 金",
+    "weekday_time": "9:00 - 18:00",
+    "sat_date": "土",
+    "sat_time": "10:00 - 17:00",
+    "sun_date": "日",
+    "close_time": "定休日",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "プライバシーポリシー",
+    "footer_terms": "利用規約",
+    "footer_recalls": "リコール情報"
+  }

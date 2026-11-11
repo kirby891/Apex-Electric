@@ -1,0 +1,80 @@
+{
+  "nav_models": "モデル",
+  "nav_promotions": "プロモーション",
+  "nav_activities": "アクティビティ",
+  "nav_contact": "お問い合わせ",
+  "btn_test_drive": "試乗予約",
+
+  "p7_hero_title": "P7 WING",
+  "p7_hero_subtitle": "象徴的なシザードアと圧倒的なパフォーマンスの融合。あなたの旅のために作られた1台。",
+
+  "hero_feature_title": "エアロダイナミクス",
+  "hero_feature_desc": "見出しとコンテンツを調整して、P7 Wingのライブプレビューを更新します。",
+
+  "tag_innovation": "イノベーション",
+  "p7_aerodynamics_title": "インスパイアされた空力性能",
+  "p7_aerodynamics_subtitle": "アクティブリアウイング＆ウィングドア",
+  "p7_aerodynamics_desc1": "シグネチャーである電動シザーズドアとアクティブリアスポイラーを備えたP7 Wingは、高速走行時に強力なダウンフォースを発生させます。",
+  "p7_aerodynamics_desc2": "カーボンファイバー強化ボディパネルと彫刻的なエアダクトが、高速コーナリング時の安定性を最大限に高めると同時に、あらゆる道路で圧倒的な存在感を放ちます。",
+
+  "tag_engineering": "エンジニアリング",
+  "p7_awd_title": "ハイパーパフォーマンスAWD",
+  "p7_awd_subtitle": "クアッドモーター・ダイナミック・トルク・ベクタリング",
+  "p7_awd_desc1": "高度なマルチモーターパワートレインを搭載したP7 Wingは、瞬時の発進加速とサーキットチューンのハンドリングを提供します。",
+  "p7_awd_desc2": "インテリジェント・トルク・ベクタリングがホイールのスリップを継続的に監視し、最大のグリップが必要な場所に正確にパワーを配分します。",
+
+  "tag_interior": "インテリア",
+  "p7_cockpit_title": "スポーツラグジュアリーコックピット",
+  "p7_cockpit_subtitle": "レザー＆アルカンターラの聖域",
+  "p7_cockpit_desc1": "軽量カーボンファイバー製バケットシート、AR（拡張現実）ヘッドアップディスプレイ、カスタムアンビエントライティングを備えた、レーシングインスパイアのコックピットへ足を踏み入れてください。",
+  "p7_cockpit_desc2": "プレミアムなアルカンターラの仕上げと没入感のあるサラウンドサウンドシステムが、ハイパフォーマンスとラグジュアリーな快適性の比類なき融合を生み出します。",
+
+  "btn_learn_more": "テクノロジーを詳しく見る",
+
+  "tech_title": "優れた技術仕様",
+  "tech_subtitle": "一切の妥協を許さない設計。ピュアEVパワーと精密なハンドリングの融合。",
+  "spec_max_range": "航続距離",
+  "spec_acceleration": "加速性能",
+  "spec_peak_power": "最高出力",
+  "spec_fast_charge": "急速充電",
+  "btn_download_sheet": "詳細スペックシートをダウンロード (PDF)",
+
+  "exclusive_title": "レンタルのご案内",
+  "exclusive_subtitle": "P7 Wingのビジョンをいち早く取り入れる先駆者のための特別特典。",
+  "link_view_activities": "すべてのプロモーションを見る →",
+
+  "tag_launch": "ローンチ",
+  "card_expo_title": "P7 WING Launch Edition",
+  "card_expo_desc": "専用トリムとパフォーマンスアップグレードを備えた、P7 Wingデビューシリーズの最高峰をご体験ください。",
+
+  "tag_offer": "オファー",
+  "card_gala_title": "週末レンタルプラン",
+  "card_gala_desc": "P7 Wingの週間および週末レンタルをお得な料金でご利用いただけます。",
+
+  "tag_service": "サービス",
+  "card_seminar_title": "充電ネットワークへのアクセス",
+  "card_seminar_desc": "全国の提携ステーションで、P7 Wingのレンタルにシームレスで迅速な充電アクセスを提供します。",
+
+  "btn_discover_event": "詳しく見る",
+
+  "journey_title": "あなたのApexの旅が始まります",
+  "journey_subtitle": "最寄りのエクスペリエンスセンターで、エレガンスとインテリジェンスの融合を直接ご体感ください。",
+
+  "footer_back_to_top": "ページ上部へ戻る",
+  "footer_desc": "精密なエンジニアリングとアバンギャルドなデザインで、電気モビリティの未来を定義します。持続可能なラグジュアリーへの旅へ。",
+  "footer_contact_center": "コンタクトセンター",
+  "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+  "contact_number": "+86-569-244-5641",
+  "contact_email": "global@apexelectric.com",
+  "footer_office_hours": "営業時間",
+  "weekday_date": "月 - 金",
+  "weekday_time": "9:00 - 18:00",
+  "sat_date": "土",
+  "sat_time": "10:00 - 17:00",
+  "sun_date": "日",
+  "close_time": "定休日",
+  "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+  "footer_privacy": "プライバシーポリシー",
+  "footer_terms": "利用規約",
+  "footer_recalls": "リコール情報"
+}

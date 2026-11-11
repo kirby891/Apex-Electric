@@ -1,0 +1,69 @@
+{
+    "nav_models": "Models",
+    "nav_promotions": "Promotions",
+    "nav_activities": "Activities",
+    "nav_contact": "Contact",
+    "btn_test_drive": "Schedule Test Drive",
+
+    "test_drive_hero_title": "EXPERIENCE THE FUTURE",
+    "test_drive_hero_subtitle": "Secure your position behind the wheel",
+
+    "book_title": "Book Your Schedule",
+    "book_subtitle": "Fill in the details below to reserve an exclusive rental from our latest models.",
+
+    "error-message": "Please fill in all required fields before confirming your reservation.",
+
+    "Vechicle_selection": "01. VEHICLE SELECTION",
+    "Preferred_model": "Preferred Apex Model",
+    "option_select_model": "Select a model",
+
+    "step_2_title": "02. PERSONAL DETAILS",
+    "label_fullname": "Full Name",
+    "label_phone": "Phone Number",
+    "label_email": "Email Address",
+
+    "step_3_title": "03. BRANCH & SCHEDULING",
+    "label_branch": "Pick up Branch",
+    "option_select_location": "Select location",
+    "label_date": "Pick up Date",
+    "label_timeslot": "Pick up Time Slot",
+    "option_select_time": "Select available time",
+    "morning_time": "10:00 AM - 12:00 PM",
+    "afternoon_time": "1:00 PM - 04:00 PM",
+    "evening_time": "5:00 PM - 06:00 PM",
+
+    "terms_agree_title": "I agree to the privacy policy and terms of use.",
+    "terms_agree_desc": "Apex Electric respects your data privacy. We'll only use your info to manage your booking.",
+    "recaptcha_text": "I'm not a robot",
+    "btn_confirm_reservation": "Confirm Reservation",
+
+    "note_title": "Experience Note",
+    "note_desc": "Standard test drives typically last 45 minutes and include a guided walkthrough of our autonomous pilot system and charging ecosystem.",
+
+    "terms_title": "Rental Terms & Conditions",
+    "terms_intro": "By booking a rental with Apex Electric, you agree to the following terms as defined in our current fleet operations policy :",
+    "term_bullet_1": "Renters must be at least 20 years of age and hold a valid, unrestricted driver's license.",
+    "term_bullet_2": "A valid license must be presented in person at the time of the vehicle pick up.",
+    "term_bullet_3": "Apex Electric reserves the right to cancel or reschedule bookings due to adverse weather or vehicle availability.",
+    "term_bullet_4": "Renters agree to follow all instructions provided by the Apex Electric Specialist during the drive.",
+    "term_bullet_5": "Liability coverage is provided during the rental period, subject to local regulations and policy limitations.",
+    "terms_footer_note": "Note: These terms are subject to change and were last updated on February 24, 2026.",
+
+    "footer_back_to_top": "Back to Top",
+    "footer_desc": "Defining the future of electric mobility through precision engineering and avant-garde design. Join us in the journey towards sustainable luxury.",
+    "footer_contact_center": "Contact Center",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-10-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "Office Hours",
+    "weekday_date": "MON - FRI",
+    "weekday_time": "9:00 AM - 6:00 PM",
+    "sat_date": "SAT",
+    "sat_time": "10:00 AM - 5:00 PM",
+    "sun_date": "SUN",
+    "close_time": "Closed",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "Privacy Policy",
+    "footer_terms": "Terms of Use",
+    "footer_recalls": "Safety Recalls"
+  }

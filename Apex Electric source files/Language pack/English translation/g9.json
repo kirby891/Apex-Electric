@@ -1,0 +1,80 @@
+{
+    "nav_models": "Models",
+    "nav_promotions": "Promotions",
+    "nav_activities": "Activities",
+    "nav_contact": "Contact",
+    "btn_test_drive": "Schedule Test Drive",
+  
+    "g9_hero_title": "G9",
+    "g9_hero_subtitle": "The Ultimate Intelligent SUV. Designed for your journey.",
+  
+    "hero_feature_title": "Aerodynamic Mastery",
+    "hero_feature_desc": "Watch the G9 in motion and see its design from every angle.",
+  
+    "tag_innovation": "Innovation",
+    "g9_aero_title": "Aerodynamic Efficiency",
+    "g9_aero_subtitle": "Engineered for Versatility",
+    "g9_aero_desc1": "Aerodynamic meets athletic.",
+    "g9_aero_desc2": "The Apex G9 achieves a drag coefficient of just 0.235Cd, enabling superior efficiency without compromising on the expansive utility required for your next adventure.",
+  
+    "tag_engineering": "Engineering",
+    "g9_awd_title": "Dual Motor and Traction",
+    "g9_awd_subtitle": "Athletic All Wheel Drive",
+    "g9_awd_desc1": "Equipped with a dual motor all wheel drive system and Brembo high performance braking.",
+    "g9_awd_desc2": "Command the road with intelligent all wheel drive. Powered by high performance dual motors, the Apex G9 monitors road conditions in milliseconds, delivering precision torque to every wheel for maximum grip in any environment.",
+  
+    "tag_interior": "Interior",
+    "g9_cabin_title": "Expansive Interior",
+    "g9_cabin_subtitle": "Immersive sound and comfort",
+    "g9_cabin_desc1": "A sanctuary defined by you.",
+    "g9_cabin_desc2": "Experience a cockpit that anticipates your needs, featuring premium materials and an immersive surround sound system. Every detail is meticulously crafted to ensure your journey is as comfortable as it is connected.",
+  
+    "btn_learn_more": "Explore the technology",
+  
+    "tech_title": "Technical Excellence",
+    "tech_subtitle": "Engineered without compromise. Pure electric power meets surgical precision handling.",
+    "spec_max_range": "MAX RANGE",
+    "spec_acceleration": "ACCELERATION",
+    "spec_peak_power": "PEAK POWER",
+    "spec_fast_charge": "FAST CHARGE",
+    "btn_download_sheet": "Download Full Technical Sheet (PDF)",
+  
+    "exclusive_title": "Plan Your Rental",
+    "exclusive_subtitle": "Exclusive benefits designed for the early pioneers of the G9 vision.",
+    "link_view_activities": "View All Promotions →",
+  
+    "tag_launch": "Launch",
+    "card_expo_title": "G9 Launch Edition",
+    "card_expo_desc": "Experience the pinnacle of our G9 debut series with exclusive trims and performance upgrades.",
+  
+    "tag_offer": "Offer",
+    "card_gala_title": "Weekend Rental Deals",
+    "card_gala_desc": "Unlock premium savings on weekly and weekend rentals of the G9.",
+  
+    "tag_service": "Service",
+    "card_seminar_title": "Charging Network Access",
+    "card_seminar_desc": "Seamless, rapid charging access for your G9 rental at partner stations nationwide.",
+  
+    "btn_discover_event": "Learn More",
+  
+    "journey_title": "Your Apex Journey Awaits",
+    "journey_subtitle": "Experience the fusion of elegance and intelligence firsthand at your nearest experience center.",
+  
+    "footer_back_to_top": "Back to Top",
+    "footer_desc": "Defining the future of electric mobility through precision engineering and avant-garde design. Join us in the journey towards sustainable luxury.",
+    "footer_contact_center": "Contact Center",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-10-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "Office Hours",
+    "weekday_date": "MON - FRI",
+    "weekday_time": "9:00 AM - 6:00 PM",
+    "sat_date": "SAT",
+    "sat_time": "10:00 AM - 5:00 PM",
+    "sun_date": "SUN",
+    "close_time": "Closed",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "Privacy Policy",
+    "footer_terms": "Terms of Use",
+    "footer_recalls": "Safety Recalls"
+  }

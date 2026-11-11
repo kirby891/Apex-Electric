@@ -1,0 +1,80 @@
+{
+  "nav_models": "Models",
+  "nav_promotions": "Promotions",
+  "nav_activities": "Activities",
+  "nav_contact": "Contact",
+  "btn_test_drive": "Schedule Test Drive",
+
+  "s1_hero_title": "Apex Model S1",
+  "s1_hero_subtitle": "Engineered for performance. Designed for your journey.",
+
+  "hero_feature_title": "Aerodynamic Mastery",
+  "hero_feature_desc": "Watch the Apex Model S1 in motion and see its design from every angle.",
+
+  "tag_innovation": "Innovation",
+  "s1_aero_title": "Aerodynamic Excellence",
+  "s1_aero_subtitle": "Slice Through the Air",
+  "s1_aero_desc1": "The Apex Model S1 features a drag coefficient of just 0.236Cd, one of the lowest in its class.",
+  "s1_aero_desc2": "Every curve is designed to slice through the air, reducing energy consumption and wind noise while increasing stability at high speeds. The hidden door handles and active grille shutters work in harmony for a seamless silhouette.",
+
+  "tag_engineering": "Engineering",
+  "s1_awd_title": "Wheel Drive Precision",
+  "s1_awd_subtitle": "Master the Road",
+  "s1_awd_desc1": "Equipped with a dual motor all wheel drive system and high performance braking.",
+  "s1_awd_desc2": "The Apex Model S1 doesn't just go fast, it stops with authority. Our smart torque vectoring system adjusts power to each wheel in milliseconds, ensuring maximum grip in every corner, regardless of the weather.",
+
+  "tag_interior": "Interior",
+  "s1_cabin_title": "Sculpted Sound",
+  "s1_cabin_subtitle": "Immersive Surround Sound",
+  "s1_cabin_desc1": "Step into a cabin designed to be your private concert hall.",
+  "s1_cabin_desc2": "The Apex Model S1 features a speaker system with Dolby Atmos support. Strategically placed speakers, including those integrated into the driver's headrest, create a 7.1.4 spatial audio experience that moves with you.",
+
+  "btn_learn_more": "Explore the technology",
+
+  "tech_title": "Technical Excellence",
+  "tech_subtitle": "Engineered without compromise. Pure electric power meets surgical precision handling.",
+  "spec_max_range": "MAX RANGE",
+  "spec_acceleration": "ACCELERATION",
+  "spec_peak_power": "PEAK POWER",
+  "spec_fast_charge": "FAST CHARGE",
+  "btn_download_sheet": "Download Full Technical Sheet (PDF)",
+
+  "ownership_title": "Plan Your Rental",
+  "ownership_subtitle": "Exclusive benefits designed for the early pioneers of the Apex Model S1 vision.",
+  "link_view_activities": "View All Promotions →",
+
+  "tag_launch": "Launch",
+  "card_launch_title": "Apex S1 Launch Edition",
+  "card_launch_desc": "Experience the pinnacle of our Apex Model S1 debut series with exclusive trims and performance upgrades.",
+
+  "tag_offer": "Offer",
+  "card_tradein_title": "Weekend Rental Deals",
+  "card_tradein_desc": "Unlock premium savings on weekly and weekend rentals of the Apex Model S1.",
+
+  "tag_service": "Service",
+  "card_charging_title": "Charging Network Access",
+  "card_charging_desc": "Seamless, rapid charging access for your Apex Model S1 rental at partner stations nationwide.",
+
+  "btn_discover_event": "Learn More",
+
+  "journey_title": "Your Apex Journey Awaits",
+  "journey_subtitle": "Experience the fusion of elegance and intelligence firsthand at your nearest experience center.",
+
+  "footer_back_to_top": "Back to Top",
+  "footer_desc": "Defining the future of electric mobility through precision engineering and avant-garde design. Join us in the journey towards sustainable luxury.",
+  "footer_contact_center": "Contact Center",
+  "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+  "contact_number": "+86-10-244-5641",
+  "contact_email": "global@apexelectric.com",
+  "footer_office_hours": "Office Hours",
+  "weekday_date": "MON - FRI",
+  "weekday_time": "9:00 AM - 6:00 PM",
+  "sat_date": "SAT",
+  "sat_time": "10:00 AM - 5:00 PM",
+  "sun_date": "SUN",
+  "close_time": "Closed",
+  "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+  "footer_privacy": "Privacy Policy",
+  "footer_terms": "Terms of Use",
+  "footer_recalls": "Safety Recalls"
+}

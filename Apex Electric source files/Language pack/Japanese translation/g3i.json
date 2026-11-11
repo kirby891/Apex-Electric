@@ -1,0 +1,80 @@
+{
+    "nav_models": "モデル",
+    "nav_promotions": "プロモーション",
+    "nav_activities": "アクティビティ",
+    "nav_contact": "お問い合わせ",
+    "btn_test_drive": "試乗予約",
+  
+    "g3i_hero_title": "G3i",
+    "g3i_hero_subtitle": "ダイナミックなEVパフォーマンスと現代的な汎用性の融合。あなたの旅のために作られた1台。",
+  
+    "hero_feature_title": "エアロダイナミクス",
+    "hero_feature_desc": "見出しとコンテンツを調整して、G3iのライブプレビューを更新します。",
+  
+    "tag_innovation": "イノベーション",
+    "g3i_proportions_title": "力強いSUVプロポーション",
+    "g3i_proportions_subtitle": "洗練されたデザインとアスレチックな佇まい",
+    "g3i_proportions_desc1": "G3iは、アグレッシブでエアロダイナミクスに優れたクロスオーバーシルエットに、高い最低地上高とワイドトレッドのプロポーションを組み合わせています。",
+    "g3i_proportions_desc2": "一体型の格納式ドアハンドルとダイナミックなルーフラインが空気抵抗を最小限に抑え、キャビンの空間効率を最大限に高めます。",
+
+    "tag_engineering": "エンジニアリング",
+    "g3i_torque_title": "スマート・トルク・ベクタリング",
+    "g3i_torque_subtitle": "全地形適応型パワートレイン",
+    "g3i_torque_desc1": "デュアルモーターによるインテリジェントAWDシステムを搭載したG3iは、リアルタイムの路面状況に基づいて4輪すべてに即座にパワーを再配分します。",
+    "g3i_torque_desc2": "急な山道から濡れた街中の道路まで、確固たる安定性と即座のスロットルレスポンスをご体験ください。",
+
+    "tag_interior": "インテリア",
+    "g3i_cockpit_title": "広大なコックピットと実用性",
+    "g3i_cockpit_subtitle": "多用途なモジュール式キャビンレイアウト",
+    "g3i_cockpit_desc1": "アクティブなライフスタイルのために設計されたG3iは、フルフラットに折りたためるリアシート、広々としたフロントトランク、上質なパノラマガラスルーフを備えています。",
+    "g3i_cockpit_desc2": "高度なクライメートコントロールと高精細デジタルコックピットが、パフォーマンスと快適性の完璧なバランスを維持します。",
+
+    "btn_learn_more": "テクノロジーを詳しく見る",
+
+    "tech_title": "優れた技術仕様",
+    "tech_subtitle": "一切の妥協を許さない設計。ピュアEVパワーと精密なハンドリングの融合。",
+    "spec_max_range": "航続距離",
+    "spec_acceleration": "加速性能",
+    "spec_peak_power": "最高出力",
+    "spec_fast_charge": "急速充電",
+    "btn_download_sheet": "詳細スペックシートをダウンロード (PDF)",
+
+    "exclusive_title": "レンタルのご案内",
+    "exclusive_subtitle": "G3iのビジョンをいち早く取り入れる先駆者のための特別特典。",
+    "link_view_activities": "すべてのプロモーションを見る →",
+
+    "tag_launch": "ローンチ",
+    "card_expo_title": "G3i Launch Edition",
+    "card_expo_desc": "専用トリムとパフォーマンスアップグレードを備えた、G3iデビューシリーズの最高峰をご体験ください。",
+
+    "tag_offer": "オファー",
+    "card_gala_title": "週末レンタルプラン",
+    "card_gala_desc": "G3iの週間および週末レンタルをお得な料金でご利用いただけます。",
+
+    "tag_service": "サービス",
+    "card_seminar_title": "充電ネットワークへのアクセス",
+    "card_seminar_desc": "全国の提携ステーションで、G3iのレンタルにシームレスで迅速な充電アクセスを提供します。",
+
+    "btn_discover_event": "詳しく見る",
+
+    "journey_title": "あなたのApexの旅が始まります",
+    "journey_subtitle": "最寄りのエクスペリエンスセンターで、エレガンスとインテリジェンスの融合を直接ご体感ください。",
+  
+    "footer_back_to_top": "ページ上部へ戻る",
+    "footer_desc": "精密なエンジニアリングとアバンギャルドなデザインで、電気モビリティの未来を定義します。持続可能なラグジュアリーへの旅へ。",
+    "footer_contact_center": "コンタクトセンター",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-569-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "営業時間",
+    "weekday_date": "月 - 金",
+    "weekday_time": "9:00 - 18:00",
+    "sat_date": "土",
+    "sat_time": "10:00 - 17:00",
+    "sun_date": "日",
+    "close_time": "定休日",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "プライバシーポリシー",
+    "footer_terms": "利用規約",
+    "footer_recalls": "リコール情報"
+  }

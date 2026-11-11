@@ -1,0 +1,70 @@
+{
+    "nav_models": "Models",
+    "nav_promotions": "Promotions",
+    "nav_activities": "Activities",
+    "nav_contact": "Contact",
+    "btn_test_drive": "Schedule Test Drive",
+
+    "activities_hero_title": "Apex Performance Academy 2026",
+    "activities_date": "October 24, 2026",
+    "activities_location": "Guangdong, China",
+
+    "stat_attendees": "ATTENDEES",
+    "stat_duration": "DURATION",
+    "stat_duration_val": "3 Days",
+    "stat_track": "FORMAT",
+    "stat_track_val": "Grand Prix",
+    "stat_tier": "ENTRY",
+    "stat_tier_val": "Exclusive",
+
+    "activity_quote": "\"The Apex Performance Academy 2026 isn't just another track day; it's a masterclass in intelligent speed, a symphony of dual-motor electric power, and a glimpse into the AI driven DNA that defines Apex mobility.\"",
+    "activity_desc_1": "As the sun dipped below the horizon of the Autodrome, the first fleet of Apex Performance models took to the track. The evening silence was broken only by the sharp whine of high-efficiency electric motors and the rhythmic churn of performance tires against heated asphalt. Participants experienced firsthand the seamless transition from luxury commuting to track-ready aggression.",
+    
+    "precision_title": "The Pinnacle of Precision",
+    "precision_desc": "Engineers and professional drivers gathered to push the limits of our latest AI driven stability control algorithms. The event showcased the proprietary \"Apex Performance\" torque vectoring system, which adjusts power delivery across all wheels within in milliseconds faster than a human blink.",
+    "activity_img_caption": "\"We aren't just building cars, we are building robots that you happen to sit inside of,\" remarked Chief Design Officer, Marcus Vane, during the keynote. This sentiment echoed throughout the three-day academy, as participants transitioned from classroom theory to high Apex track sessions.",
+
+    "gallery_title": "Apex experience",
+    "gallery_subtitle": "Captured moments from the heart of the Apex experience.",
+    "gallery_enlarge": "View All Images",
+
+    "evolution_title": "Experience the Evolution",
+    "evolution_desc": "Join our exclusive circle of pioneers. Register now for early access to upcoming Apex track events, smart city pilot programs, and VIP model reveals.",
+    
+    "location_badge": "NEXT EVENT",
+    "event_tag": "SUSTAINABILITY SUMMIT",
+
+    "Experience_title": "More Apex Experiences",
+    "Experience_subtitle": "Continue your journey through our curated calendar of innovation and adventure.",
+
+    "tag_summit": "Upcoming",
+    "summit_2026": "Nov 30, 2026 • 10:00 AM",
+    "card_summit_title": "Sustainability Summit 2026",
+    "btn_discover_event": "Discover Event",
+
+    "tag_winter": "Upcoming",
+    "winter-expedition": "Dec 25, 2026 • 07:30 PM",
+    "card_winter_title": "Apex Winter Expedition",
+
+    "tag_luxury": "Upcoming",
+    "apex-luxury": "Dec 30, 2026 • 03:00 PM",
+    "card_luxury_title": "The Future of Apex Luxury",
+
+    "footer_back_to_top": "Back to Top",
+    "footer_desc": "Defining the future of electric mobility through precision engineering and avant-garde design. Join us in the journey towards sustainable luxury.",
+    "footer_contact_center": "Contact Center",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-10-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "Office Hours",
+    "weekday_date": "MON - FRI",
+    "weekday_time": "9:00 AM - 6:00 PM",
+    "sat_date": "SAT",
+    "sat_time": "10:00 AM - 5:00 PM",
+    "sun_date": "SUN",
+    "close_time": "Closed",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "Privacy Policy",
+    "footer_terms": "Terms of Use",
+    "footer_recalls": "Safety Recalls"
+  }

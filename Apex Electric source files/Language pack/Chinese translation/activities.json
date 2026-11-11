@@ -1,0 +1,70 @@
+{
+    "nav_models": "车型",
+    "nav_promotions": "促销活动",
+    "nav_activities": "精彩活动",
+    "nav_contact": "联系我们",
+    "btn_test_drive": "预约试驾",
+
+    "activities_hero_title": "2026年巅峰性能学院",
+    "activities_date": "2026年10月24日",
+    "activities_location": "中国广东",
+
+    "stat_attendees": "参会人数",
+    "stat_duration": "活动时长",
+    "stat_duration_val": "3天",
+    "stat_track": "赛道形式",
+    "stat_track_val": "大奖赛",
+    "stat_tier": "入场级别",
+    "stat_tier_val": "专属尊享",
+
+    "activity_quote": "“2026年巅峰性能学院不仅仅是一场赛道日活动，它是关于智能速度的大师课，是双电机电动动力的交响乐，更是定义巅峰出行未来的AI驱动DNA的惊鸿一瞥。”",
+    "activity_desc_1": "当夕阳沉入赛车场的地平线，首批巅峰性能车型驶上了赛道。夜色中的寂静仅被高效电机的尖锐嗡鸣和高性能轮胎摩擦加热沥青的节奏感打破。参与者亲身体验了从豪华通勤向赛道级狂暴性能的无缝过渡。",
+    
+    "precision_title": "极致精准的巅峰",
+    "precision_desc": "工程师和专业车手齐聚一堂，共同挑战我们最新AI驱动稳定性控制算法的极限。活动现场展示了专属的“巅峰性能”扭矩矢量分配系统，该系统能在几毫秒内（比人类眨眼还快）完成全车轮的动力输出调整。",
+    "activity_img_caption": "“我们不只是在造车，我们在打造恰好能让你坐在里面的机器人，”首席设计官马库斯·韦恩（Marcus Vane）在主题演讲中如是说。随着学员们从课堂理论过渡到高强度的巅峰赛道实操，这种情感在三天的学院活动中引发了强烈的共鸣。",
+
+    "gallery_title": "巅峰体验",
+    "gallery_subtitle": "捕捉巅峰体验核心的精彩瞬间。",
+    "gallery_enlarge": "查看所有图片",
+
+    "evolution_title": "体验进化之旅",
+    "evolution_desc": "加入我们的先锋专属圈子。立即注册，优先获取未来巅峰赛道活动、智慧城市试点项目以及VIP车型揭幕的参观权限。",
+    
+    "location_badge": "下期活动",
+    "event_tag": "可持续发展峰会",
+
+    "Experience_title": "更多巅峰体验",
+    "Experience_subtitle": "通过我们精心策划的创新与冒险日程表，继续您的探索之旅。",
+
+    "tag_summit": "即将开始",
+    "summit_2026": "2026年11月30日 • 上午 10:00",
+    "card_summit_title": "2026年可持续发展峰会",
+    "btn_discover_event": "探索活动",
+
+    "tag_winter": "即将开始",
+    "winter-expedition": "2026年12月25日 • 下午 07:30",
+    "card_winter_title": "巅峰冬季探索之旅",
+
+    "tag_luxury": "即将开始",
+    "apex-luxury": "2026年12月30日 • 下午 03:00",
+    "card_luxury_title": "巅峰豪华的未来",
+
+    "footer_back_to_top": "返回顶部",
+    "footer_desc": "以精密工程与前沿设计定义电动出行的未来。与我们一同开启可持续豪华之旅。",
+    "footer_contact_center": "客户服务中心",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-569-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "营业时间",
+    "weekday_date": "周一至周五",
+    "weekday_time": "09:00 - 18:00",
+    "sat_date": "周六",
+    "sat_time": "10:00 - 17:00",
+    "sun_date": "周日",
+    "close_time": "休息",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "隐私政策",
+    "footer_terms": "使用条款",
+    "footer_recalls": "安全召回"
+  }

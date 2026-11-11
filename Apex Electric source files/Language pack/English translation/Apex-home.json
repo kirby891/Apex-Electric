@@ -1,0 +1,98 @@
+{
+    "nav_models": "Models",
+    "nav_promotions": "Promotions",
+    "nav_activities": "Activities",
+    "nav_contact": "Contact",
+    "btn_test_drive": "Schedule Test Drive",
+  
+    "hero_title": "Redefining the Electric Journey",
+    "hero_subtitle": "Pioneering the future of smart mobility with industry leading autonomous driving and AI integration.",
+  
+    "future_title": "Discover the Future of Mobility",
+    "future_subtitle": "Explore the range of smart EVs designed to fit every lifestyle, from aerodynamic sedans to spacious family SUVs.",
+  
+    "car_s1_title": "Apex Model S1",
+    "car_s1_tagline": "The pinnacle of electric intelligence.",
+    "car_s1_desc": "Experience the perfect balance of luxury, range, and cutting-edge autonomous technology.",
+    "btn_view_detail": "View Details",
+
+    "car_g9_tagline": "Ultra-fast charging flagship SUV.",
+    "car_g9_desc": "Designed for seamless long-distance travel with premium comfort and next-gen charging speed.",
+
+    "car_p5_tagline": "Smart family sedan redefined.",
+    "car_p5_desc": "Versatile spatial utility combined with intelligent cockpit features for modern daily commutes.",
+
+    "car_g3i_tagline": "Compact, trendy, and intelligent.",
+    "car_g3i_desc": "Urban mobility packed with expressive style, active safety, and effortless parking assist.",
+
+    "car_g7_tagline": "Unleash bold design and performance.",
+    "car_g7_desc": "Featuring iconic scissor doors and high-performance electric drive for ultimate presence.",
+  
+    "tech_title": "ENGINEERED FOR PERFORMANCE",
+    "tech_subtitle": "Designed without compromise. Pure electric power meets surgical precision handling.",
+    "spec_max_range": "MAX RANGE",
+    "spec_acceleration": "ACCELERATION",
+    "spec_peak_power": "PEAK POWER",
+    "spec_fast_charge": "FAST CHARGE",
+    "btn_download_sheet": "Download Full Technical Sheet (PDF)",
+  
+    "cabin_title": "Your Intelligent, Connected Cabin",
+    "cabin_subtitle": "A seamless digital environment designed to learn your preferences and respond to natural language commands.",
+    "cabin_dragon": "New OS design",
+    "cabin_privacy": "Voice Assistant",
+    "btn_explore_os": "Explore OS Features",
+  
+    "ownership_title": "Plan Your Rental",
+    "ownership_subtitle": "Exclusive rewards for our growing community of smart EV drivers.",
+    "link_see_offers": "See All Offers →",
+
+    "service-top": "Charging",
+    "card_charging_title": "Charging Solutions",
+    "card_charging_desc": "Complimentary fast charging at partner stations with every P7 or G9 rental booked this quarter.",
+    "finance-top": "Pricing",   
+    "card_financing_title": "Rental Plan Options",
+    "card_financing_desc": "Flexible daily and monthly rental plans for verified drivers on select 2026 fleet models.",
+    "loyalty-top": "Support",
+    "card_service_title": "Roadside Support",
+    "card_service_desc": "Every Apex Electric rental includes 24/7 roadside help, full insurance and live support.",
+    "btn_learn_more": "Learn More",
+  
+    "exclusive_title": "Exclusive Experiences",
+    "exclusive_subtitle": "Join our community events and experience the cutting edge of sustainable luxury.",
+    "link_view_activities": "View All Activities →",
+
+    "tech_top": "Tech Expo",
+    "event_expo_future": "Nov 24, 2026 • 10:00 AM",
+    "card_expo_title": "Future Intelligence Expo",
+    "card_expo_desc": "Join our lead engineers for an exclusive look at the next generation of Apex OS and autonomous driving capabilities.",
+    "lifestyle-top": "Lifestyle",
+    "event_gala_winter": "Dec 12, 2026 • 07:00 PM",
+    "card_gala_title": "Apex Winter Gala",
+    "card_gala_desc": "An evening of sustainable luxury and fine dining at our flagship experience center. Reservation required for members.",
+    "workshop-top": "Workshop",
+    "event_date_seminar": "Dec 28, 2026 • 02:00 PM",
+    "card_seminar_title": "Smart Charging Workshop",
+    "card_seminar_desc": "Learn how to optimize your vehicle's range and battery health with our technical experts in this hands on workshop.",
+    "btn_discover_event": "Discover Event",
+  
+    "journey_title": "Your Apex Journey Awaits",
+    "journey_subtitle": "Experience the fusion of elegance and intelligence firsthand at your nearest experience center.",
+
+    "footer_back_to_top": "Back to Top",
+    "footer_desc": "Defining the future of electric mobility through precision engineering and avant-garde design. Join us in the journey towards sustainable luxury.",
+    "footer_contact_center": "Contact Center",
+    "contact_location": "Headquarters<br class=\"inline-block\">No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-10-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "Office Hours",
+    "weekday_date": "MON - FRI",
+    "weekday_time": "9:00 AM - 6:00 PM",
+    "sat_date": "SAT",
+    "sat_time": "10:00 AM - 5:00 PM",
+    "sun_date": "SUN",
+    "close_time": "Closed",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "Privacy Policy",
+    "footer_terms": "Terms of Use",
+    "footer_recalls": "Safety Recalls"
+  }

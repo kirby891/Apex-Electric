@@ -1,0 +1,80 @@
+{
+    "nav_models": "Models",
+    "nav_promotions": "Promotions",
+    "nav_activities": "Activities",
+    "nav_contact": "Contact",
+    "btn_test_drive": "Schedule Test Drive",
+  
+    "g3i_hero_title": "G3i",
+    "g3i_hero_subtitle": "Dynamic electric performance meets modern versatility. Designed for your journey.",
+  
+    "hero_feature_title": "Aerodynamic Mastery",
+    "hero_feature_desc": "Watch the G3I in motion and see its design from every angle.",
+  
+    "tag_innovation": "Innovation",
+    "g3i_proportions_title": "Bold SUV Proportions",
+    "g3i_proportions_subtitle": "Sculpted Design & Athletic Stance",
+    "g3i_proportions_desc1": "The G3I  combines an aggressive, aerodynamic crossover silhouette with high ground clearance and wide track proportions.",
+    "g3i_proportions_desc2": "Integrated flush door handles and dynamic roofline contours minimize wind resistance while maximizing cabin spatial efficiency.",
+  
+    "tag_engineering": "Engineering",
+    "g3i_torque_title": "Smart Torque Vectoring",
+    "g3i_torque_subtitle": "All Terrain Adaptive Powertrain",
+    "g3i_torque_desc1": "Engineered with a dual motor intelligent AWD system, the G3I instantly redistributes power across all four wheels based on real time road conditions.",
+    "g3i_torque_desc2": "From steep mountain climbs to wet city streets, experience unyielding stability and instant throttle response.",
+  
+    "tag_interior": "Interior",
+    "g3i_cockpit_title": "Expansive Cockpit & Utility",
+    "g3i_cockpit_subtitle": "Versatile Modular Cabin Layout",
+    "g3i_cockpit_desc1": "Designed for active lifestyles, the G3I features fold flat rear seats, a spacious front trunk and premium panoramic glass roof views.",
+    "g3i_cockpit_desc2": "Advanced climate controls and a high definition digital cockpit keep performance and comfort perfectly balanced.",
+  
+    "btn_learn_more": "Explore the technology",
+  
+    "tech_title": "Technical Excellence",
+    "tech_subtitle": "Engineered without compromise. Pure electric power meets surgical precision handling.",
+    "spec_max_range": "MAX RANGE",
+    "spec_acceleration": "ACCELERATION",
+    "spec_peak_power": "PEAK POWER",
+    "spec_fast_charge": "FAST CHARGE",
+    "btn_download_sheet": "Download Full Technical Sheet (PDF)",
+  
+    "exclusive_title": "Plan Your Rental",
+    "exclusive_subtitle": "Exclusive benefits designed for the early pioneers of the G3I vision.",
+    "link_view_activities": "View All Promotions →",
+  
+    "tag_launch": "Launch",
+    "card_expo_title": "G3I Launch Edition",
+    "card_expo_desc": "Experience the pinnacle of our G3I debut series with exclusive trims and performance upgrades.",
+  
+    "tag_offer": "Offer",
+    "card_gala_title": "Weekend Rental Deals",
+    "card_gala_desc": "Unlock premium savings on weekly and weekend rentals of the G3I.",
+  
+    "tag_service": "Service",
+    "card_seminar_title": "Charging Network Access",
+    "card_seminar_desc": "Seamless, rapid charging access for your G3I rental at partner stations nationwide.",
+  
+    "btn_discover_event": "Learn More",
+  
+    "journey_title": "Your Apex Journey Awaits",
+    "journey_subtitle": "Experience the fusion of elegance and intelligence firsthand at your nearest experience center.",
+  
+    "footer_back_to_top": "Back to Top",
+    "footer_desc": "Defining the future of electric mobility through precision engineering and avant-garde design. Join us in the journey towards sustainable luxury.",
+    "footer_contact_center": "Contact Center",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-10-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "Office Hours",
+    "weekday_date": "MON - FRI",
+    "weekday_time": "9:00 AM - 6:00 PM",
+    "sat_date": "SAT",
+    "sat_time": "10:00 AM - 5:00 PM",
+    "sun_date": "SUN",
+    "close_time": "Closed",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "Privacy Policy",
+    "footer_terms": "Terms of Use",
+    "footer_recalls": "Safety Recalls"
+  }

@@ -1,0 +1,80 @@
+{
+    "nav_models": "モデル",
+    "nav_promotions": "プロモーション",
+    "nav_activities": "アクティビティ",
+    "nav_contact": "お問い合わせ",
+    "btn_test_drive": "試乗予約",
+  
+    "p5_hero_title": "P5",
+    "p5_hero_subtitle": "高度な知性と軽快なEVパフォーマンスの融合。あなたの旅のために作られた1台。",
+  
+    "hero_feature_title": "エアロダイナミクス",
+    "hero_feature_desc": "見出しとコンテンツを調整して、P5のライブプレビューを更新します。",
+  
+    "tag_innovation": "イノベーション",
+    "p5_aero_title": "流線型のエンジニアリング",
+    "p5_aero_subtitle": "シームレスな効率性を追及した設計",
+    "p5_aero_desc1": "P5は0.21 Cdという超低空気抵抗係数を備え、高速航続距離とバッテリー効率を最大限に高めるよう設計されています。",
+    "p5_aero_desc2": "アクティブエアインテークと流線型の空力フォルムがシャシー上の気流を最適化し、静粛性の高い高速クルージングを実現します。",
+
+    "tag_engineering": "エンジニアリング",
+    "p5_awd_title": "パワーディストリビューション",
+    "p5_awd_subtitle": "デュアルモーターのトラクションと安定性",
+    "p5_awd_desc1": "ダイナミックな全輪駆動パワートレインを搭載したP5は、前後軸間のトルクをミリ秒単位で絶え間なくバランス調整します。",
+    "p5_awd_desc2": "濡れた路面の走行でも激しいコーナリングでも、インテリジェント・トラクション・コントロールが瞬時にトルクをレスポンスし、あらゆる走行条件でスムーズなコントロールを提供します。",
+
+    "tag_interior": "インテリア",
+    "p5_cabin_title": "ラグジュアリーなキャビンデザイン",
+    "p5_cabin_subtitle": "細部までこだわり抜かれた上質なプライベート空間",
+    "p5_cabin_desc1": "静寂に包まれたキャビンへ足を踏み入れてください。",
+    "p5_cabin_desc2": "持続可能なプレミアム素材、パノラマアコースティックガラス、長距離移動の快適性を追求した人間工学に基づいたシートを採用。インテグレート・アンビエントライトと直感的なタッチスクリーンエコシステムが、すべての操作を手元でシームレスに行えるようにします。",
+
+    "btn_learn_more": "テクノロジーを詳しく見る",
+
+    "tech_title": "優れた技術仕様",
+    "tech_subtitle": "一切の妥協を許さない設計。ピュアEVパワーと精密なハンドリングの融合。",
+    "spec_max_range": "航続距離",
+    "spec_acceleration": "加速性能",
+    "spec_peak_power": "最高出力",
+    "spec_fast_charge": "急速充電",
+    "btn_download_sheet": "詳細スペックシートをダウンロード (PDF)",
+
+    "exclusive_title": "レンタルのご案内",
+    "exclusive_subtitle": "P5のビジョンをいち早く取り入れる先駆者のための特別特典。",
+    "link_view_activities": "すべてのプロモーションを見る →",
+
+    "tag_launch": "ローンチ",
+    "card_expo_title": "P5 Launch Edition",
+    "card_expo_desc": "専用トリムとパフォーマンスアップグレードを備えた、P5デビューシリーズの最高峰をご体験ください。",
+
+    "tag_offer": "オファー",
+    "card_gala_title": "週末レンタルプラン",
+    "card_gala_desc": "P5の週間および週末レンタルをお得な料金でご利用いただけます。",
+
+    "tag_service": "サービス",
+    "card_seminar_title": "充電ネットワークへのアクセス",
+    "card_seminar_desc": "全国の提携ステーションで、P5のレンタルにシームレスで迅速な充電アクセスを提供します。",
+
+    "btn_discover_event": "詳しく見る",
+
+    "journey_title": "あなたのApexの旅が始まります",
+    "journey_subtitle": "最寄りのエクスペリエンスセンターで、エレガンスとインテリジェンスの融合を直接ご体感ください。",
+  
+    "footer_back_to_top": "ページ上部へ戻る",
+    "footer_desc": "精密なエンジニアリングとアバンギャルドなデザインで、電気モビリティの未来を定義します。持続可能なラグジュアリーへの旅へ。",
+    "footer_contact_center": "コンタクトセンター",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-569-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "営業時間",
+    "weekday_date": "月 - 金",
+    "weekday_time": "9:00 - 18:00",
+    "sat_date": "土",
+    "sat_time": "10:00 - 17:00",
+    "sun_date": "日",
+    "close_time": "定休日",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "プライバシーポリシー",
+    "footer_terms": "利用規約",
+    "footer_recalls": "リコール情報"
+  }

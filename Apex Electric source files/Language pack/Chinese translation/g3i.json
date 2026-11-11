@@ -1,0 +1,80 @@
+{
+    "nav_models": "车型",
+    "nav_promotions": "限时优惠",
+    "nav_activities": "品牌活动",
+    "nav_contact": "联系我们",
+    "btn_test_drive": "预约试驾",
+  
+    "g3i_hero_title": "G3i",
+    "g3i_hero_subtitle": "动感纯电性能与现代多功能性的融合，为您的非凡旅程而生。",
+  
+    "hero_feature_title": "空气动力学",
+    "hero_feature_desc": "调整这里的标题和内容以更新 G3i 的实时预览。",
+  
+    "tag_innovation": "创新",
+    "g3i_proportions_title": "大胆的 SUV 车身比例",
+    "g3i_proportions_subtitle": "雕塑感设计与运动姿态",
+    "g3i_proportions_desc1": "G3i 将激进且符合空气动力学的跨界车轮廓与高离地间隙及宽轮距比例完美融合。",
+    "g3i_proportions_desc2": "一体化平齐门把手与动感车顶轮廓最大程度减少风阻，同时最大化座舱空间利用率。",
+
+    "tag_engineering": "工程技术",
+    "g3i_torque_title": "智能扭矩矢量分配",
+    "g3i_torque_subtitle": "全地形自适应动力总成",
+    "g3i_torque_desc1": "搭载双电机智能全轮驱动系统，G3i 可根据实时路况即时将动力重新分配至四个车轮。",
+    "g3i_torque_desc2": "从陡峭山道到湿滑城市街道，体验坚定不移的稳定性与即时油门响应。",
+
+    "tag_interior": "内饰",
+    "g3i_cockpit_title": "宽阔座舱与实用性",
+    "g3i_cockpit_subtitle": "多功能模块化座舱布局",
+    "g3i_cockpit_desc1": "专为活跃 lifestyle 打造，G3i 配备可平整放倒的后排座椅、宽敞的前备箱以及顶级全景玻璃车顶视角。",
+    "g3i_cockpit_desc2": "先进的气候控制系统与高分辨率数字座舱，让性能与舒适性达到完美平衡。",
+
+    "btn_learn_more": "探索技术详情",
+
+    "tech_title": "卓越技术",
+    "tech_subtitle": "毫不妥协的工程设计。纯粹电能与精准操控的完美融合。",
+    "spec_max_range": "最大续航里程",
+    "spec_acceleration": "零百加速",
+    "spec_peak_power": "峰值功率",
+    "spec_fast_charge": "快速充电",
+    "btn_download_sheet": "下载完整技术规格表 (PDF)",
+
+    "exclusive_title": "规划您的租赁",
+    "exclusive_subtitle": "专为 G3i 愿景的早期开拓者设计的专属礼遇。",
+    "link_view_activities": "查看所有促销活动 →",
+
+    "tag_launch": "首发",
+    "card_expo_title": "G3i 首发纪念版",
+    "card_expo_desc": "体验配有专属内饰与性能升级的 G3i 首发系列巅峰之作。",
+
+    "tag_offer": "优惠",
+    "card_gala_title": "周末租赁优惠",
+    "card_gala_desc": "享受 G3i 周租与周末租赁的超值优惠。",
+
+    "tag_service": "服务",
+    "card_seminar_title": "充电网络接入",
+    "card_seminar_desc": "为您的 G3i 租赁提供全国合作充电站点的无缝快速充电服务。",
+
+    "btn_discover_event": "了解详情",
+
+    "journey_title": "开启您的 Apex 之旅",
+    "journey_subtitle": "前往离您最近的体验中心，亲身感受优雅与智能的完美融合。",
+  
+    "footer_back_to_top": "返回顶部",
+    "footer_desc": "以精密工程与前沿设计定义电动出行的未来。与我们一同开启可持续豪华之旅。",
+    "footer_contact_center": "客户服务中心",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-569-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "营业时间",
+    "weekday_date": "周一至周五",
+    "weekday_time": "09:00 - 18:00",
+    "sat_date": "周六",
+    "sat_time": "10:00 - 17:00",
+    "sun_date": "周日",
+    "close_time": "休息",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "隐私政策",
+    "footer_terms": "使用条款",
+    "footer_recalls": "安全召回"
+  }

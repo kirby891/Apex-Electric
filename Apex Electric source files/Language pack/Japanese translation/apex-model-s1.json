@@ -1,0 +1,80 @@
+{
+    "nav_models": "モデル",
+    "nav_promotions": "プロモーション",
+    "nav_activities": "アクティビティ",
+    "nav_contact": "お問い合わせ",
+    "btn_test_drive": "試乗予約",
+
+    "s1_hero_title": "Apex Model S1",
+    "s1_hero_subtitle": "パフォーマンスを追求した設計。あなたの旅のために。",
+
+    "hero_feature_title": "空力性能の極み",
+    "hero_feature_desc": "Apex Model S1の走行シーンと、あらゆる角度から捉えたデザインをご覧ください。",
+
+    "tag_innovation": "イノベーション",
+    "s1_aero_title": "卓越した空力性能",
+    "s1_aero_subtitle": "空気を切り裂くデザイン",
+    "s1_aero_desc1": "Apex Model S1は、クラス最高水準の空気抵抗係数（Cd値）0.236を実現しています。",
+    "s1_aero_desc2": "すべての曲線が空気を切り裂くように設計されており、エネルギー消費と風切り音を抑えながら、高速走行時の安定性を高めています。格納式ドアハンドルとアクティブグリルシャッターが調和し、シームレスなシルエットを生み出します。",
+
+    "tag_engineering": "エンジニアリング",
+    "s1_awd_title": "全輪駆動の精密性",
+    "s1_awd_subtitle": "路面を意のままに",
+    "s1_awd_desc1": "デュアルモーターによるAWDシステムと高性能ブレーキを搭載しています。",
+    "s1_awd_desc2": "Apex Model S1はただ速いだけでなく、確実な制動力を誇ります。インテリジェントなトルクベクタリングシステムが数ミリ秒単位で各ホイールへの出力を調整し、天候を問わずあらゆるコーナーで最大限のグリップ力を確保します。",
+
+    "tag_interior": "インテリア",
+    "s1_cabin_title": "彫刻されたサウンド",
+    "s1_cabin_subtitle": "没入感あふれるサラウンドサウンド",
+    "s1_cabin_desc1": "プライベートコンサートホールを彷彿とさせるキャビンへ足を踏み入れてください。",
+    "s1_cabin_desc2": "Apex Model S1は、Dolby Atmosに対応したスピーカーシステムを搭載しています。ドライバーのヘッドレストに内蔵されたスピーカーをはじめ、最適に配置されたスピーカーが、あなたと共に移動する7.1.4チャンネルの立体音響体験を生み出します。",
+
+    "btn_learn_more": "テクノロジーを見る",
+
+    "tech_title": "優れた技術仕様",
+    "tech_subtitle": "妥協のないエンジニアリング。純粋な電力と精密なハンドリングの融合。",
+    "spec_max_range": "最高航続距離",
+    "spec_acceleration": "加速性能",
+    "spec_peak_power": "最高出力",
+    "spec_fast_charge": "急速充電",
+    "btn_download_sheet": "技術仕様書のダウンロード (PDF)",
+
+    "ownership_title": "レンタルのご案内",
+    "ownership_subtitle": "Apex Model S1のビジョンを早期に体感される方のために設計された特別特典。",
+    "link_view_activities": "すべてのプロモーションを見る →",
+
+    "tag_launch": "ローンチ",
+    "card_launch_title": "Apex S1 ローンチエディション",
+    "card_launch_desc": "専用トリムとパフォーマンスのアップグレードを備えた、Apex Model S1デビューシリーズの最高峰をご体験ください。",
+
+    "tag_offer": "オファー",
+    "card_tradein_title": "週末レンタルプラン",
+    "card_tradein_desc": "Apex Model S1の週間および週末レンタルをお得な料金でご利用いただけます。",
+
+    "tag_service": "サービス",
+    "card_charging_title": "充電ネットワークへのアクセス",
+    "card_charging_desc": "全国の提携ステーションで、Apex Model S1のレンタルにシームレスで迅速な充電アクセスを提供します。",
+
+    "btn_discover_event": "詳細を見る",
+
+    "journey_title": "あなたのApexの旅が始まります",
+    "journey_subtitle": "最寄りのエクスペリエンスセンターで、エレガンスとインテリジェンスの融合を直接ご体感ください。",
+  
+    "footer_back_to_top": "ページ上部へ戻る",
+    "footer_desc": "精密なエンジニアリングとアバンギャルドなデザインで、電気モビリティの未来を定義します。持続可能なラグジュアリーへの旅へ。",
+    "footer_contact_center": "コンタクトセンター",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-569-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "営業時間",
+    "weekday_date": "月 - 金",
+    "weekday_time": "9:00 - 18:00",
+    "sat_date": "土",
+    "sat_time": "10:00 - 17:00",
+    "sun_date": "日",
+    "close_time": "定休日",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "プライバシーポリシー",
+    "footer_terms": "利用規約",
+    "footer_recalls": "リコール情報"
+  }

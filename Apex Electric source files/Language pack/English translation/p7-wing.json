@@ -1,0 +1,80 @@
+{
+    "nav_models": "Models",
+    "nav_promotions": "Promotions",
+    "nav_activities": "Activities",
+    "nav_contact": "Contact",
+    "btn_test_drive": "Schedule Test Drive",
+
+    "p7_hero_title": "P7 WING",
+    "p7_hero_subtitle": "Signature wing doors meet relentless performance. Designed for your journey.",
+
+    "hero_feature_title": "Aerodynamic Mastery",
+    "hero_feature_desc": "Watch the P7 WING in motion and see its design from every angle.",
+
+    "tag_innovation": "Innovation",
+    "p7_aerodynamics_title": "Inspired Aerodynamics",
+    "p7_aerodynamics_subtitle": "Active Rear Wing & Wing Doors",
+    "p7_aerodynamics_desc1": "Featuring signature electric scissor doors and an active rear spoiler, the P7 Wing generates high downforce at elevated speeds.",
+    "p7_aerodynamics_desc2": "Its carbon fiber reinforced body panels and sculpted air ducts maximize high speed cornering stability while commanding attention on any road.",
+
+    "tag_engineering": "Engineering",
+    "p7_awd_title": "Hyper Performance AWD",
+    "p7_awd_subtitle": "Quad Motor Dynamic Torque Vectoring",
+    "p7_awd_desc1": "Powered by an advanced multi motor drivetrain, the P7 Wing delivers instantaneous launch acceleration and track calibrated handling.",
+    "p7_awd_desc2": "Intelligent torque vectoring continuously monitors wheel slip to distribute power precisely where maximum grip is needed.",
+
+    "tag_interior": "Interior",
+    "p7_cockpit_title": "Sport Luxury Cockpit",
+    "p7_cockpit_subtitle": "Leather & Alcantara Sanctuary",
+    "p7_cockpit_desc1": "Step into a race inspired cockpit featuring lightweight carbon fiber bucket seats, an augmented reality HUD, and custom ambient lighting.",
+    "p7_cockpit_desc2": "Premium Alcantara finishes and an immersive surround sound system create an unmatched fusion of high performance and luxury comfort.",
+
+    "btn_learn_more": "Explore the technology",
+
+    "tech_title": "Technical Excellence",
+    "tech_subtitle": "Engineered without compromise. Pure electric power meets surgical precision handling.",
+    "spec_max_range": "MAX RANGE",
+    "spec_acceleration": "ACCELERATION",
+    "spec_peak_power": "PEAK POWER",
+    "spec_fast_charge": "FAST CHARGE",
+    "btn_download_sheet": "Download Full Technical Sheet (PDF)",
+
+    "exclusive_title": "Plan Your Rental",
+    "exclusive_subtitle": "Exclusive benefits designed for the early pioneers of the P7 Wing vision.",
+    "link_view_activities": "View All Promotions →",
+
+    "tag_launch": "Launch",
+    "card_expo_title": "P7 WING Launch Edition",
+    "card_expo_desc": "Experience the pinnacle of our P7 Wing debut series with exclusive trims and performance upgrades.",
+
+    "tag_offer": "Offer",
+    "card_gala_title": "Weekend Rental Deals",
+    "card_gala_desc": "Unlock premium savings on weekly and weekend rentals of the P7 Wing.",
+
+    "tag_service": "Service",
+    "card_seminar_title": "Charging Network Access",
+    "card_seminar_desc": "Seamless, rapid charging access for your P7 Wing rental at partner stations nationwide.",
+
+    "btn_discover_event": "Learn More",
+
+    "journey_title": "Your Apex Journey Awaits",
+    "journey_subtitle": "Experience the fusion of elegance and intelligence firsthand at your nearest experience center.",
+
+    "footer_back_to_top": "Back to Top",
+    "footer_desc": "Defining the future of electric mobility through precision engineering and avant-garde design. Join us in the journey towards sustainable luxury.",
+    "footer_contact_center": "Contact Center",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-10-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "Office Hours",
+    "weekday_date": "MON - FRI",
+    "weekday_time": "9:00 AM - 6:00 PM",
+    "sat_date": "SAT",
+    "sat_time": "10:00 AM - 5:00 PM",
+    "sun_date": "SUN",
+    "close_time": "Closed",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "Privacy Policy",
+    "footer_terms": "Terms of Use",
+    "footer_recalls": "Safety Recalls"
+  }

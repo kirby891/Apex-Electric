@@ -1,0 +1,98 @@
+{
+    "nav_models": "モデル",
+    "nav_promotions": "プロモーション",
+    "nav_activities": "アクティビティ",
+    "nav_contact": "お問い合わせ",
+    "btn_test_drive": "試乗予約",
+  
+    "hero_title": "次世代のEV体験を再定義する",
+    "hero_subtitle": "業界をリードする自動運転技術とAIの融合により、スマートモビリティの未来を切り拓きます。",
+  
+    "future_title": "モビリティの未来を体感する",
+    "future_subtitle": "エアロダイナミクスを追求したセダンから広々としたファミリー向けSUVまで、あらゆるライフスタイルに応えるスマートEVラインナップ。",
+  
+    "car_s1_title": "Apex Model S1",
+    "car_s1_tagline": "エレクトリック・インテリジェンスの到達点",
+    "car_s1_desc": "ラグジュアリー、航続距離、最先端の自動運転技術が完璧に調和した走りをご体験ください。",
+    "btn_view_detail": "詳細を見る",
+  
+    "car_g9_tagline": "超急速充電を備えたフラッグシップSUV。",
+    "car_g9_desc": "プレミアムな快適性と次世代の充電スピードで、シームレスな長距離ドライブを実現します。",
+  
+    "car_p5_tagline": "スマートファミリーセダンの再定義。",
+    "car_p5_desc": "多彩な室内空間とインテリジェントなコックピット機能で、毎日の通勤・移動を快適に。",
+  
+    "car_g3i_tagline": "コンパクトでトレンド感あふれる、インテリジェントモデル。",
+    "car_g3i_desc": "スタイリッシュなデザイン、先進の安全機能、手軽な駐車支援機能を備えた都市型モビリティ。",
+  
+    "car_g7_tagline": "大胆なデザインとパフォーマンスを解き放つ。",
+    "car_g7_desc": "特徴的なシザードアと高出力電動ドライブで、圧倒的な存在感を放ちます。",
+
+    "tech_title": "効率性を極めたエンジニアリング",
+    "tech_subtitle": "妥協のない設計。純粋な電動パワーと精密なハンドリングが融合します。",
+    "spec_max_range": "最大航続距離",
+    "spec_acceleration": "加速度",
+    "spec_peak_power": "最高出力",
+    "spec_fast_charge": "急速充電",
+    "btn_download_sheet": "スペックシートをダウンロード (PDF)",
+  
+    "cabin_title": "インテリジェントで繋がるキャビン",
+    "cabin_subtitle": "あなたの好みを学習し、自然な対話型音声コマンドに応答するシームレスなデジタル環境。",
+    "cabin_dragon": "Snapdragon 8155",
+    "cabin_privacy": "次世代のプライバシー保護",
+    "btn_explore_os": "OS機能を詳しく見る",
+  
+    "ownership_title": "オーナーシップのプランニング",
+    "ownership_subtitle": "拡大するスマートEVオーナーコミュニティのための限定特典。",
+    "link_see_offers": "すべてのオファーを見る →",
+  
+    "service-top": "サービス",
+    "card_charging_title": "充電ソリューション",
+    "card_charging_desc": "今四半期中にP7またはG9を新車でご購入いただくと、11kWスマートホームウォールボックスの設置工事を無料でご提供いたします。",
+    "finance-top": "ファイナンス",   
+    "card_financing_title": "ファイナンスオプション",
+    "card_financing_desc": "条件を満たしたお客様を対象に、対象の2026年在庫モデルにて特別金利0.99%からのファイナンスをご利用いただけます。",
+    "loyalty-top": "ロイヤルティ",
+    "card_service_title": "サービスプラン",
+    "card_service_desc": "ご友人をApex Electricファミリーにご紹介いただくと、充電クレジットや限定ライフスタイルグッズを進呈いたします。",
+    "btn_learn_more": "詳細を見る",
+  
+    "exclusive_title": "特別なエクスペリエンス",
+    "exclusive_subtitle": "コミュニティイベントに参加して、持続可能なラグジュアリーの最前線を体験してください。",
+    "link_view_activities": "すべてのアクティビティを見る →",
+  
+    "tech_top": "テックサミット",
+    "event_expo_future": "2026年11月24日 10:00",
+    "card_expo_title": "フューチャー・インテリジェンス・エキスポ",
+    "card_expo_desc": "リードエンジニアとともに、次世代OSと自動運転機能の先進技術を先行公開するイベントにご参加ください。",
+    "lifestyle-top": "ライフスタイル",
+    "event_gala_winter": "2026年12月12日 19:00",
+    "card_gala_title": "エーテル・ウィンターガラ",
+    "card_gala_desc": "フラッグシップ・エクスペリエンスセンターで、持続可能なラグジュアリーとディナーを楽しむ特別なひととき（要予約・会員限定）。",
+    "workshop-top": "ワークショップ",
+    "event_date_seminar": "2026年12月28日 14:00",
+    "card_seminar_title": "スマート充電セミナー",
+    "card_seminar_desc": "専門技術者による体験型ワークショップで、バッテリーの寿命を伸ばし航続距離を最適化する方法を学びます。",
+    "btn_discover_event": "イベント詳細を見る",
+  
+    "journey_title": "優雅な旅がここから始まる",
+    "journey_subtitle": "お近くのエクスペリエンスセンターで、エレガンスとインテリジェンスの融合を直接ご体験ください。",
+  
+    "footer_back_to_top": "ページトップへ戻る",
+    "footer_desc": "精密なエンジニアリングとアバンギャルドなデザインを通じて、EVモビリティの未来を定義します。持続可能なラグジュアリーを目指す旅にぜひご参加ください。",
+    "footer_contact_center": "コンタクトセンター",
+    "contact_location": "Headquarters<br class=\"inline-block\">No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-569-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "営業時間",
+    "weekday_date": "月曜日 - 金曜日",
+    "weekday_time": "9:00 - 18:00",
+    "sat_date": "土曜日",
+    "sat_time": "10:00 - 17:00",
+    "sun_date": "日曜日",
+    "close_time": "定休日",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "プライバシーポリシー",
+    "footer_terms": "利用規約",
+    "footer_recalls": "リコール情報"
+  }

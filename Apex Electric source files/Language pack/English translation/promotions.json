@@ -1,0 +1,81 @@
+{
+    "nav_models": "Models",
+    "nav_promotions": "Promotions",
+    "nav_activities": "Activities",
+    "nav_contact": "Contact",
+    "btn_test_drive": "Schedule Test Drive",
+
+    "promotions_hero_title": "Apex Vanguard Series",
+    "promotions_hero_subtitle": "Experience the next evolution of performance with exclusive rental benefits and unprecedented technological upgrades.",
+    "promotions_validity": "VALIDITY",
+    "promotions_date": "Mar 12 — Dec 31, 2026",
+
+    "promotions_intro_title": "The future doesn't wait. It accelerates.",
+    "promotions_intro_desc": "Welcome to the Vanguard Series, a curated selection of Apex's most advanced electric vehicles, now available with unprecedented technological upgrades and exclusive ownership privileges. Our commitment to sustainable luxury has never been more evident than in this seasonal celebration of innovation.",
+
+    "promotions_perf_title": "Unrivaled Performance",
+    "promotions_perf_desc": "Every Vanguard model features the new Hyper Core battery architecture, providing a 15% increase in range and a thermal management system that defies the elements. Whether navigating the silent neon of the city or the open expanse of the coast, your Apex remains composed, powerful, and intuitively connected.",
+
+    "promotions_quote_text": "\"We didn't just build a car; we engineered a digital companion for the modern pioneer. Every line, every circuit, every interface is designed to disappear into the experience of pure motion.\"",
+    "promotions_quote_author": "— Marcus Vane, Chief Design Officer",
+
+    "promotions_benefits_title": "Exclusive Benefits",
+    "benefit_1": "Complimentary Partner Station Charging (Titan Series)",
+    "benefit_2": "Vanguard Edition Interior Trim (Obsidian / Mercury)",
+    "benefit_3": "Unlimited Super Charging on Every Rental",
+    "benefit_4": "Priority Booking for 2026 Prototype Previews",
+    "benefit_5": "Dedicated 24/7 Concierge Support",
+    "benefit_6": "Over the Air Feature Unlock Pack",
+
+    "protection_plan_title": "Rental Protection Plan",
+    "coverage_title": "Comprehensive Coverage",
+    "coverage_desc": "Enjoy peace of mind with our full collision and damage waiver, covering all major electrical components.",
+    "roadside_title": "24/7 Roadside Assist",
+    "roadside_desc": "Exclusive access to Apex Concierge services for flat tires, range assistance, and towing anywhere in the country.",
+
+    "gallery_title": "The Visual Experience",
+    "gallery_enlarge": "CLICK TO ENLARGE",
+
+    "offer_details_label": "OFFER DETAILS",
+    "validity_period_label": "Validity Period",
+    "validity_dates": "March 12 — December 31, 2026",
+    "program_tag": "NATIONAL RENTAL PROGRAM",
+    "btn_download_brochure": "Download Offer Brochure",
+
+    "limited_time_label": "LIMITIED TIME LEFT",
+    "limited_time_desc": "This promotion expires in 81 days. Reserve your slot now to guarantee current pricing and benefit packages.",
+
+    "Special_title": "Special Apex Plans",
+    "Special_subtitle": "Discover tailored subsidies, charging rewards, and renter benefits curated for your lifestyle.",
+
+    "tag_loyalty": "Loyalty",
+    "card_loyalty_title": "Lunar New Year Benefit : Special Renewal Incentives",
+    "btn_discover_event": "Learn More",
+
+    "tag_tech": "Tech",
+    "card_tech_title": "Charging Freedom Pack : Unlimited Network Access",
+
+    "tag_service": "Service",
+    "card_service_title": "Winter Care Package : Peak Seasonal Readiness",
+
+    "journey_title": "Your Apex Journey Awaits",
+    "journey_subtitle": "Experience the fusion of elegance and intelligence firsthand at your nearest experience center.",
+
+    "footer_back_to_top": "Back to Top",
+    "footer_desc": "Defining the future of electric mobility through precision engineering and avant-garde design. Join us in the journey towards sustainable luxury.",
+    "footer_contact_center": "Contact Center",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-10-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "Office Hours",
+    "weekday_date": "MON - FRI",
+    "weekday_time": "9:00 AM - 6:00 PM",
+    "sat_date": "SAT",
+    "sat_time": "10:00 AM - 5:00 PM",
+    "sun_date": "SUN",
+    "close_time": "Closed",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "Privacy Policy",
+    "footer_terms": "Terms of Use",
+    "footer_recalls": "Safety Recalls"
+  }

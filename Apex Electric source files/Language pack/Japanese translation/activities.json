@@ -1,0 +1,70 @@
+{
+    "nav_models": "モデル",
+    "nav_promotions": "プロモーション",
+    "nav_activities": "アクティビティ",
+    "nav_contact": "お問い合わせ",
+    "btn_test_drive": "試乗を予約",
+
+    "activities_hero_title": "エイペックス・パフォーマンス・アカデミー 2026",
+    "activities_date": "2026年10月24日",
+    "activities_location": "中国・広東省",
+
+    "stat_attendees": "参加者数",
+    "stat_duration": "期間",
+    "stat_duration_val": "3日間",
+    "stat_track": "フォーマット",
+    "stat_track_val": "グランプリ",
+    "stat_tier": "エントリー",
+    "stat_tier_val": "エクスクルーシブ",
+
+    "activity_quote": "「エイペックス・パフォーマンス・アカデミー2026は、単なるトラックデイではありません。それはインテリジェントなスピードのマスタークラスであり、デュアルモーター電動パワーのシンフォニーであり、エイペックスのモビリティを定義するAI駆動のDNAへの垣間見えです。」",
+    "activity_desc_1": "オートドロームの地平線へと太陽が沈む中、エイペックス・パフォーマンスの第一陣がコースへと駆け出しました。静寂の夜気を切り裂くのは、高効率エレクトリック・モーターの鋭いワイン音と、熱を帯びたアスファルトを捉えるパフォーマンス・タイヤのリズミカルな回転音だけです。参加者は、ラグジュアリーな走行からサーキット仕様のアグレッシブな走りへのシームレスな移行を肌で体感しました。",
+    
+    "precision_title": "精度の頂点",
+    "precision_desc": "エンジニアやプロドライバーが集結し、最新のAI駆動型スタビリティコントロールアルゴリズムの限界に挑みました。このイベントでは、人間のまばたきよりも速く数ミリ秒単位で全輪のパワー配分を調整する独自の「エイペックス・パフォーマンス」トルクベクタリングシステムが披露されました。",
+    "activity_img_caption": "「私たちは単にクルマを作っているのではありません。あなたがその中に乗り込むロボットを作っているのです」と、チーフデザインオフィサーのマーカス・ヴェインはキーノートスピーチで語りました。参加者が教室での理論から本格的なエイペックスのサーキットセッションへと移行する中、この言葉は3日間のアカデミー全体に深く響き渡りました。",
+
+    "gallery_title": "エイペックスの体験",
+    "gallery_subtitle": "エイペックス体験の核心から切り取られた瞬間。",
+    "gallery_enlarge": "すべての画像を見る",
+
+    "evolution_title": "進化を体感する",
+    "evolution_desc": "開拓者たちの特別なサークルに加わりましょう。今後のエイペックスのトラックイベント、スマートシティのパイロットプログラム、VIPモデルの発表会への先行アクセスを今すぐご予約ください。",
+    
+    "location_badge": "次回のイベント",
+    "event_tag": "サステナビリティ・サミット",
+
+    "Experience_title": "その他のエイペックス体験",
+    "Experience_subtitle": "革新と冒険の厳選されたカレンダーを通じて、旅を続けましょう。",
+
+    "tag_summit": "近日開催",
+    "summit_2026": "2026年11月30日 • 10:00",
+    "card_summit_title": "サステナビリティ・サミット 2026",
+    "btn_discover_event": "イベント詳細を見る",
+
+    "tag_winter": "近日開催",
+    "winter-expedition": "2026年12月25日 • 19:30",
+    "card_winter_title": "エイペックス・ウィンター・エクスペディション",
+
+    "tag_luxury": "近日開催",
+    "apex-luxury": "2026年12月30日 • 15:00",
+    "card_luxury_title": "エイペックス・ラグジュアリーの未来",
+
+    "footer_back_to_top": "トップに戻る",
+    "footer_desc": "精密なエンジニアリングとアバンギャルドなデザインを通じて、電動モビリティの未来を定義します。持続可能なラグジュアリーへの旅路にぜひご参加ください。",
+    "footer_contact_center": "コンタクトセンター",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-10-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "営業時間",
+    "weekday_date": "月 — 金",
+    "weekday_time": "9:00 — 18:00",
+    "sat_date": "土",
+    "sat_time": "10:00 — 17:00",
+    "sun_date": "日",
+    "close_time": "定休日",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "プライバシーポリシー",
+    "footer_terms": "利用規約",
+    "footer_recalls": "安全リコール情報"
+  }

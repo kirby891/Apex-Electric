@@ -1,0 +1,98 @@
+{
+    "nav_models": "车型",
+    "nav_promotions": "优惠活动",
+    "nav_activities": "品牌活动",
+    "nav_contact": "联系我们",
+    "btn_test_drive": "预约试驾",
+  
+    "hero_title": "重定义纯电出行体验",
+    "hero_subtitle": "融合行业领先的自动驾驶与AI技术开创智慧出行新未来。",
+  
+    "future_title": "探索未来出行",
+    "future_subtitle": "从空气动力学轿车到宽敞的家庭SUV打造满足多元生活方式的智能电动车阵营。",
+  
+    "car_s1_title": "Apex Model S1",
+    "car_s1_tagline": "纯电智能的新标杆",
+    "car_s1_desc": "体验奢华质感、卓越续航与前沿自动驾驶技术的完美结合。",
+    "btn_view_detail": "查看详情",
+  
+    "car_g9_tagline": "支持超快充的旗舰级SUV。",
+    "car_g9_desc": "专为长途出行打造，提供尊享舒适感与下一代快充体验。",
+  
+    "car_p5_tagline": "重新定义智能家轿。",
+    "car_p5_desc": "灵活多变的空间实用性结合智能座舱，轻松满足日常出行需求。",
+  
+    "car_g3i_tagline": "紧凑时尚，充满智能。",
+    "car_g3i_desc": "专为城市出行设计，融合个性造型, 主动安全与轻松自动泊车。",
+  
+    "car_g7_tagline": "释放大胆设计与强劲性能。",
+    "car_g7_desc": "配备标志性剪刀门与高性能电动驱动，展现出众气场。",
+  
+    "tech_title": "极致高效的工程设计",
+    "tech_subtitle": "毫无妥协的设计理念，将纯粹电动势能与精准操控完美融为一体。",
+    "spec_max_range": "最大续航",
+    "spec_acceleration": "百公里加速",
+    "spec_peak_power": "峰值功率",
+    "spec_fast_charge": "快速充电",
+    "btn_download_sheet": "下载完整参数表 (PDF)",
+  
+    "cabin_title": "智能互联座舱",
+    "cabin_subtitle": "可学习您的日常偏好并响应自然语音指令的无缝数字环境。",
+    "cabin_dragon": "Snapdragon 8155",
+    "cabin_privacy": "下一代隐私保护",
+    "btn_explore_os": "探索系统功能",
+  
+    "ownership_title": "规划您的购车方案",
+    "ownership_subtitle": "为不断壮大的智能电动车车主社区提供专属礼遇。",
+    "link_see_offers": "查看所有优惠 →",
+  
+    "service-top": "服务",
+    "card_charging_title": "充电解决方案",
+    "card_charging_desc": "本季度订购 P7 或 G9 新车，即可免费获赠 11kW 智能家用壁挂式充电桩及安装服务。",
+    "finance-top": "金融",
+    "card_financing_title": "金融方案",
+    "card_financing_desc": "符合条件的车主选购 2026 款指定现车，可享低至 0.99% 的优惠年化利率。",
+    "loyalty-top": "车主礼遇",
+    "card_service_title": "车主关怀",
+    "card_service_desc": "推荐好友加入 Apex Electric 大家庭，即可赢取充电额度与专属精选周边礼品。",
+    "btn_learn_more": "了解更多",
+  
+    "exclusive_title": "专属体验",
+    "exclusive_subtitle": "参与社区活动，亲自感受可持续奢华体验的前沿魅力。",
+    "link_view_activities": "查看所有活动 →",
+  
+    "tech_top": "科技峰会",
+    "event_expo_future": "2026年11月24日 10:00",
+    "card_expo_title": "未来智能博览会",
+    "card_expo_desc": "与首席工程师面对面，提前解锁下一代车机系统与自动驾驶功能的亮点。",
+    "lifestyle-top": "生活方式",
+    "event_gala_winter": "2026年12月12日 19:00",
+    "card_gala_title": "Aether 答谢晚宴",
+    "card_gala_desc": "在旗舰体验中心共享可持续奢华理念与精致晚宴（会员专属，需提前预约）。",
+    "workshop-top": "工坊体验",
+    "event_date_seminar": "2026年12月28日 14:00",
+    "card_seminar_title": "智能充电研讨会",
+    "card_seminar_desc": "在技术专家的指导下参与互动实操，掌握优化车辆续航与延长电池寿命的实用技巧。",
+    "btn_discover_event": "探索活动",
+  
+    "journey_title": "开启您的非凡之旅",
+    "journey_subtitle": "欢迎前往临近的体验中心，近距离感受优雅设计与智能科技的碰撞。",
+  
+    "footer_back_to_top": "返回顶部",
+    "footer_desc": "以精密工程与前沿设计定义电动出行的未来。与我们一同开启通往可持续奢华体验的旅程。",
+    "footer_contact_center": "客户服务中心",
+    "contact_location": "Headquarters<br class=\"inline-block\">No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-569-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "营业时间",
+    "weekday_date": "星期一 - 星期五",
+    "weekday_time": "9:00 - 18:00",
+    "sat_date": "星期六",
+    "sat_time": "10:00 - 17:00",
+    "sun_date": "星期日",
+    "close_time": "休息",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "隐私政策",
+    "footer_terms": "使用条款",
+    "footer_recalls": "安全召回"
+  }

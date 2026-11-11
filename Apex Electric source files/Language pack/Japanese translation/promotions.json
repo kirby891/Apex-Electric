@@ -1,0 +1,81 @@
+{
+    "nav_models": "モデル",
+    "nav_promotions": "プロモーション",
+    "nav_activities": "アクティビティ",
+    "nav_contact": "お問い合わせ",
+    "btn_test_drive": "試乗予約",
+  
+    "promotions_hero_title": "Apex ヴァンガード シリーズ",
+    "promotions_hero_subtitle": "限定レンタル特典と前例のない技術的アップグレードで、パフォーマンスの新たな進化を体験してください。",
+    "promotions_validity": "有効期間",
+    "promotions_date": "2026年3月12日 — 12月31日",
+  
+    "promotions_intro_title": "未来は待たない。加速する。",
+    "promotions_intro_desc": "ヴァンガードシリーズへようこそ。Apexの最も先進的な電気自動車の厳選されたセレクションであり、前例のない技術的アップグレードと独占的な所有特権を備えて提供されます。持続可能なラグジュアリーに対する私たちのコミットメントは、この革新の季節的な祝祭においてかつてないほど鮮明です。",
+  
+    "promotions_perf_title": "比類なきパフォーマンス",
+    "promotions_perf_desc": "すべてのヴァンガードモデルには、新しいハイパーコアバッテリーアーキテクチャが搭載されており、航続距離が15%向上し、あらゆる環境に耐える熱管理システムを備えています。静かなネオンの街並みをナビゲートする場合でも、海岸の広大な広がりを進む場合でも、あなたのApexは常に落ち着き、パワフルで、直感的に接続された状態を保ちます。",
+  
+    "promotions_quote_text": "\"私たちは単に車を作ったのではありません。現代のパイオニアのためのデジタルコンパニオンを設計したのです。すべてのライン、すべての回路、すべてのインターフェースは、純粋な動きの体験の中に溶け込むように設計されています。\"",
+    "promotions_quote_author": "— マーカス・ヴェイン、チーフデザインオフィサー",
+  
+    "promotions_benefits_title": "限定特典",
+    "benefit_1": "提携ステーション充電無料（タイタンシリーズ）",
+    "benefit_2": "ヴァンガードエディション インテリアトリム（オブシディアン / マーキュリー）",
+    "benefit_3": "すべてのレンタルで無制限のスーパーチャージ",
+    "benefit_4": "2026年プロトタイププレビューの優先予約",
+    "benefit_5": "専用 24/7 コンシェルジュサポート",
+    "benefit_6": "OTAの機能アンロックパック",
+  
+    "protection_plan_title": "レンタル保護プラン",
+    "coverage_title": "総合補償",
+    "coverage_desc": "すべての主要な電気部品をカバーする完全な衝突および損害免除により、安心してお楽しみいただけます。",
+    "roadside_title": "24/7 ロードサイドサポート",
+    "roadside_desc": "全国どこでも、パンク、航続距離サポート、レッカー移動に対するApexコンシェルジュサービスへの独占アクセス。",
+  
+    "gallery_title": "ビジュアル体験",
+    "gallery_enlarge": "クリックして拡大",
+  
+    "offer_details_label": "オファーの詳細",
+    "validity_period_label": "有効期間",
+    "validity_dates": "2026年3月12日 — 12月31日",
+    "program_tag": "ナショナル レンタル プログラム",
+    "btn_download_brochure": "オファーパンフレットをダウンロード",
+  
+    "limited_time_label": "残り時間わずか",
+    "limited_time_desc": "このプロモーションは81日後に終了します。現在の価格と特典パッケージを保証するために、今すぐ枠をご予約ください。",
+  
+    "Special_title": "特別 Apex プラン",
+    "Special_subtitle": "ライフスタイルに合わせて厳選された、カスタマイズされた補助金、充電報酬、およびレンタル特典をご覧ください。",
+  
+    "tag_loyalty": "ロイヤルティ",
+    "card_loyalty_title": "旧正月特典：特別更新インセンティブ",
+    "btn_discover_event": "詳細を見る",
+  
+    "tag_tech": "テクノロジー",
+    "card_tech_title": "充電フリーダムパック：無制限のネットワークアクセス",
+  
+    "tag_service": "サービス",
+    "card_service_title": "ウィンターケアパッケージ：ピークシーズンの準備",
+  
+    "journey_title": "あなただけのApexの旅が待っています",
+    "journey_subtitle": "最寄りのエクスペリエンスセンターで、エレガンスとインテリジェンスの融合を直接ご体験ください。",
+  
+    "footer_back_to_top": "トップに戻る",
+    "footer_desc": "精密なエンジニアリングとアヴァンギャルドなデザインを通じて、電気モビリティの未来を定義します。持続可能なラグジュアリーへの旅に私たちと共に出発しましょう。",
+    "footer_contact_center": "コンタクトセンター",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-10-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "営業時間",
+    "weekday_date": "月 — 金",
+    "weekday_time": "9:00 - 18:00 ",
+    "sat_date": "土",
+    "sat_time": "10:00 - 17:00",
+    "sun_date": "日",
+    "close_time": "定休日",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "プライバシーポリシー",
+    "footer_terms": "利用規約",
+    "footer_recalls": "安全リコール"
+  }

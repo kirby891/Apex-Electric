@@ -1,0 +1,69 @@
+{
+    "nav_models": "モデル",
+    "nav_promotions": "プロモーション",
+    "nav_activities": "アクティビティ",
+    "nav_contact": "お問い合わせ",
+    "btn_test_drive": "試乗予約",
+
+    "test_drive_hero_title": "未来を体験する",
+    "test_drive_hero_subtitle": "ステアリングを握り、未来を掴む",
+
+    "book_title": "スケジュール予約",
+    "book_subtitle": "以下の詳細を入力して、最新モデルの特別試乗をご予約ください。",
+
+    "error-message": "予約を確定する前に、すべての必須項目を入力してください。",
+
+    "Vechicle_selection": "01. 車両選択",
+    "Preferred_model": "希望のアペックスモデル",
+    "option_select_model": "モデルを選択してください",
+
+    "step_2_title": "02. 個人情報",
+    "label_fullname": "氏名",
+    "label_phone": "電話番号",
+    "label_email": "メールアドレス",
+
+    "step_3_title": "03. 拠点・日時選択",
+    "label_branch": "お受取り拠点",
+    "option_select_location": "拠点を選択してください",
+    "label_date": "お受取り日",
+    "label_timeslot": "希望時間帯",
+    "option_select_time": "利用可能な時間を選択してください",
+    "morning_time": "10:00 - 12:00",
+    "afternoon_time": "13:00 - 16:00",
+    "evening_time": "17:00 - 18:00",
+
+    "terms_agree_title": "プライバシーポリシーおよび利用規約に同意します。",
+    "terms_agree_desc": "Apex Electricはあなたのデータプライバシーを尊重します。情報はご予約の管理にのみ使用されます。",
+    "recaptcha_text": "私はロボットではありません",
+    "btn_confirm_reservation": "予約を確定する",
+
+    "note_title": "体験に関する注意事項",
+    "note_desc": "通常の試乗は通常45分間続き、自動運転パイロットシステムおよび充電エコシステムのガイド付きウォークスルーが含まれます。",
+
+    "terms_title": "レンタル利用規約",
+    "terms_intro": "Apex Electricでのレンタル予約を行うことで、現在の運行ポリシーに定められた以下の規約に同意したことになります：",
+    "term_bullet_1": "借受人は20歳以上であり、有効で制限のない運転免許証を所持している必要があります。",
+    "term_bullet_2": "車両お受取りの際に、有効な免許証を直接ご提示いただく必要があります。",
+    "term_bullet_3": "Apex Electricは、悪天候や車両の空き状況により、予約のキャンセルまたは変更を行う権利を留保します。",
+    "term_bullet_4": "借受人は、試乗中にApex Electricの専門スタッフが提供するすべての指示に従うことに同意します。",
+    "term_bullet_5": "レンタル期間中の賠償責任保険は、現地の規制およびポリシーの制限に従って提供されます。",
+    "terms_footer_note": "注：これらの規約は変更される場合があり、最終更新日は2026年2月24日です。",
+
+    "footer_back_to_top": "トップに戻る",
+    "footer_desc": "精密なエンジニアリングとアバンギャルドなデザインを通じて、電動モビリティの未来を定義します。持続可能なラグジュアリーへの旅路にぜひご参加ください。",
+    "footer_contact_center": "コンタクトセンター",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-10-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "営業時間",
+    "weekday_date": "月 — 金",
+    "weekday_time": "9:00 — 18:00",
+    "sat_date": "土",
+    "sat_time": "10:00 — 17:00",
+    "sun_date": "日",
+    "close_time": "定休日",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "プライバシーポリシー",
+    "footer_terms": "利用規約",
+    "footer_recalls": "安全リコール情報"
+  }

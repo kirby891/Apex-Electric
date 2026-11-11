@@ -1,0 +1,80 @@
+{
+    "nav_models": "车型",
+    "nav_promotions": "限时优惠",
+    "nav_activities": "品牌活动",
+    "nav_contact": "联系我们",
+    "btn_test_drive": "预约试驾",
+  
+    "s1_hero_title": "Apex Model S1",
+    "s1_hero_subtitle": "为性能而生，为您的旅程而设。",
+
+    "hero_feature_title": "空气动力学巅峰",
+    "hero_feature_desc": "观赏 Apex Model S1 的动态行驶，全方位感受其设计美学。",
+
+    "tag_innovation": "创新",
+    "s1_aero_title": "卓越的空气动力学",
+    "s1_aero_subtitle": "破风前行",
+    "s1_aero_desc1": "Apex Model S1 的风阻系数仅为 0.236Cd，堪称同级最低之一。",
+    "s1_aero_desc2": "每一处曲线都旨在破风前行，在降低能耗与风噪的同时提升高速行驶时的稳定性。隐藏式门把手与主动式进气格栅协同工作，呈现无缝流畅的车身轮廓。",
+
+    "tag_engineering": "工程技术",
+    "s1_awd_title": "全轮驱动精准操控",
+    "s1_awd_subtitle": "纵横坦途",
+    "s1_awd_desc1": "配备双电机全轮驱动系统与高性能制动系统。",
+    "s1_awd_desc2": "Apex Model S1 不仅疾速，更拥有强悍的制动表现。我们的智能扭矩矢量分配系统可在几毫秒内调节每个车轮的动力输出，无论天气如何，都能在每个弯道确保最佳抓地力。",
+
+    "tag_interior": "内饰",
+    "s1_cabin_title": "立体声场",
+    "s1_cabin_subtitle": "沉浸式环绕声",
+    "s1_cabin_desc1": "步入被精心打造为专属音乐厅的座舱。",
+    "s1_cabin_desc2": "Apex Model S1 搭载支持杜比全景声（Dolby Atmos）的音响系统。经过精心布局的扬声器（包括集成在驾驶员头枕内的扬声器），为您带来随行而动的 7.1.4 空间音频体验。",
+
+    "btn_learn_more": "探索技术详情",
+
+    "tech_title": "卓越技术",
+    "tech_subtitle": "毫不妥协的工程设计。纯粹电能与精准操控的完美融合。",
+    "spec_max_range": "最大续航里程",
+    "spec_acceleration": "零百加速",
+    "spec_peak_power": "峰值功率",
+    "spec_fast_charge": "快速充电",
+    "btn_download_sheet": "下载完整技术规格表 (PDF)",
+
+    "ownership_title": "规划您的租赁",
+    "ownership_subtitle": "专为 Apex Model S1 愿景的早期开拓者设计的专属礼遇。",
+    "link_view_activities": "查看所有促销活动 →",
+
+    "tag_launch": "首发",
+    "card_launch_title": "Apex S1 首发纪念版",
+    "card_launch_desc": "体验配有专属内饰与性能升级的 Apex Model S1 首发系列巅峰之作。",
+
+    "tag_offer": "优惠",
+    "card_tradein_title": "周末租赁优惠",
+    "card_tradein_desc": "享受 Apex Model S1 周租与周末租赁的超值优惠。",
+
+    "tag_service": "服务",
+    "card_charging_title": "充电网络接入",
+    "card_charging_desc": "为您的 Apex Model S1 租赁提供全国合作充电站点的无缝快速充电服务。",
+
+    "btn_discover_event": "了解详情",
+
+    "journey_title": "开启您的 Apex 之旅",
+    "journey_subtitle": "前往离您最近的体验中心，亲身感受优雅与智能的完美融合。",
+  
+    "footer_back_to_top": "返回顶部",
+    "footer_desc": "以精密工程与前沿设计定义电动出行的未来。与我们一同开启可持续豪华之旅。",
+    "footer_contact_center": "客户服务中心",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-569-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "营业时间",
+    "weekday_date": "周一至周五",
+    "weekday_time": "09:00 - 18:00",
+    "sat_date": "周六",
+    "sat_time": "10:00 - 17:00",
+    "sun_date": "周日",
+    "close_time": "休息",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "隐私政策",
+    "footer_terms": "使用条款",
+    "footer_recalls": "安全召回"
+  }

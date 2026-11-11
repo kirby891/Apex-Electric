@@ -1,0 +1,81 @@
+{
+    "nav_models": "车型",
+    "nav_promotions": "促销活动",
+    "nav_activities": "活动",
+    "nav_contact": "联系我们",
+    "btn_test_drive": "预约试驾",
+
+    "promotions_hero_title": "Apex 先锋系列",
+    "promotions_hero_subtitle": "通过专属租赁权益与前所未有的技术升级，体验性能的下一次演进。",
+    "promotions_validity": "有效期",
+    "promotions_date": "2026年3月12日 — 12月31日",
+
+    "promotions_intro_title": "未来不等待，蓄势加速。",
+    "promotions_intro_desc": "欢迎来到先锋系列，这是Apex最具代表性的先进电动汽车精选系列，现已配备空前的技术升级与专属所有权特权。我们对可持续奢华的承诺，在这场季节性的创新庆典中展露无遗。",
+
+    "promotions_perf_title": "无与伦比的性能",
+    "promotions_perf_desc": "每一款先锋车型均采用全新的Hyper Core电池架构，续航里程提升15%，并配备无惧恶劣天气的热管理系统。无论穿梭于静谧的霓虹都市，还是驰骋于开阔的海岸线，您的Apex始终沉着、强劲且保持直观互联。",
+
+    "promotions_quote_text": "\"我们不只是造一辆车；我们为现代开拓者设计了一个数字伴侣。每一条线条、每一个电路、每一个界面都旨在隐入纯粹运动的体验之中。\"",
+    "promotions_quote_author": "— 马库斯·范恩，首席设计官",
+
+    "promotions_benefits_title": "专属权益",
+    "benefit_1": "合作充电站免费充电（泰坦系列）",
+    "benefit_2": "先锋版内饰组件（黑曜石 / 水星）",
+    "benefit_3": "每次租赁均享无限超充",
+    "benefit_4": "2026年原型车预览优先预订",
+    "benefit_5": "专属 24/7 礼宾支持",
+    "benefit_6": "OTA功能解锁礼包",
+
+    "protection_plan_title": "租赁保障计划",
+    "coverage_title": "全面保障",
+    "coverage_desc": "尽享全面的碰撞与损坏豁免，涵盖所有主要电气部件，让您出行无忧。",
+    "roadside_title": "24/7 道路救援",
+    "roadside_desc": "全国范围内独享Apex礼宾服务，提供爆胎、续航协助及拖车支援。",
+
+    "gallery_title": "视觉体验",
+    "gallery_enlarge": "点击放大",
+
+    "offer_details_label": "优惠详情",
+    "validity_period_label": "有效期",
+    "validity_dates": "2026年3月12日 — 12月31日",
+    "program_tag": "全国租赁计划",
+    "btn_download_brochure": "下载优惠手册",
+
+    "limited_time_label": "限时倒计时",
+    "limited_time_desc": "此促销活动将在81天后过期。立即预订您的名额，锁定当前价格与福利套餐。",
+
+    "Special_title": "Apex 特别方案",
+    "Special_subtitle": "探索专为您生活方式量身定制的补贴、充电奖励与租车福利。",
+
+    "tag_loyalty": "忠诚度",
+    "card_loyalty_title": "农历新年福利：特别续约激励",
+    "btn_discover_event": "了解更多",
+
+    "tag_tech": "科技",
+    "card_tech_title": "充电自由礼包：无限网络访问",
+
+    "tag_service": "服务",
+    "card_service_title": "冬季关怀套餐：巅峰季节整备",
+
+    "journey_title": "您的 Apex 之旅即刻开启",
+    "journey_subtitle": "亲临离您最近的体验中心，亲身体验优雅与智能的融合。",
+
+    "footer_back_to_top": "返回顶部",
+    "footer_desc": "通过精密工程与先锋设计定义电动出行的未来。加入我们，共同迈向可持续奢华之旅。",
+    "footer_contact_center": "客户服务中心",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-10-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "办公时间",
+    "weekday_date": "周一 - 周五",
+    "weekday_time": "9:00 - 18:00",
+    "sat_date": "周六",
+    "sat_time": "10:00 - 17:00",
+    "sun_date": "周日",
+    "close_time": "休息",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "隐私政策",
+    "footer_terms": "使用条款",
+    "footer_recalls": "安全召回"
+  }

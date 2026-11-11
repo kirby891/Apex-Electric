@@ -1,0 +1,80 @@
+{
+    "nav_models": "车型",
+    "nav_promotions": "限时优惠",
+    "nav_activities": "品牌活动",
+    "nav_contact": "联系我们",
+    "btn_test_drive": "预约试驾",
+  
+    "g9_hero_title": "G9",
+    "g9_hero_subtitle": "旗舰智能 SUV 为您的非凡旅程而生。",
+  
+    "hero_feature_title": "空气动力学精髓",
+    "hero_feature_desc": "调整这里的标题和内容以更新 G9 的实时预览。",
+  
+    "tag_innovation": "创新",
+    "g9_aero_title": "空气动力学效率",
+    "g9_aero_subtitle": "为多功能性而生",
+    "g9_aero_desc1": "空气动力学与运动性能的完美结合。",
+    "g9_aero_desc2": "Apex G9 的风阻系数仅为 0.235Cd，在实现卓越效率的同时，丝毫不妥协您下一次探险所需的宽敞实用性。",
+
+    "tag_engineering": "工程技术",
+    "g9_awd_title": "双电机与牵引力",
+    "g9_awd_subtitle": "运动级全轮驱动",
+    "g9_awd_desc1": "配备双电机全轮驱动系统与 Brembo 高性能制动系统。",
+    "g9_awd_desc2": "以智能全轮驱动纵横坦途。Apex G9 搭载高性能双电机，可在数毫秒内监测路况，向每个车轮精准输送扭矩，在任何环境中实现最大抓地力。",
+
+    "tag_interior": "内饰",
+    "g9_cabin_title": "宽敞内饰",
+    "g9_cabin_subtitle": "沉浸式声音与舒适体验",
+    "g9_cabin_desc1": "由您定义的专属圣殿。",
+    "g9_cabin_desc2": "体验超乎期待的智能座舱，采用顶级材质与沉浸式环绕声音响系统。每一个细节都经过精雕细琢，确保您的旅程既舒适又紧密互联。",
+
+    "btn_learn_more": "探索技术详情",
+
+    "tech_title": "卓越技术",
+    "tech_subtitle": "毫不妥协的工程设计。纯粹电能与精准操控的完美融合。",
+    "spec_max_range": "最大续航里程",
+    "spec_acceleration": "零百加速",
+    "spec_peak_power": "峰值功率",
+    "spec_fast_charge": "快速充电",
+    "btn_download_sheet": "下载完整技术规格表 (PDF)",
+
+    "exclusive_title": "规划您的租赁",
+    "exclusive_subtitle": "专为 G9 愿景的早期开拓者设计的专属礼遇。",
+    "link_view_activities": "查看所有促销活动 →",
+
+    "tag_launch": "首发",
+    "card_expo_title": "G9 首发纪念版",
+    "card_expo_desc": "体验配有专属内饰与性能升级的 G9 首发系列巅峰之作。",
+
+    "tag_offer": "优惠",
+    "card_gala_title": "周末租赁优惠",
+    "card_gala_desc": "享受 G9 周租与周末租赁的超值优惠。",
+
+    "tag_service": "服务",
+    "card_seminar_title": "充电网络接入",
+    "card_seminar_desc": "为您的 G9 租赁提供全国合作充电站点的无缝快速充电服务。",
+
+    "btn_discover_event": "了解详情",
+
+    "journey_title": "开启您的 Apex 之旅",
+    "journey_subtitle": "前往离您最近的体验中心，亲身感受优雅与智能的完美融合。",
+  
+    "footer_back_to_top": "返回顶部",
+    "footer_desc": "以精密工程与前沿设计定义电动出行的未来。与我们一同开启可持续豪华之旅。",
+    "footer_contact_center": "客户服务中心",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-569-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "营业时间",
+    "weekday_date": "周一至周五",
+    "weekday_time": "09:00 - 18:00",
+    "sat_date": "周六",
+    "sat_time": "10:00 - 17:00",
+    "sun_date": "周日",
+    "close_time": "休息",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "隐私政策",
+    "footer_terms": "使用条款",
+    "footer_recalls": "安全召回"
+  }

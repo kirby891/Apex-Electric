@@ -1,0 +1,69 @@
+{
+    "nav_models": "车型",
+    "nav_promotions": "促销活动",
+    "nav_activities": "精彩活动",
+    "nav_contact": "联系我们",
+    "btn_test_drive": "预约试驾",
+
+    "test_drive_hero_title": "体验未来",
+    "test_drive_hero_subtitle": "锁定您的专属驾驶席位",
+
+    "book_title": "预约试驾",
+    "book_subtitle": "请填写以下详细信息，以便预定我们最新款车型的专属体验。",
+
+    "error-message": "请在确认预订前填写所有必填字段。",
+
+    "Vechicle_selection": "01. 车辆选择",
+    "Preferred_model": "首选 Apex 车型",
+    "option_select_model": "请选择车型",
+
+    "step_2_title": "02. 个人详细信息",
+    "label_fullname": "全名",
+    "label_phone": "电话号码",
+    "label_email": "电子邮箱",
+
+    "step_3_title": "03. 门店与时间",
+    "label_branch": "取车门店",
+    "option_select_location": "请选择取车地点",
+    "label_date": "取车日期",
+    "label_timeslot": "取车时间段",
+    "option_select_time": "请选择可用时间",
+    "morning_time": "10:00 - 12:00",
+    "afternoon_time": "13:00 - 16:00",
+    "evening_time": "17:00 - 18:00",
+
+    "terms_agree_title": "我同意隐私政策和使用条款。",
+    "terms_agree_desc": "Apex Electric 尊重您的数据隐私。我们仅将您的信息用于管理您的预订。",
+    "recaptcha_text": "我不是机器人",
+    "btn_confirm_reservation": "确认预订",
+
+    "note_title": "体验须知",
+    "note_desc": "标准试驾通常持续 45 分钟，包含对我们的自动驾驶系统和充电生态系统的导览讲解。",
+
+    "terms_title": "租车条款与条件",
+    "terms_intro": "通过向 Apex Electric 预定租车，即表示您同意我们当前车队运营政策中定义的以下条款：",
+    "term_bullet_1": "租车人必须年满 20 周岁，并持有有效且不受限制的驾照。",
+    "term_bullet_2": "取车时必须出示本人有效驾照原件。",
+    "term_bullet_3": "若因恶劣天气或车辆库存情况调整，Apex Electric 保留取消或重新安排预订的权利。",
+    "term_bullet_4": "租车人同意在试驾期间遵循 Apex Electric 专属专家的所有指导。",
+    "term_bullet_5": "租赁期间提供责任险保障，具体受当地法规和保单条款限制。",
+    "terms_footer_note": "注意：这些条款可能会有所更改，最近更新于 2026 年 2 月 24 日。",
+
+    "footer_back_to_top": "返回顶部",
+    "footer_desc": "通过精密工程与先锋设计定义电动出行的未来。加入我们，共同迈向可持续奢华之旅。",
+    "footer_contact_center": "客户服务中心",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-10-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "办公时间",
+    "weekday_date": "周一 - 周五",
+    "weekday_time": "9:00 - 18:00",
+    "sat_date": "周六",
+    "sat_time": "10:00 - 17:00",
+    "sun_date": "周日",
+    "close_time": "休息",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "隐私政策",
+    "footer_terms": "使用条款",
+    "footer_recalls": "安全召回"
+  }

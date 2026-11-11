@@ -1,0 +1,80 @@
+{
+    "nav_models": "车型",
+    "nav_promotions": "优惠活动",
+    "nav_activities": "品牌活动",
+    "nav_contact": "联系我们",
+    "btn_test_drive": "预约试驾",
+  
+    "p7_hero_title": "P7 WING",
+    "p7_hero_subtitle": "标志性鹏翼门邂逅极致性能，为您倾心打造。",
+  
+    "hero_feature_title": "空气动力学",
+    "hero_feature_desc": "调整这里的标题和内容以更新 P7 Wing 的实时预览。",
+  
+    "tag_innovation": "创新",
+    "p7_aerodynamics_title": "灵感空气动力学",
+    "p7_aerodynamics_subtitle": "主动式尾翼与鸥翼门",
+    "p7_aerodynamics_desc1": "P7 Wing 配备标志性电动剪刀门与主动式后扰流板，可在高速行驶时产生强大的下压力。",
+    "p7_aerodynamics_desc2": "其碳纤维增强车身面板与雕塑感进气道在最大化高速过弯稳定性的同时，在任何道路上都自带耀眼光芒。",
+
+    "tag_engineering": "工程技术",
+    "p7_awd_title": "超级性能全轮驱动",
+    "p7_awd_subtitle": "四电机动态扭矩矢量分配",
+    "p7_awd_desc1": "凭借先进的多电机动力总成，P7 Wing 提供即时的起步加速与赛道级调校的操控表现。",
+    "p7_awd_desc2": "智能扭矩矢量分配系统持续监测车轮打滑情况，将动力精准输送到最需要最大抓地力的位置。",
+
+    "tag_interior": "内饰",
+    "p7_cockpit_title": "运动豪华座舱",
+    "p7_cockpit_subtitle": "真皮与欧缔兰专属圣殿",
+    "p7_cockpit_desc1": "步入汲取赛车灵感的座舱，配备轻量化碳纤维桶椅、增强现实 HUD 抬头显示以及定制氛围灯。",
+    "p7_cockpit_desc2": "优质欧缔兰（Alcantara）饰面与沉浸式环绕声系统完美交融，带来极致的高性能与豪华舒适体验。",
+
+    "btn_learn_more": "探索技术详情",
+
+    "tech_title": "卓越技术",
+    "tech_subtitle": "毫不妥协的工程设计。纯粹电能与精准操控的完美融合。",
+    "spec_max_range": "最大续航里程",
+    "spec_acceleration": "零百加速",
+    "spec_peak_power": "峰值功率",
+    "spec_fast_charge": "快速充电",
+    "btn_download_sheet": "下载完整技术规格表 (PDF)",
+
+    "exclusive_title": "规划您的租赁",
+    "exclusive_subtitle": "专为 P7 Wing 愿景的早期开拓者设计的专属礼遇。",
+    "link_view_activities": "查看所有促销活动 →",
+
+    "tag_launch": "首发",
+    "card_expo_title": "P7 WING 首发纪念版",
+    "card_expo_desc": "体验配有专属内饰与性能升级的 P7 Wing 首发系列巅峰之作。",
+
+    "tag_offer": "优惠",
+    "card_gala_title": "周末租赁优惠",
+    "card_gala_desc": "享受 P7 Wing 周租与周末租赁的超值优惠。",
+
+    "tag_service": "服务",
+    "card_seminar_title": "充电网络接入",
+    "card_seminar_desc": "为您的 P7 Wing 租赁提供全国合作充电站点的无缝快速充电服务。",
+
+    "btn_discover_event": "了解详情",
+
+    "journey_title": "开启您的 Apex 之旅",
+    "journey_subtitle": "前往离您最近的体验中心，亲身感受优雅与智能的完美融合。",
+  
+    "footer_back_to_top": "返回页首",
+    "footer_desc": "以精湛工程与前沿设计重新定义电动出行未来。与我们一同开启可持续奢华新篇章。",
+    "footer_contact_center": "客户服务中心",
+    "contact_location": "Headquarters No. 8, Chuangye Road, Haidian District, Beijing, China",
+    "contact_number": "+86-569-244-5641",
+    "contact_email": "global@apexelectric.com",
+    "footer_office_hours": "营业时间",
+    "weekday_date": "周一 至 周五",
+    "weekday_time": "9:00 - 18:00",
+    "sat_date": "周六",
+    "sat_time": "10:00 - 17:00",
+    "sun_date": "周日",
+    "close_time": "休息",
+    "footer_copyright": "© 2026 Apex Electric. All rights reserved.",
+    "footer_privacy": "隐私政策",
+    "footer_terms": "使用条款",
+    "footer_recalls": "召回信息"
+  }
