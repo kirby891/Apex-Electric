@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>P5 Page</title>
+  <link rel="stylesheet" crossorigin href="/assets/style-CgW9I-0L.css">
+</head>
+<body data-page="p5">
+
+	<section class="font-serif">
+
+		<!-- Top banner -->
+		<header class="flex flex-wrap justify-between items-center container mx-auto bg-white py-4 sm:py-6 px-4 sm:px-6 lg:px-8 gap-4 sm:gap-6">
+
+			<!-- Left Side -->
+			<div class="flex flex-col sm:flex-row justify-between items-center gap-4 sm:gap-8 lg:gap-12 w-full lg:w-auto sm:justify-start">
+
+				<h1 class="text-2xl sm:text-3xl font-bold text-blue-700">Apex Electric</h1>
+			
+				<nav class="overflow-x-auto scrollbar-none">
+					<ul class="flex flex-col sm:flex-row items-center list-none gap-4 sm:gap-7">
+						<li>
+							<a href="index.html" data-translate="nav_models" class="text-sm sm:text-base font-semibold text-black hover:text-blue-700 
+							transition-colors duration-300 ease-in-out">Models</a>
+						</li>
+						<li>
+							<a href="promotions.html" data-translate="nav_promotions" class="text-sm sm:text-base font-semibold text-black hover:text-blue-700 
+							transition-colors duration-300 ease-in-out">Promotions</a>
+						</li>
+						<li>
+							<a href="activities.html" data-translate="nav_activities" class="text-sm sm:text-base font-semibold text-black hover:text-blue-700 
+							transition-colors duration-300 ease-in-out">Activities</a>
+						</li>
+						<li>
+							<a href="contact.html" data-translate="nav_contact" class="text-sm sm:text-base font-semibold text-black hover:text-blue-700 
+							transition-colors duration-300 ease-in-out">Contact</a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+
+			<!-- Right Side -->
+			<div class="flex flex-col sm:flex-row justify-between items-center gap-4 sm:gap-10 w-full sm:w-auto">
+
+				<div id="lang-color" class="flex items-center gap-4">
+					<span data-lang="EN" data-active="true" class="text-sm sm:text-base font-semibold text-blue-700  
+						transition-colors duration-300 ease-in-out cursor-pointer" onclick="Selectlang(this)">EN</span>
+					<span data-lang="JP" class="text-sm sm:text-base font-semibold text-black hover:text-blue-700 transition-colors 
+						duration-300 ease-in-out cursor-pointer" onclick="Selectlang(this)">JP</span>
+					<span data-lang="ZH" class="text-sm sm:text-base font-semibold text-black hover:text-blue-700 transition-colors 
+						duration-300 ease-in-out cursor-pointer" onclick="Selectlang(this)">ZH</span>
+				</div>
+
+				<button class="text-xs sm:text-base font-semibold text-white bg-blue-700 py-2.5 px-4 sm:py-3 sm:px-5 
+					rounded-full hover:bg-black transition-colors duration-300 ease-in-out cursor-pointer" type="button" 
+					data-translate="btn_test_drive" onclick="window.location.href='test-drive.html'">Schedule Test Drive</button>
+			</div>
+		</header>
+
+		<!-- Select model section -->
+		<section class="flex items-center bg-gray-300/50 py-2 sm:py-4">
+			<div class="container mx-auto">
+
+				<nav class="flex flex-col sm:flex-row justify-center items-center gap-7 sm:gap-14">
+					<a href="apex-model-s1.html" data-type="option" class="text-base sm:text-lg font-bold text-black border-b-2 sm:border-b-3 border-transparent 
+            pb-1 hover:text-blue-700 hover:border-b-blue-700 transition-colors duration-300 ease-in-out">Apex Model S1</a>
+
+					<a href="g9.html" data-type="option" class="text-base sm:text-lg font-bold text-black border-b-2 sm:border-b-3 border-transparent 
+            pb-1 hover:text-blue-700 hover:border-b-blue-700 transition-colors duration-300 ease-in-out">G9</a>
+							
+					<a href="p5.html" data-type="option" class="text-base sm:text-lg font-bold text-black border-b-2 sm:border-b-3 border-transparent 
+            pb-1 hover:text-blue-700 hover:border-b-blue-700 transition-colors duration-300 ease-in-out">P5</a>
+
+					<a href="g3i.html" data-type="option" class="text-base sm:text-lg font-bold text-black border-b-2 sm:border-b-3 border-transparent 
+            pb-1 hover:text-blue-700 hover:border-b-blue-700 transition-colors duration-300 ease-in-out">G3i</a>
+							
+					<a href="p7-wing.html" data-type="option" class="text-base sm:text-lg font-bold text-black border-b-2 sm:border-b-3 border-transparent 
+            pb-1 hover:text-blue-700 hover:border-b-blue-700 transition-colors duration-300 ease-in-out">P7 WING</a>
+        </nav>
+			</div>
+		</section>
+
+    <!-- Hero section -->
+    <section class="flex items-center relative min-h-[400px] md:min-h-[550px] lg:min-h-[650px] py-12 sm:py-16 md:py-24 overflow-hidden">
+      <div class="absolute bg-[#545454]/30 inset-0 z-10"></div>
+
+      <img src="/assets/hero-Image-4-BPi0tafT.png" alt="hero-Image-4" id="hero-img" class="absolute inset-0 w-full h-full object-cover z-0">
+
+      <div class="flex flex-col items-center container mx-auto w-full px-4 sm:px-6 md:px-8 z-20">
+        <div class="flex flex-col items-center text-center w-full max-w-4xl">
+          
+          <h1 class="text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-semibold text-white mb-4 md:mb-6 inline-block"
+            data-translate="p5_hero_title">P5</h1>
+
+          <p class="text-base sm:text-xl md:text-2xl font-medium text-white leading-relaxed tracking-normal mb-6 sm:mb-8 md:mb-12 max-w-2xl text-pretty"
+            data-translate="p5_hero_subtitle">Smart intelligence meets effortless electric performance. Designed for your journey.</p>
+
+          <button class="text-base sm:text-xl md:text-2xl text-center font-semibold text-white bg-linear-to-r from-[#565CC5] to-[#222DF6]
+            py-2.5 sm:py-3.5 px-6 sm:px-8 sm:w-80 sm:max-w-none w-full max-w-xs rounded-full hover:-translate-y-1 transition-transform duration-300 
+            ease-in-out cursor-pointer" type="button" data-translate="btn_test_drive" 
+            onclick="window.location.href='test-drive.html'">Schedule Test Drive</button>
+        </div>
+
+        <div class="flex flex-col items-stretch gap-4 sm:gap-6 w-full max-w-md mt-8 sm:mt-10 lg:mt-0 lg:max-w-none">
+
+          <div class="w-full bg-[#ECECEC]/50 backdrop-blur-sm rounded-xl sm:rounded-2xl lg:absolute lg:bottom-5 lg:left-5 lg:w-90 lg:h-auto">
+            <div class="flex flex-col items-start text-left p-4 sm:p-5 gap-2">
+
+              <p class="text-base sm:text-lg text-black font-bold inline-block" data-translate="hero_feature_title">Aerodynamic Mastery</p>
+
+              <p class="text-sm sm:text-base text-black font-medium leading-relaxed inline-block text-pretty" data-translate="hero_feature_desc">
+                Watch the P5 in motion and see its design from every angle.</p>
+
+              <div class="relative w-full rounded-xl sm:rounded-2xl group overflow-hidden">
+                <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer"><img src="/assets/Aerodynamic-image-p5-DOEUsdzJ.png" 
+                  alt="Aerodynamic-image-p5" class="w-full h-auto max-h-32 sm:max-h-40 object-contain rounded-xl sm:rounded-2xl group-hover:scale-105 
+                  transition-transform duration-500 ease-in-out">
+                  
+                  <div class="flex items-center justify-center absolute inset-0">
+                    <div class="flex items-center justify-center w-10 h-10 sm:w-12 sm:h-12 bg-black/50 rounded-full group-hover:bg-[#222DF6] 
+                      transition-colors duration-300">
+
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="text-white w-5 h-5 sm:w-6 sm:h-6">
+                        <path fill-rule="evenodd" d="M4.5 5.653c0-1.427 1.529-2.33 2.779-1.643l11.54 6.347c1.295.712 1.295 2.573 0 3.286L7.28 
+                        19.99c-1.25.687-2.779-.217-2.779-1.643V5.653Z" clip-rule="evenodd"/>
+                      </svg>
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="w-full flex justify-center lg:w-auto lg:absolute lg:bottom-5 lg:right-5">
+            <div class="flex flex-wrap items-center justify-center gap-3 sm:gap-6 lg:gap-8">
+
+              <div id="image-gallery" class="flex flex-wrap items-center justify-center gap-3 sm:gap-6 lg:gap-8 transition-all duration-800 ease-in-out">
+                <img src="/assets/hero-Image-4-BPi0tafT.png" alt="P5-small-image-1" class="w-12 h-10 sm:w-20 sm:h-18 object-cover
+                  rounded-lg sm:rounded-2xl hover:scale-110 transition-transform duration-500 ease-in-out cursor-pointer">
+                <img src="/assets/P5-small-image-2-C0t7lHyy.png" alt="P5-small-image-2" class="w-12 h-10 sm:w-20 sm:h-18 object-cover
+                  rounded-lg sm:rounded-2xl hover:scale-110 transition-transform duration-500 ease-in-out cursor-pointer">
+                <img src="/assets/P5-small-image-3-mFYfYjp_.png" alt="P5-small-image-3" class="w-12 h-10 sm:w-20 sm:h-18 object-cover
+                  rounded-lg sm:rounded-2xl hover:scale-110 transition-transform duration-500 ease-in-out cursor-pointer">
+              </div>
+
+              <button id="toggleBtn" type="button" class="flex items-center justify-center text-white p-2 sm:p-4 rounded-xl sm:rounded-2xl
+                w-12 h-12 sm:w-20 sm:h-20 bg-black/50 border-2 border-gray-400/50 hover:bg-white hover:text-black hover:border-white
+                transition-all duration-500 ease-in-out cursor-pointer">
+                
+                <svg id="toggleIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-6 sm:size-8">
+                  <path fill-rule="evenodd" d="M15 3.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 .75.75v4.5a.75.75 0 0 1-1.5 0V5.56l-3.97 3.97a.75.75
+                    0 1 1-1.06-1.06l3.97-3.97h-2.69a.75.75 0 0 1-.75-.75Zm-12 0A.75.75 0 0 1 3.75 3h4.5a.75.75 0 0 1 0 1.5H5.56l3.97 3.97a.75.75 0 0
+                    1-1.06 1.06L4.5 5.56v2.69a.75.75 0 0 1-1.5 0v-4.5Zm11.47 11.78a.75.75 0 1 1 1.06-1.06l3.97 3.97v-2.69a.75.75 0 0 1 1.5 0v4.5a.75.75
+                    0 0 1-.75.75h-4.5a.75.75 0 0 1 0-1.5h2.69l-3.97-3.97Zm-4.94-1.06a.75.75 0 0 1 0 1.06L5.56 19.5h2.69a.75.75 0 0 1 0 1.5h-4.5a.75.75
+                    0 0 1-.75-.75v-4.5a.75.75 0 0 1 1.5 0v2.69l3.97-3.97a.75.75 0 0 1 1.06 0Z" clip-rule="evenodd"/>
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- P5 Details -->
+    <section class="flex justify-center bg-white py-12 sm:py-16 md:py-24 px-4 sm:px-6 md:px-8">
+      <div class="container mx-auto">
+
+        <!-- layout details -->
+        <div class="flex flex-col items-center gap-10 sm:gap-20 md:gap-30">
+
+          <!-- First Information details -->
+          <div class="flex flex-col lg:flex-row justify-between items-center gap-10 lg:gap-16">
+
+            <!-- First left text -->
+            <div class="flex flex-col text-start gap-4 sm:gap-6 md:gap-8 w-full lg:w-1/2">
+              <span class="justify-center items-center text-center text-xs sm:text-sm md:text-base font-normal text-black bg-gray-300/50 
+                rounded-4xl w-20 sm:w-30 py-1" data-translate="tag_innovation">Innovation</span>
+              
+              <h5 class="text-2xl sm:text-3xl md:text-4xl font-bold text-black tracking-wider inline-block" 
+                data-translate="p5_aero_title">Streamlined Engineering</h5>
+
+              <p class="text-lg sm:text-xl md:text-2xl font-bold text-blue-700 tracking-wider inline-block" 
+                data-translate="p5_aero_subtitle">Engineered for Seamless Efficiency</p>
+
+              <p class="text-sm sm:text-base md:text-lg font-medium text-black leading-normal tracking-normal text-pretty inline-block" 
+                data-translate="p5_aero_desc1">The P5 features an ultra low drag coefficient of 0.21 Cd, engineered to maximize high speed 
+                range and battery efficiency.</p>
+
+              <p class="text-sm sm:text-base md:text-lg font-medium text-black leading-normal tracking-normal text-pretty inline-block" 
+                data-translate="p5_aero_desc2">Active air intakes and sculpted aerodynamic contours optimize airflow over the chassis while 
+                maintaining silent high speed cruising.</p>
+
+              <div class="flex items-center text-xs sm:text-sm md:text-base text-blue-700 font-normal tracking-normal gap-2 sm:gap-4 mt-2 sm:mt-0
+                hover:-translate-y-1 hover:text-blue-500 hover:drop-shadow-[0_0_18px_rgba(59,130,246,1.0)] duration-300 ease-in-out cursor-pointer">
+                <a href="activities.html" data-translate="btn_learn_more">Explore the technology</a>
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-4">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25 21 12m0 0-3.75 3.75M21 12H3" />
+                </svg>
+              </div>  
+            </div>
+
+            <!-- First right image -->
+            <div class="flex items-center w-full lg:w-1/2">
+              <img src="/assets/Engineered-p5-CtwssA_R.png" alt="Engineered-p5" class="w-full h-full object-contain rounded-2xl sm:rounded-3xl md:rounded-4xl">
+            </div>
+          </div>
+
+          <!-- Second Information details -->
+          <div class="flex flex-col lg:flex-row justify-between items-center gap-10 lg:gap-16">
+
+            <!-- Second left image -->
+            <div class="flex items-center w-full lg:w-1/2">
+              <img src="/assets/All-Wheel-Drive-p5-D6jDempv.png" alt="All-Wheel-Drive-p5" class="w-full h-full object-contain 
+                rounded-2xl sm:rounded-3xl md:rounded-4xl">
+            </div>
+
+            <!-- Second right text -->
+            <div class="flex flex-col text-start gap-4 sm:gap-6 md:gap-8 w-full lg:w-1/2">
+              <span class="justify-center items-center text-center text-xs sm:text-sm md:text-base font-normal text-black bg-gray-300/50 
+                rounded-4xl w-20 sm:w-30 py-1" data-translate="tag_engineering">Engineering</span>
+              
+              <h5 class="text-2xl sm:text-3xl md:text-4xl font-bold text-black tracking-wider inline-block" 
+                data-translate="p5_awd_title">Power Distribution</h5>
+
+              <p class="text-lg sm:text-xl md:text-2xl font-bold text-blue-700 tracking-wider inline-block" 
+                data-translate="p5_awd_subtitle">Dual Motor Traction & Stability</p>
+
+              <p class="text-sm sm:text-base md:text-lg font-medium text-black leading-normal tracking-normal text-pretty inline-block" 
+                data-translate="p5_awd_desc1">Equipped with a dynamic all wheel drive powertrain, the P5 continuously balances torque between 
+                front and rear axles within milliseconds.</p>
+
+              <p class="text-sm sm:text-base md:text-lg font-medium text-black leading-normal tracking-normal text-pretty inline-block" 
+                data-translate="p5_awd_desc2">Whether navigating wet roads or demanding cornering, intelligent traction control delivers instant 
+                torque response and effortless control in all driving conditions.</p>
+
+              <div class="flex items-center text-xs sm:text-sm md:text-base text-blue-700 font-normal tracking-normal gap-2 sm:gap-4 mt-2 sm:mt-0
+                hover:-translate-y-1 hover:text-blue-500 hover:drop-shadow-[0_0_18px_rgba(59,130,246,1.0)] duration-300 ease-in-out cursor-pointer">
+                <a href="activities.html" data-translate="btn_learn_more">Explore the technology</a>
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-4">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25 21 12m0 0-3.75 3.75M21 12H3" />
+                </svg>
+              </div>  
+            </div>   
+          </div>
+
+          <!-- Third Information details -->
+          <div class="flex flex-col lg:flex-row justify-between items-center gap-10 lg:gap-16">
+
+            <!-- Third left text -->
+            <div class="flex flex-col text-start gap-4 sm:gap-6 md:gap-8 w-full lg:w-1/2">
+              <span class="justify-center items-center text-center text-xs sm:text-sm md:text-base font-normal text-black bg-gray-300/50 
+                rounded-4xl w-20 sm:w-30 py-1" data-translate="tag_interior">Interior</span>
+              
+              <h5 class="text-2xl sm:text-3xl md:text-4xl font-bold text-black tracking-wider inline-block" 
+                data-translate="p5_cabin_title">Luxurious Cabin Design</h5>
+
+              <p class="text-lg sm:text-xl md:text-2xl font-bold text-blue-700 tracking-wider inline-block" 
+                data-translate="p5_cabin_subtitle">Thoughtfully Crafted Passenger Sanctuary</p>
+
+              <p class="text-sm sm:text-base md:text-lg font-medium text-black leading-normal tracking-normal text-pretty inline-block" 
+                data-translate="p5_cabin_desc1">Step into a quiet cabin crafted for calm.</p>
+
+              <p class="text-sm sm:text-base md:text-lg font-medium text-black leading-normal tracking-normal text-pretty inline-block" 
+                data-translate="p5_cabin_desc2">With premium sustainable materials, panoramic acoustic glass, and ergonomic seating designed for 
+                long distance comfort. Integrated ambient lighting and an intuitive touchscreen ecosystem keep every control seamlessly within your reach.</p>
+
+              <div class="flex items-center text-xs sm:text-sm md:text-base text-blue-700 font-normal tracking-normal gap-2 sm:gap-4 mt-2 sm:mt-0
+                hover:-translate-y-1 hover:text-blue-500 hover:drop-shadow-[0_0_18px_rgba(59,130,246,1.0)] duration-300 ease-in-out cursor-pointer">
+                <a href="activities.html" data-translate="btn_learn_more">Explore the technology</a>
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-4">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25 21 12m0 0-3.75 3.75M21 12H3" />
+                </svg>
+              </div>  
+            </div>
+
+            <!-- Third right image -->
+            <div class="flex items-center w-full lg:w-1/2">
+              <img src="/assets/Cabin-Designed-p5-CwTN6CL-.png" alt="Cabin-Designed-p5" class="w-full h-full object-contain 
+                rounded-2xl sm:rounded-3xl md:rounded-4xl">
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Technical Sheet section -->
+    <section class="flex justify-center bg-[#ECECEC] py-12 md:py-24">
+      <div class="container mx-auto">
+
+        <div class="flex flex-col justify-center text-center">
+          <h3 class="text-3xl sm:text-4xl md:text-5xl font-bold text-black mb-5 sm:mb-10 uppercase text-pretty inline-block" 
+            data-translate="tech_title">Technical Excellence</h3>
+
+          <p class="text-base sm:text-lg md:text-xl font-medium text-black mb-10 sm:mb-13 tracking-normal text-pretty inline-block" 
+            data-translate="tech_subtitle">Engineered without compromise. Pure electric power meets surgical precision handling.</p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-4 mx-auto p-2 sm:p-4 gap-4 sm:gap-8">
+
+          <!-- Card 1 : Max Range -->
+          <div class="flex flex-col justify-center items-center bg-white rounded-xl sm:rounded-2xl p-4 sm:p-8 gap-2 sm:gap-3">
+            <div class="flex justify-center items-center w-10 h-10 sm:w-13 sm:h-13 bg-[#F0F5FF] rounded-full p-2 sm:p-3 mb-1 sm:mb-1.5">
+              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAHZJREFUeAHt1GEKgCAMBeBHdJDdNG9gN6wb1A1KQQ1GZq72bx88omhrEgoY86cpZAs5OhNrfKu5FzTmcU8fyJMT+hGulVTlKaSq9QN0LCntCV7i9eVeawXFCB0rf6D+k/d0JfQj1uOWw/eNNqMhviA9KhyMUXMCZ5ZWmEE1mw0AAAAASUVORK5CYII=" alt="battery-icon" class="w-full h-full object-contain">
+            </div>
+
+            <span class="text-xs font-semibold text-gray-700" data-translate="spec_max_range">MAX RANGE</span>
+
+            <div class="flex items-baseline gap-1">
+              <span class="text-2xl sm:text-3xl font-extrabold text-black">760</span>
+              <span class="text-xs font-semibold text-gray-700 text-nowrap">KM (WLTP)</span>
+            </div>
+          </div>
+        
+          <!-- Card 2 : Acceleration -->
+          <div class="flex flex-col justify-center items-center bg-white rounded-xl sm:rounded-2xl p-4 sm:p-8 gap-2 sm:gap-3">
+            <div class="flex justify-center items-center w-10 h-10 sm:w-13 sm:h-13 bg-[#F0F5FF] rounded-full p-2 sm:p-3 mb-1 sm:mb-1.5">
+              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAARCAYAAADZsVyDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAOpJREFUeAGllIERgjAMRXNO4AgZgRG6gSPABrIBjOIGuAHnBLoBbsAImkiCLScmhX/3KQ3tI20KAOs6ks/kjjyQX2K+78klGSFDDGzIYwT758YDxUV2nFkFaWaFxLrFKtAD5TZAXiKrcB1wh2k7vDrKHIUnc5u1BxlwTazVIMJ3r9AJQgENUSwIY5QXfQrBgSv4hJDua6xe4nXcKW2mWawqTlIHFjuhOmZeie6vJfNYiWZeDtiCJjzNxJrgUSGs4UCXhwQD7JfW6cngm3Q8p8LSSdoLX/gw658swHYh/PjQaoEjbFeAqV4td96adGJGQkbFEgAAAABJRU5ErkJggg==" alt="acceleration-icon" class="w-full h-full object-contain">
+            </div>
+
+            <span class="text-xs font-semibold text-gray-700" data-translate="spec_acceleration">ACCELERATION</span>
+
+            <div class="flex items-baseline gap-1">
+              <span class="text-2xl sm:text-3xl font-extrabold text-black">3.8</span>
+              <span class="text-xs font-semibold text-gray-700 text-nowrap">SEC (0-100)</span>
+            </div>
+          </div>
+        
+          <!-- Card 3 : Peak Power -->
+          <div class="flex flex-col justify-center items-center bg-white rounded-xl sm:rounded-2xl p-4 sm:p-8 gap-2 sm:gap-3">
+            <div class="flex justify-center items-center w-10 h-10 sm:w-13 sm:h-13 bg-[#F0F5FF] rounded-full p-2 sm:p-3 mb-1 sm:mb-1.5">
+              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAL5JREFUeAGtlIERgjAMRf+di3QEN9EN6AhsYDfRTaoTOIIjdAQ1XqihCkeavLscBS4vJeG6w3ZO77jy+gYjJHuKcJVlGJCywtcBnUhZFMKADlrZkdd3dNDKiAvfj1AiZTL5wc/2UCBlqXlXMJ/0v6CidWDDioyIYpdrUbbINF9HRWvlhD5+hqjuz4KsDjFC0Z8FWYKCIHY5Yer7yIlnDxmROfngIQv49s/j9/oMbDoUzDIiYz7pBCOuMrBEJXsBPSiDIGMKI+8AAAAASUVORK5CYII=" alt="power-icon" class="w-full h-full object-contain">
+            </div>
+
+            <span class="text-xs font-semibold text-gray-700" data-translate="spec_peak_power">PEAK POWER</span>
+
+            <div class="flex items-baseline gap-1">
+              <span class="text-2xl sm:text-3xl font-extrabold text-black">580</span>
+              <span class="text-xs font-semibold text-gray-700 text-nowrap">HP</span>
+            </div>
+          </div>
+        
+          <!-- Card 4 : Fast Charge -->
+          <div class="flex flex-col justify-center items-center bg-white rounded-xl sm:rounded-2xl p-4 sm:p-8 gap-2 sm:gap-3">
+            <div class="flex justify-center items-center w-10 h-10 sm:w-13 sm:h-13 bg-[#F0F5FF] rounded-full p-2 sm:p-3 mb-1 sm:mb-1.5">
+              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAASZJREFUeAGlVAuxwkAM3HkKkJDnoBLOSYsCcFCkgILiAAngABxUAiQlocdxv8LOLGXy2eYuTYA0VswNc2BemXel/D8xWyZhAUSwZ46eWI59jSgF1UllHd4ra9Q2BKegGlF5OiwrJCluAWc8ryPmv0bsK80x8bfcPuXwYMdGQtwK25mRvCRCGjlhgVP/qC+aGiGGI/IoCQtOGrP9w/N7FAz4HQd9Ovmxu2kKSTUVE+ZeVSX4cW1lXLVwONZtSdgSCGV0kRf4aMwuzbuo0aGMPfOfuWbeIn7r0+TbYt4Lv8L2x3RN8jHbJnP4HoTIoO1QHukcoiMdOlJLKCfqL6EPECpWYABXm+OLC6UZ0ogmiOkw74UlhbzuvMRRYxf1hbzKwqGQk2xygg/BfJAJtoE6+wAAAABJRU5ErkJggg==" alt="charge-icon" class="w-full h-full object-contain">
+            </div>
+
+            <span class="text-xs font-semibold text-gray-700" data-translate="spec_fast_charge">FAST CHARGE</span>
+            
+            <div class="flex items-baseline gap-1">
+              <span class="text-2xl sm:text-3xl font-extrabold text-black">15</span>
+              <span class="text-xs font-semibold text-gray-700 text-nowrap">MIN (10-80%)</span>
+            </div>
+          </div>   
+        </div>
+
+        <div class="flex justify-center py-5 md:py-10 px-4">
+          <button class="inline-flex items-center justify-center gap-2 sm:gap-3 text-sm sm:text-base md:text-lg font-bold text-[#222DF6] bg-transparent 
+              border-2 border-[#222DF6] w-full sm:w-auto max-w-xl px-6 sm:px-12 py-3 sm:py-6 rounded-full hover:bg-black hover:text-white 
+              hover:border-transparent transition-all duration-300 ease-in-out cursor-pointer" type="button" onclick="return false;">
+              
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" 
+              class="w-5 h-5 sm:w-6 sm:h-6 shrink-0"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 
+              3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 
+              3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 
+              1.125-1.125V11.25a9 9 0 0 0-9-9Z"/>
+            </svg>
+            <span data-translate="btn_download_sheet">Download Full Technical Sheet (PDF)</span>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Rental section -->
+    <section class="flex justify-center bg-white py-12 sm:py-16 md:py-24 px-4 sm:px-6 md:px-8">
+      <div class="container mx-auto">
+
+        <div class="flex flex-col items-start md:flex-row md:items-end justify-between mb-10 md:mb-20 gap-6 sm:gap-0">
+          <div>
+            <h3 class="text-3xl sm:text-4xl md:text-5xl font-bold text-black mb-8 md:mb-15 inline-block" data-translate="exclusive_title">
+              Plan Your Rental</h3>
+
+            <p class="text-lg sm:text-xl md:text-2xl font-medium text-black text-pretty inline-block" data-translate="exclusive_subtitle">
+              Exclusive benefits designed for the early pioneers of the P5 vision.</p>
+          </div>
+          <div>
+            <a href="promotions.html" data-translate="link_view_activities" class="text-lg sm:text-xl md:text-2xl font-semibold 
+              text-nowrap px-4 py-2 text-[#222DF6] hover:text-blue-500 hover:drop-shadow-[0_0_18px_rgba(59,130,246,1.0)] 
+              transition-colors duration-300 ease-in-out">View All Promotions &rarr;</a>
+          </div>
+        </div>
+
+        <!-- Rental grid -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 sm:gap-6 md:gap-8">
+
+          <!-- Card 1 : Launch edition -->
+          <div class="flex flex-col bg-[#ECECEC] shadow-gray-100-50 shadow-lg rounded-2xl md:rounded-4xl overflow-hidden hover:-translate-y-2 
+            transition-transform duration-300 ease-in-out">
+            <div class="relative w-full aspect-[4/2.5]">
+              <img src="/assets/P5-ownership-3-vEe61WLy.png" alt="P5-ownership-3" class="w-full h-full object-cover">
+
+              <span class="absolute inline-flex items-center text-xs font-semibold text-black bg-white top-6 left-6  
+                rounded-full px-3 py-1" data-translate="tag_launch">Launch</span>
+            </div>
+            
+            <div class="flex flex-col flex-1 items-start p-6 sm:p-8">
+
+              <div class="flex flex-col justify-center gap-4 sm:gap-6">
+                <h5 class="text-xl md:text-2xl font-bold text-black" 
+                  data-translate="card_expo_title">P5 Launch Edition</h5>
+
+                <p class="text-lg md:text-xl font-medium text-black text-pretty inline-block" 
+                  data-translate="card_expo_desc">Experience the pinnacle of our P5 debut series with exclusive trims and performance upgrades.</p>
+
+                <button class="flex justify-center items-center text-base md:text-lg font-bold text-black bg-transparent 
+                  border-2 rounded-full w-full mt-auto py-2.5 px-4 hover:bg-black hover:text-white hover:border-black transition-colors
+                  duration-300 ease-in-out cursor-pointer" type="button" data-translate="btn_discover_event" 
+                  onclick="window.location.href='promotions.html'">Learn More</button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 2 : Rental deals -->
+          <div class="flex flex-col bg-[#ECECEC] shadow-gray-100-50 shadow-lg rounded-2xl md:rounded-4xl overflow-hidden hover:-translate-y-2 
+            transition-transform duration-300 ease-in-out">
+            <div class="relative w-full aspect-[4/2.5]">
+              <img src="/assets/P5-streamline-3-Dfed91JF.png" alt="P5-streamline-3" class="w-full h-full object-cover">
+
+              <span class="absolute inline-flex items-center text-xs font-semibold text-black bg-white top-6 left-6  
+                rounded-full px-3 py-1" data-translate="tag_offer">Offer</span>
+            </div>
+            
+            <div class="flex flex-col flex-1 items-start p-6 sm:p-8">
+                 
+              <div class="flex flex-col justify-center gap-4 sm:gap-6">
+                <h5 class="text-xl md:text-2xl font-bold text-black" 
+                  data-translate="card_gala_title">Weekend Rental Deals</h5>
+                <p class="text-lg md:text-xl font-medium text-black text-pretty inline-block" 
+                  data-translate="card_gala_desc">Unlock premium savings on weekly and weekend rentals of the P5.</p>
+
+                <button class="flex justify-center items-center text-base md:text-lg font-bold text-black bg-transparent 
+                  border-2 rounded-full w-full mt-auto py-2.5 px-4 hover:bg-black hover:text-white hover:border-black transition-colors
+                  duration-300 ease-in-out cursor-pointer" type="button" data-translate="btn_discover_event" 
+                  onclick="window.location.href='promotions.html'">Learn More</button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 3 : Network access -->
+          <div class="flex flex-col bg-[#ECECEC] shadow-gray-100-50 shadow-lg rounded-2xl md:rounded-4xl overflow-hidden hover:-translate-y-2 
+            transition-transform duration-300 ease-in-out">
+            <div class="relative w-full aspect-[4/2.5]">
+              <img src="/assets/Home-Charging-3-dFl3QV8C.png" alt="Home-Charging-3" class="w-full h-full object-cover">
+
+              <span class="absolute inline-flex items-center text-xs font-semibold text-black bg-white top-6 left-6  
+              rounded-full px-3 py-1" data-translate="tag_service">Service</span>
+            </div>
+            
+            <div class="flex flex-col flex-1 items-start p-6 sm:p-8">
+              
+              <div class="flex flex-col justify-center gap-4 sm:gap-6">
+                <h5 class="text-xl md:text-2xl font-bold text-black" 
+                  data-translate="card_seminar_title">Charging Network Access</h5>
+                <p class="text-lg md:text-xl font-medium text-black text-pretty inline-block" 
+                  data-translate="card_seminar_desc">Seamless, rapid charging access for your P5 rental at partner stations nationwide.</p>
+
+                <button class="flex justify-center items-center text-base md:text-lg font-bold text-black bg-transparent 
+                  border-2 rounded-full w-full mt-auto py-2.5 px-4 hover:bg-black hover:text-white hover:border-black transition-colors
+                  duration-300 ease-in-out cursor-pointer" type="button" data-translate="btn_discover_event" 
+                  onclick="window.location.href='promotions.html'">Learn More</button>
+              </div>
+            </div>
+          </div>
+        </div>         
+      </div>
+    </section>
+
+    <!-- Info Journey section -->     
+    <section class="flex items-center relative min-h-[300px] md:min-h-[450px] lg:min-h-[550px] py-12 sm:py-16 md:py-24 px-4 sm:px-6 md:px-8 overflow-hidden">
+      <div class="absolute bg-[#454545]/50 inset-0 w-full h-full z-10"></div>
+
+      <img src="/assets/Your-Aetherial-Journey-p5-eDIiWPtX.png" alt="Your-Aetherial-Journey-p5" class="absolute inset-0 w-full h-full object-cover z-0">
+
+      <div class="flex flex-col items-center text-center container mx-auto z-20 px-4 sm:px-6 md:px-8 gap-4 sm:gap-6">
+        <h1 class="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-4 md:mb-6 text-pretty inline-block"
+          data-translate="journey_title">Your Apex Journey Awaits</h1>
+
+        <p class="text-xl sm:text-2xl md:text-3xl font-medium text-white leading-relaxed mb-4 sm:mb-6 text-pretty inline-block"
+          data-translate="journey_subtitle">Experience the fusion of elegance and intelligence firsthand at your nearest experience center.</p>
+
+        <button class="text-lg sm:text-xl md:text-2xl text-center font-semibold text-white bg-[#222DF6]
+          py-2.5 sm:py-3.5 px-7 sm:px-8 w-auto sm:w-80 rounded-full hover:bg-white hover:text-black hover:-translate-y-1 transition-all 
+          duration-300 ease-in-out cursor-pointer" type="button" data-translate="btn_test_drive" 
+          onclick="window.location.href='test-drive.html'">Schedule Test Drive</button>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="flex justify-center bg-white py-12 sm:py-16 md:py-24 px-4 sm:px-6 md:px-8">
+      <div class="container mx-auto">
+
+        <div class="flex justify-end text-base font-semibold gap-2 px-2 py-5 sm:py-0 text-[#222DF6] hover:text-blue-500 
+          hover:drop-shadow-[0_0_18px_rgba(59,130,246,1.0)] hover:-translate-y-2 transition-all duration-300 ease-in-out cursor-pointer"
+          id="back-to-top" onclick="BackToTop()">
+          
+          <span data-translate="footer_back_to_top">Back to Top</span>
+          <svg xmlns="http://www.w3.org/2000/svg" class="size-6" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 10.5 12 3m0 0 7.5 7.5M12 3v18" />
+          </svg>            
+        </div>
+
+        <!-- Footer grid -->
+        <div class="grid grid-cols-1 md:grid-cols-3 px-5 md:px-10 gap-10 md:gap-20">
+
+          <!-- Column 1 : Apex Electric -->
+          <div class="flex flex-col items-start gap-4 sm:gap-8">
+            <h5 class="text-xl sm:text-2xl md:text-3xl font-semibold text-[#222DF6]">Apex Electric</h5>
+
+            <p class="text-sm sm:text-base font-medium text-black text-pretty inline-block" data-translate="footer_desc">Defining the future of 
+              electric mobility through precision engineering and avant-garde design. Join us in the journey towards sustainable luxury.</p>
+
+            <div class="flex justify-between items-center gap-6 sm:gap-8 md:gap-12">
+              <a href="https://www.facebook.com/login/?locale=en_GB" target="_blank" rel="noopener noreferrer" 
+                class="hover:scale-125 transition-transform duration-300 ease-in-out">
+
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAARCAYAAADkIz3lAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAARhJREFUeAG1ksFRwzAQRXc3usMBbOJMYtEBHeAOSAcJFUAHMRUAFQAdQAXBlcTjQzBc4MhJ4suybMMAw4U9SPLul97qy0xfYn8yXYqRBTFlfdY+jIaiKNErIb7CsrRs7zAXTKzJ8jsH0d6BzkZi10z2ot5WecjH43TtZhUSwmaJnWX9VOXReDonlhucsuvJ9NgJgUgd0q/lDMU34K8bnci9op+jfBm0oOIk3WDWAUE9IkPNhlurRgQBMIVDeD0DaYq2pRXUr+R2Rcks/47tnHD1ONYn3B/vEc/bah5PZpdw4LzrwvChwnBqxGggFijuNBXDR9Sajlfa1HVZKgy3rbHHv91a6I/x38Jg8qdfzEf3hEOTm+/W/BAfO2BnZ924+X8AAAAASUVORK5CYII=" alt="facebook-icon" class="w-5 sm:w-6 h-5 sm:h-6 object-contain"></a>
+
+              <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" class="hover:scale-125 transition-transform 
+                duration-300 ease-in-out">
+
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAcNJREFUeAGVVMtRAkEQ7V5/pV7GA4hQhWMEEoJEoEbAGoEaAZoBZiAZaARiBGIGgz9WPbgnf8i0r5eiioIV1j7szM5Mv3799s0yIYyxZnHFH7JwSEyWZoVQy//w8eura+srK8DSilxhXtFNYbmels9CBs9dLcaewyhyTcoXbX29uCmFkg0pYxhrTb64eYO8NyURMAmS5TJ6dOezkgsFa9c3yg2KiQLPx4q3sNrfm8fEClFzopq2uexrwrRGIu2X7v2FnkUr27qPNlpggvbYzqdVzJVsjUUaKhknQjAhof35TtU47lTHzwdplBUAyQ7CbT0/ddBxQr2CL3iUVnQCpD/X3wGA8T0+AGWna89d1wDvMyY+zAQS+DmjY69HbnRdROUkkwkEPkgMBFHrwzUVGSxqmLbTQCaEVdXzG+UmMx9BTAsKHSDvYkvNVc3EROOlexei8ikcXBEGA0lErmqBVCbwSDyw8hijJ3eC4YT+CHUtfcuASaIBqmnf9I9Y+qJaAuB9CyCgDWC9hLlcqTIrWYvli+U6dIIZ6SKKHlqJIWGwELe3nuk3MAzc+K8P3o9jF/NwTZ2KYccH3k7LZQneIMHtqMi/3xit8l/rq0YAAAAASUVORK5CYII=" alt="instagram-icon" class="w-5 sm:w-6 h-5 sm:h-6 object-contain"></a>
+
+              <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer" class="hover:scale-125 transition-transform 
+                duration-300 ease-in-out">
+                
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAYAAABPeYUaAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAWpJREFUeAGNUtFNAkEQnVmI4Y/98ARBYe3g6IAOtASsQFuwAumAWIIViB1gBS4/Cl+sXxATeM7cAV7OhTjJ5XYzs+/NmzdMEqfNi36FzQ0xd+XqCGSJ5V8IEAUGBTl6yQUCxgzzPJt5z0n7cmBgRlqkBUzs8/NmWgQRAAs2dQZcRpSTTOYf015V0K6Fxn8vuReCD/TP2JEniUtNjoq3MkCj1X0/a3VGzaZzMZDKujLODifrLYh0EqlzIm0Ag5fGeee+nFzVMvnCz84wqVaKygDwJN+rDPxRO7PW2V0u+N/ODR0JVkcMLXJEolqNbKyuurXOxlH4Th+LrIfVkoaHBl9VNpFT/5PJ5+RF863uQjmdtF0qegkMr51MhKlfLpp/Tq/oSPBmLa4acQmexUJ1YKSsyg5mr4smEhcb4Gv/yLDbLxwhhbonG6xkrAU5EMnSQZ1K1bEY+371mScEJTLDbO0Ptat2Ft2IzWUXP1Zdpzvw7OpSAAAAAElFTkSuQmCC" alt="youtube-icon" class="w-5 sm:w-6 h-5 sm:h-6 object-contain"></a>
+            </div>
+          </div>
+
+          <!-- Column 2 : Contact -->
+          <div class="flex flex-col items-start gap-4 sm:gap-8">
+            <h5 class="text-base sm:text-lg md:text-xl font-semibold text-black" data-translate="footer_contact_center">Contact Center</h5>
+
+            <div class="flex flex-col items-start gap-3 sm:gap-5">
+              <div class="flex text-start gap-2 sm:gap-4">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAATCAYAAABPwleqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAg1JREFUeAF9U91xGkEMlnbBjH8ecAcLyUMm4yNHB6YDOrA7ACogVBBcgXEFSQekA+8knkxeYrYDMxMCQ7hbRdrLMgc23pe70+rTp++TDmHvmGRxrUFdEVAKgHUAmiOgBcTJr2/Hd+Vc3ILePRms1qYcMAIgQouEjpAMIlz+T3N+s+64n+duC94BEo185WTsLM63hdOVUZm/ZvbhfgFoJMtZM1mSSRcpvHJEkuRx/jQwS0CBuhXGx4fTjxJ8e/H7klAPCcEggc0360Fkal4sxoCq5ynvKDFHgr7ydxwleNRTMYw8awfoqmrt3rwvuvKVTSBA1H0Vkgi+OnseNOpq7TYkadWePZy2fe7b/FnXWveCY5KHZNmfD0rGoRBd1OUL06yzxyHmfpxZEpOIzHZEVJipirH4slEy0zS2aZI/XZkClgh4fHUmmHPbYQGMSZ/q4SL3IymotLpvtpYzBfg5jEfDKHrC6JRNswzObkSTyo76sU3Ry17ckQcHBDdeYyfKYPN6hTz1BeOc+aXu9boRjXtxzszK4JlwPH4/aajQKmQDYce8cPrQwerRp4KVBjsXjWQxke1hnf2XgM3WahjuZUmetcSGxTV901pd7QKXvQDk+3JcxRfRSmyMzJSIJrFAeBIImxPjdmQ872BlMKfwh7Hj7Ch2IzA6fhC8X+AQ8CC4KMBblPGWVc5s+d8un3+9KRrKrhA1aAAAAABJRU5ErkJggg==" alt="location-icon" class="w-5 sm:w-6 h-5 sm:h-6 object-contain">
+                <span class="text-sm sm:text-base font-medium text-black" data-translate="contact_location">Headquarters
+                  No. 8, Chuangye Road, Haidian District, Beijing, China</span>
+              </div>
+
+              <div class="flex text-start gap-2 sm:gap-4">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAf9JREFUeAGllO1t20AMhslTYiNJCygbnIT+CILIVSeoPEG9QT1CMkGcCZpO0HSDbGBnAguJ0X+xtYEF1F8BqmPJk2VYaepILQFB4vH0iEe+FMKW6ZOl3jirVZokxynUNLSg02monEafXbccxd74/uAKapgFesFigkAuEH4HIJsVIX7kYGQoayejt4OqwL01VSOom8fRwXkR0KezEB01VKAidgdQ0ZTNBiAhMuF2IPnxJpZsJVOoYWp9j7leWofTUg0JMJZjP19/FYjG3PHNhV97YTlMtbtsgWbfuc0d7BQB//38G4pP5msSV5cPFg/c6T47oXGePAvPGhOREfvHdYBFDYEoE725KmteWgDiVQ5uXsK/mmTpBwvSZz+jbd9vLUtQraeuXC8xsLQxXGqVmSEvp3zUD3aDafSRUJp1PX44vJDagsHu+uUBEd0hQvz4cHT7B1DMby3OWS9fiDeRemrbTVmTGwSdvOvoElmhp4gUbcZ115j6Z/OeHNVrLYb6ZKpLa8HspnQqniivNR/aUu3SawHga1JAdUjurr3yt1J/A45HRz0uyIVw1H5z4gdcu1X66sSoXcHx/eG1cdAjJJ5r7Bbgd2sVvGQIFU0Hsy6S+swdjfIVSnmS5EMJgemIMlgFXmXgBizSMvSJDHS4y2HeZWKZUTuJ5Q/1n/a8Ub8BjE7e4DFXawUAAAAASUVORK5CYII=" alt="phone-icon" class="w-5 sm:w-6 h-5 sm:h-6 object-contain">
+                <span class="text-sm sm:text-base text-black" data-translate="contact_number">+86-10-244-5641</span>
+              </div>
+
+              <div class="flex text-start gap-2 sm:gap-4">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAPCAYAAAAGRPQsAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAXVJREFUeAGtk+FNwlAQx+9eSxpATd3gUfxgjCVlA5zAEYAJoBvoBGWD4gZ1AnACSCpfoRvQqGBMyDuvhRpFCNL4/9L0+u7f3727Q3k5l1rB8AmgAfkUKSA3CssBWrXFCAgdUNiHHCJBDQQwlfZR0RMjpnqcTYptyCFpv7UQhA8r3RFJgJ1vLXvhJyUfY2TVlh0B6GXvYgMbs2VLFIxBtfbePGQir+ZO1V4OgKDHeeYPM8YMFKg2JbZE/X2UUs5NpvGEZozShhHdc7K7RcYtCU/6pOENAT1sKEec2M2+X1y/NvDU4GZBlwiGSlP16XP5TpGKszP69z9H42LEj5a0XwIE3UMCz7KXHQL1pEA0MbkOhe5sUurBDoldwSg8C2ZhqZKWwdXxNTTXNKI+3WP0i2xbSRnSod6aGmM4IP3Qgb+YZBLwj0rNeLdMyCmh4CsXKzx8vAHJfg0hh3iUHLaJeTfrOs9WG1bkA6bBowmJcEi6cqPxefwJg0uXs6vHUJIAAAAASUVORK5CYII=" alt="email-icon" class="w-5 sm:w-6 h-5 sm:h-6 object-contain">
+                <span class="text-sm sm:text-base text-black" data-translate="contact_email">global@apexelectric.com</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Column 3 : Hours -->
+          <div class="flex flex-col items-start gap-4 sm:gap-8">
+            <h5 class="text-base sm:text-lg md:text-xl font-semibold text-black" data-translate="footer_office_hours">Office Hours</h5>
+
+            <div class="flex flex-col items-start gap-2 sm:gap-4">
+              <div class="flex justify-between items-center gap-2 sm:gap-4 w-full">
+                <span class="text-sm sm:text-base font-normal text-black" data-translate="weekday_date">MON - FRI</span>
+                <span class="text-sm sm:text-base font-normal text-black" data-translate="weekday_time">9:00 AM - 6:00 PM</span>
+              </div>
+
+              <div class="flex justify-between items-center gap-2 sm:gap-4 w-full">
+                <span class="text-sm sm:text-base font-normal text-black" data-translate="sat_date">SAT</span>
+                <span class="text-sm sm:text-base font-normal text-black" data-translate="sat_time">10:00 AM - 5:00 PM</span>
+              </div>
+
+              <div class="flex justify-between items-center gap-2 sm:gap-4 w-full">
+                <span class="text-sm sm:text-base font-normal text-black" data-translate="sun_date">SUN</span>
+                <span class="text-sm sm:text-base font-semibold text-[#222DF6]" data-translate="close_time">Closed</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="flex flex-col sm:flex-row justify-between px-5 md:px-10 mt-15 md:mt-30 gap-6 sm:gap-0">
+          <span class="text-sm sm:text-base font-normal text-black" data-translate="footer_copyright">© 2026 Apex Electric. All rights reserved.</span>
+          
+          <div class="flex items-center overflow-x-auto scrollbar-none gap-3 sm:gap-6">
+            <a href="#" onclick="return false;" class="text-sm sm:text-base font-normal text-black" data-translate="footer_privacy">Privacy Policy</a>
+            <a href="#" onclick="return false;" class="text-sm sm:text-base font-normal text-black" data-translate="footer_terms">Terms of Use</a>
+            <a href="#" onclick="return false;" class="text-sm sm:text-base font-normal text-black" data-translate="footer_recalls">Safety Recalls</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+  </section>
+
+  <script src="./Apex Javascript/apex-all-car-models.js"></script>
+	
+</body>
+</html>
